@@ -11,7 +11,7 @@ import numpy as np
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 
-#-----STREAMLIT SETTINGS-----
+# ---------- STREAMLIT SETTINGS ----------
 st.set_page_config(page_title="Medical Image Parser", layout="centered")
 st.title("MedicalAI (Agentic Medical Report AI Analyser)")
 st.write("Upload a medical lab image → Extract table → Interpret findings")
@@ -22,7 +22,7 @@ temp_extract = st.sidebar.slider("Temperature (Extractor)", 0.0, 1.0, 0.0, 0.1)
 temp_interpret = st.sidebar.slider("Temperature (Interpreter)", 0.0, 1.0, 0.2, 0.1)
 max_tokens = st.sidebar.slider("Max Output Tokens", 512, 8192, 4096, 512)
 
-#-----AGENTS-----
+# ---------- AGENTS ----------
 
 # Agent 1 – STRICT table extractor
 extract_agent = Agent(
@@ -48,7 +48,7 @@ interpret_agent = Agent(
     markdown=False
 )
 
-#-----PROMPTS-----
+# ---------- PROMPTS ----------
 
 extract_prompt = """
 You are a STRICT medical OCR extraction AI for lab reports.
@@ -91,7 +91,7 @@ Output format only:
 - ...
 """
 
-#-----IMAGE PROCESSING-----
+# ---------- IMAGE PROCESSING ----------
 
 def analyze_image(image_path):
     img = PILImage.open(image_path)
@@ -114,7 +114,7 @@ def analyze_image(image_path):
     os.remove(temp_path)
     return extracted, interpreted
 
-#-----RAG STORE-----
+# ---------- RAG STORE ----------
 class EmbeddingManager:
     def __init__(self, model_name="all-MiniLM-L6-v2"):
         self.embedder = SentenceTransformer(model_name, device="cpu")
@@ -166,7 +166,7 @@ Answer succinctly. If answer isn't in context, say "Not available in report."
     except Exception as e:
         return f"QnA error: {e}"
 
-#-----SESSION STATE-----
+# ---------- SESSION STATE-----
 if "analysis_report" not in st.session_state:
     st.session_state.analysis_report = None
 if "conversation" not in st.session_state:
@@ -174,7 +174,7 @@ if "conversation" not in st.session_state:
 if "rag_store" not in st.session_state:
     st.session_state.rag_store = EmbeddingManager()
 
-#-----MAIN UI-----
+# ---------- MAIN UI ----------
 uploaded = st.sidebar.file_uploader("Upload medical report image", type=["jpg","jpeg","png"])
 
 if uploaded:
@@ -202,7 +202,7 @@ if uploaded:
 else:
     st.info("Upload a report image to begin.")
 
-#-----RAG CHAT-----
+# ---------- RAG CHAT ----------
 if st.session_state.analysis_report:
     st.divider()
     st.subheader("Ask questions about the analyzed report")

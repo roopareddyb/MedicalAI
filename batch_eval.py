@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
 
-# ========= Paths =========
+# ---------- Paths ----------
 IMG_DIR = "dataset/images"
 GT_DIR = "dataset/ground_truth"
 PRED_DIR = "dataset/results/predictions"
@@ -21,7 +21,7 @@ RESULTS_FILE = "dataset/results/scores.csv"
 os.makedirs(PRED_DIR, exist_ok=True)
 os.makedirs("dataset/results", exist_ok=True)
 
-# ========= Models =========
+# ---------- Models ----------
 extract_agent = Agent(
     model=Gemini(
         id="gemini-2.0-flash",
@@ -44,7 +44,7 @@ interpret_agent = Agent(
     markdown=False
 )
 
-# ========= Prompts =========
+# ---------- Prompts ----------
 extract_prompt = """
 You are a STRICT medical OCR extraction AI for lab reports.
 
@@ -76,7 +76,7 @@ Output:
 ### Model Confidence (0-100%)
 """
 
-# ========= Helpers =========
+# ---------- Helpers ----------
 def analyze_image(path):
     img = PILImage.open(path)
     w, h = img.size
@@ -101,7 +101,7 @@ def evaluate(gt, pred):
 
     return bleu, rouge
 
-# ========= Main Loop =========
+# ---------- Main Loop ----------
 results = []
 
 for file in os.listdir(IMG_DIR):
@@ -151,7 +151,7 @@ for file in os.listdir(IMG_DIR):
         "ROUGE-L": rouge["rougeL"].fmeasure
     })
 
-    time.sleep(5)  # prevent rate limiting
+    time.sleep(5)  
 
 df = pd.DataFrame(results)
 
