@@ -1,0 +1,31 @@
+### Key Findings
+- Hemoglobin: 14.1 g/dL (within reference range of 13.00-18.00 g/dL)
+- Red Cell Count: 4.95 10^6/uL (within reference range of 4.50-6.50 10^6/uL)
+- Hematocrit: 44.7 % (within reference range of 40.00-54.00 %)
+- MCV: 90.3 fL (within reference range of 76.00-96.00 fL)
+- MCH: 28.6 pg (within reference range of 27.00-32.00 pg)
+- MCHC: 31.6 g/dL (within reference range of 30.00-35.00 g/dL)
+- RDW: 13.9 % (within reference range of 11.50-14.50 %)
+- RBC morphology is described as Normocytic Normochromic.
+- WBC Count: 9.44 10^3/uL (within reference range of 4.00-11.00 10^3/uL)
+- Neutrophils: 67 % (within reference range of 40.00-70.00 %)
+- Lymphocytes: 26 % (within reference range of 15.00-40.00 %)
+- Eosinophils: 02 % (within reference range of 2.00-6.00 %)
+- Monocytes: 05 % (within reference range of 2.00-8.00 %)
+- Basophils: 00 % (within reference range of 0.00-2.00 %)
+- Absolute Neutrophils: 6.32 10^3/uL (within reference range of 1.60-7.70 10^3/uL)
+- Absolute Lymphocytes: 2.45 10^3/uL (within reference range of 0.60-4.40 10^3/uL)
+- Absolute Eosinophils: 0.19 10^3/uL (within reference range of 0.00-0.45 10^3/uL)
+- Absolute Monocytes: 0.47 10^3/uL (within reference range of 0.08-0.88 10^3/uL)
+- WBCs are described as Within Normal Limits.
+- Platelet Count: 183 10^3/uL (within reference range of 150.00-450.00 10^3/uL)
+- Platelets are described as Adequate.
+
+### Summary
+All parameters for the complete blood count (CBC), including red blood cell indices, white blood cell count and differential, and platelet count, are within their respective reference ranges. Descriptive findings for RBCs, WBCs, and Platelets are also normal.
+
+### Clinical Notes
+The provided laboratory results indicate a hematological profile entirely within normal limits. Red blood cell parameters are consistent with normocytic normochromic erythrocytes. The total white blood cell count and its differential components, along with their absolute counts, are all within the expected physiological ranges. Platelet count is adequate. No abnormalities are noted in this report.
+
+### Model Confidence (0-100%)
+100%

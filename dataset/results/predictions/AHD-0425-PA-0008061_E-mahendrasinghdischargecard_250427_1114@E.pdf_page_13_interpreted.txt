@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Hemoglobin,11.6,g/dL,13.0-17.0
+Packed Cell Volume (HCT),45.2,%,40-50
+R.B.C. Count,5.10,million/mm3,4.5-5.5
+Mean Cell Volume(MCV),88.6,fL,83-101
+Mean Cell Hemoglobin(MCH),22.7,pg,27-33
+Mean Cell Hb Conc(MCHC),25.7,%,32-38
+Total WBC Count,9200,cells/mm3,4000-11000
+Neutrophils,66,%,50-70
+Lymphocytes,24,%,20-40
+Eosinophils,4,%,1-6
+Monocytes,6,%,0-10
+Absolute Neutrophils Count,6072,/mm3,2000-7000
+Absolute Lymphocytes Count,2208,/mm3,1000-3000
+Absolute Monocytes Count,552,/mm3,200-1000
+Absolute Eosinophils Count, AEC,368,/mm3,20-500
+Platelet Count,398000,cells/mm3,N/A
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 11.6 g/dL (Low; Reference Range: 13.0-17.0 g/dL)
+- Mean Cell Hemoglobin (MCH): 22.7 pg (Low; Reference Range: 27-33 pg)
+- Mean Cell Hb Conc (MCHC): 25.7 % (Low; Reference Range: 32-38 %)
+
+### Summary
+The blood test results indicate that Hemoglobin (11.6 g/dL), Mean Cell Hemoglobin (MCH) (22.7 pg), and Mean Cell Hb Conc (MCHC) (25.7 %) are below their respective reference ranges. All other measured parameters, including Packed Cell Volume (HCT), R.B.C. Count, Mean Cell Volume (MCV), Total WBC Count, Neutrophils, Lymphocytes, Eosinophils, Monocytes, Absolute Neutrophils Count, Absolute Lymphocytes Count, Absolute Monocytes Count, and Absolute Eosinophils Count, are within their specified reference ranges. The Platelet Count is 398000 cells/mm3, for which no reference range was provided in the table.
+
+### Clinical Notes
+Based solely on the extracted table, specific clinical interpretations or diagnoses cannot be provided. The findings highlight values outside the reference range for Hemoglobin, MCH, and MCHC. These results should be interpreted by a qualified healthcare professional in conjunction with the patient's clinical history and other diagnostic information.
+
+### Model Confidence (0-100%)
+100%

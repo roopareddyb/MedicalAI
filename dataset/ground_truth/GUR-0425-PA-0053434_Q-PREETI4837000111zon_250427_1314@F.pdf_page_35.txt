@@ -1,0 +1,18 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+URINE FOR PREGNANCY NEGATIVE - -
+
+### Interpretation
+### Key Findings
+- Urine pregnancy test result: Negative
+
+### Summary
+- The urine pregnancy test was performed and the result is negative, indicating no detectable pregnancy hormone (hCG) in the urine sample.
+
+### Clinical Notes
+- A negative urine pregnancy test generally suggests that the individual is not pregnant at the time of testing.
+- If pregnancy is still suspected despite the negative result, repeat testing or a blood test may be advised.
+- Consider clinical symptoms and history for further evaluation.
+
+### Model Confidence (0-100%)
+95%

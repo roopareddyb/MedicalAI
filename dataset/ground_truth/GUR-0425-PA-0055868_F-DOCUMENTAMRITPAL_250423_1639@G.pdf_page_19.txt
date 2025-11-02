@@ -1,0 +1,47 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Blood Sugar Random 93.0 mg/dl 80-150
+Haemoglobin 11.5 L g/dl N/A
+RBC Count 4.3 L mill/cmm 4.5 - 6.5
+PCV 35.8 L % 36 - 52
+MCV 82.7 fL 80.0 - 96.0
+MCH 26.6 L pgms 27.0 - 32.0
+MCHC 32.1 % 31.5 - 34.5
+Total WBC Count 17100 H /cmm 4000 - 10000
+Neutrophil 78.0 H % 40 - 70
+Lymphocytes 20.0 % 20 - 45
+Eosinophils 1.0 % 00 - 06
+Monocytes 1.0 % 00 - 08
+Platelet Count 197000 /cmm 150000 - 450000
+Serum Sodium 139.6 Meq/L 135 - 155
+Calcium Ionized 4.62 mg/dL 4.6 - 5.3
+Serum Potassium 3.79 Meq/L 3.5 - 5.6
+Serum Chlorides 102.8 Meq/L 99 - 108
+Blood Urea 37 mg/dl 10 to 40
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 11.5 g/dl (Low, normal range not specified but generally ~13.5-17.5 g/dl for males)
+- RBC Count: 4.3 million/cmm (Low; reference: 4.5 - 6.5 million/cmm)
+- PCV (Packed Cell Volume): 35.8% (Low; reference: 36 - 52%)
+- MCH (Mean Corpuscular Hemoglobin): 26.6 pg (Low; reference: 27.0 - 32.0 pg)
+- Total WBC Count: 17,100 /cmm (High; reference: 4,000 - 10,000 /cmm)
+- Neutrophils: 78% (High; reference: 40 - 70%)
+- Blood Sugar Random: 93 mg/dl (Normal; reference: 80 - 150 mg/dl)
+- Platelet Count: 197,000 /cmm (Normal; reference: 150,000 - 450,000 /cmm)
+- Electrolytes (Sodium, Potassium, Chloride): Within normal limits
+- Calcium Ionized: 4.62 mg/dL (Normal; reference: 4.6 - 5.3 mg/dL)
+- Blood Urea: 37 mg/dl (Normal; reference: 10 - 40 mg/dl)
+
+### Summary
+The patient shows mild anemia indicated by low haemoglobin, RBC count, PCV, and MCH values. There is an elevated total white blood cell count and increased neutrophils suggestive of an acute inflammatory or infectious process. Blood sugar and electrolyte levels are within normal limits. Platelet count is normal. Other blood indices such as MCV, MCHC, lymphocytes, eosinophils, and monocytes are within or at normal limits.
+
+### Clinical Notes
+- The low haemoglobin and red cell indices point toward a mild anemia, which may require further evaluation of iron status or other causes.
+- The leukocytosis with neutrophilia may indicate an ongoing bacterial infection or inflammation.
+- Normal blood sugar and electrolytes suggest stable metabolic status.
+- Clinical correlation is advised to evaluate symptoms and possible sources of infection or inflammation.
+- Follow-up and further hematological evaluation may be warranted.
+
+### Model Confidence (0-100%)
+95%

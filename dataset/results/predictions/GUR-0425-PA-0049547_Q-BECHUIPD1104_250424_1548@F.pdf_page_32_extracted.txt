@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN,7.90,g/dL,12.0-16.0
+TOTAL LEUCOCYTE COUNT,16200,/uL,4000-11000
+POLYMORPHS,78,%,40-75
+LYMPHOCYTES,18,%,20-40
+MONOCYTES,02,%,00-10
+EOSINOPHIL,02,%,02-08
+E.S.R(WINTROBE: MATHOD),40,mm/hr,00-10 M
+RBC COUNT,3.09,million/uL,4.5-5.9
+PCV (PACKED CELL VOLUNE),23.9,%,41.0-53.0
+MCV,96.5,fL,80-100
+MCH,27.2,pg,27-31
+MCHC,31.7,g/dL,31-37
+PLATELETS COUNT,1.28,N/A,1.5-4.5
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN:** 7.90 g/dL (Reference: 12.0-16.0 g/dL) - **Low**
+-   **TOTAL LEUCOCYTE COUNT:** 16200 /uL (Reference: 4000-11000 /uL) - **High**
+-   **POLYMORPHS:** 78 % (Reference: 40-75 %) - **High**
+-   **LYMPHOCYTES:** 18 % (Reference: 20-40 %) - **Low**
+-   **E.S.R(WINTROBE: MATHOD):** 40 mm/hr (Reference: 00-10 M mm/hr) - **High**
+-   **RBC COUNT:** 3.09 million/uL (Reference: 4.5-5.9 million/uL) - **Low**
+-   **PCV (PACKED CELL VOLUNE):** 23.9 % (Reference: 41.0-53.0 %) - **Low**
+-   **PLATELETS COUNT:** 1.28 (Reference: 1.5-4.5) - **Low**
+-   **MONOCYTES:** 02 % (Reference: 00-10 %) - Normal
+-   **EOSINOPHIL:** 02 % (Reference: 02-08 %) - Normal
+-   **MCV:** 96.5 fL (Reference: 80-100 fL) - Normal
+-   **MCH:** 27.2 pg (Reference: 27-31 pg) - Normal
+-   **MCHC:** 31.7 g/dL (Reference: 31-37 g/dL) - Normal
+
+### Summary
+The patient's blood test results indicate several abnormalities. There is evidence of anemia, characterized by low hemoglobin, red blood cell count, and packed cell volume. The white blood cell count is elevated (leukocytosis), primarily due to an increase in polymorphs (neutrophilia), accompanied by a decrease in lymphocytes (lymphopenia). The erythrocyte sedimentation rate (ESR) is significantly elevated. Additionally, the platelet count is below the reference range (thrombocytopenia).
+
+### Clinical Notes
+The extracted table shows:
+-   **Anemia:** HAEMOGLOBIN, RBC COUNT, and PCV are all below their respective reference ranges. MCV, MCH, and MCHC are within normal limits, suggesting a normocytic, normochromic picture.
+-   **Leukocytosis with Neutrophilia and Lymphopenia:** TOTAL LEUCOCYTE COUNT is elevated, with a high percentage of POLYMORPHS and a low percentage of LYMPHOCYTES. MONOCYTES and EOSINOPHIL percentages are within normal limits.
+-   **Elevated Inflammatory Marker:** E.S.R is significantly increased.
+-   **Thrombocytopenia:** PLATELETS COUNT is below the lower limit of the reference range.
+
+### Model Confidence (0-100%)
+100%

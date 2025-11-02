@@ -1,0 +1,11 @@
+### Key Findings
+-   Elevated ESR (54 mm/1st. hr.; Reference Range: 0-20 mm/1st. hr.)
+
+### Summary
+The patient's Erythrocyte Sedimentation Rate (ESR) is elevated at 54 mm/1st. hr., which is above the reference range of 0-20 mm/1st. hr.
+
+### Clinical Notes
+This report is based solely on the provided lab data. Interpretation of this finding requires correlation with the patient's clinical history, symptoms, and other diagnostic tests. An elevated ESR is a non-specific marker of inflammation and can be associated with various conditions.
+
+### Model Confidence (0-100%)
+100%

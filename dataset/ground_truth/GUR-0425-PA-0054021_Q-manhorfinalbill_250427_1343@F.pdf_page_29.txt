@@ -1,0 +1,59 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN 12.5 gm% 13.0 - 18.0
+TOTAL LEUCOCYTE COUNT 18900 /Cu mm 4000 - 11000
+Neutrophils 88 % 45 - 75
+Lymphocytes 08 % 20 - 45
+Eosinophils 02 % 01 - 06
+Monocytes 02 % 02 - 08
+Basophils 00 % 00 - 02
+E.S.R. (Westergren Method) in First hour 42 mm 0 - 15
+PLATELET COUNT 2.46 Lakh/cumm 1.5 - 4.0
+TOTAL R.B.C. COUNT 4.44 Million/Cu mm 4.2 - 5.4
+P.C.V./ Haematocrit Value 39.7 % 36 - 48
+MCV 89.41 fL 77 - 93
+M C H 28.15 pg 27 - 32
+M C H C 31.49 g/dl 32 - 36
+C.R.P. (Quantitative) 65.1 mg/dl < 6.0 mg/dl
+BLOOD SUGAR Random 280 mg/dl 70 - 140
+SERUM BILIRUBIN TOTAL 1.5 mg/dL 0.2 - 1.2
+SERUM BILIRUBIN DIRECT 0.6 mg/dL up to 0.2
+SERUM BILIRUBIN INDIRECT 0.9 mg/dL 0.2 - 0.6
+S.G.O.T. N/A U/L 0 - 45
+S.G.P.T. N/A U/L 0 - 49
+SERUM ALKALINE PHOSPHATASE 176 IU/L 100 - 250
+TOTAL PROTEINS 4.8 Gm/dL 6.0 - 8.3
+ALBUMIN 2.2 Gm/dL 3.2 - 5.0
+GLOBULIN 2.6 Gm/dL 2.6 - 3.3
+A : G RATIO 0.85 1.5 - 2.5:1
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 12.5 gm% (slightly low; reference 13.0 - 18.0)
+- Total Leucocyte Count: 18,900 /Cu mm (elevated; reference 4,000 - 11,000)
+- Neutrophils: 88% (elevated; reference 45 - 75%)
+- Lymphocytes: 8% (decreased; reference 20 - 45%)
+- ESR: 42 mm/hr (elevated; reference 0 - 15 mm/hr)
+- CRP: 65.1 mg/dl (markedly elevated; reference < 6.0 mg/dl)
+- Random Blood Sugar: 280 mg/dl (high; reference 70 - 140 mg/dl)
+- Serum Bilirubin Total: 1.5 mg/dL (mildly elevated; reference 0.2 - 1.2 mg/dL)
+- Serum Bilirubin Direct: 0.6 mg/dL (elevated; normal up to 0.2 mg/dL)
+- Serum Bilirubin Indirect: 0.9 mg/dL (elevated; reference 0.2 - 0.6 mg/dL)
+- Total Proteins: 4.8 g/dL (low; reference 6.0 - 8.3 g/dL)
+- Albumin: 2.2 g/dL (low; reference 3.2 - 5.0 g/dL)
+- A:G Ratio: 0.85 (low; reference 1.5 - 2.5)
+- MCHC: 31.49 g/dl (slightly low; reference 32 - 36)
+
+### Summary
+The lab results indicate anemia with low hemoglobin and low MCHC. There is significant leukocytosis mainly due to neutrophilia, suggesting an acute bacterial infection or inflammatory response. The marked elevation in CRP and ESR supports active inflammation. Blood glucose is high, consistent with hyperglycemia or poorly controlled diabetes. Mild hyperbilirubinemia with both direct and indirect fractions elevated suggests possible hepatic dysfunction or hemolysis. Low total proteins and albumin may reflect nutritional deficiency, chronic illness, or liver dysfunction. The decreased A:G ratio may indicate increased globulins relative to albumin, consistent with inflammation or liver disease.
+
+### Clinical Notes
+- Elevated WBC with neutrophilia, high ESR and CRP strongly point toward an ongoing infection or significant inflammation.
+- Hyperglycemia warrants evaluation for diabetes mellitus and consideration of diabetic control.
+- Mild hyperbilirubinemia and low albumin suggest possible liver involvement; liver enzymes SGOT/SGPT were not available for interpretation.
+- Anemia is present; further evaluation for cause (nutritional, chronic disease, or hemolysis) is advised.
+- Low albumin and protein levels should prompt assessment for nutritional status and chronic illness.
+- Follow-up with clinical correlation and additional testing (liver function tests, blood cultures, HbA1c) is recommended.
+
+### Model Confidence (0-100%)
+95%

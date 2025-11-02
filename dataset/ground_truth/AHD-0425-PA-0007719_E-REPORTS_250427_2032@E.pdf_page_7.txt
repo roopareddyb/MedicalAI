@@ -1,0 +1,52 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin 9.10 [L] gm/dl 13.0-17.0 gm/dl
+Total R.B.C. Count 3.19 [L] mill/cmm 4.5-5.5 mill/cmm
+Haematocrit (PCV/HCT) 27.20 [L] % 40.0-50.0 %
+Mean Corpuscular Volume (M.C.V.) 85.30 fl 83.0-95.0 fl
+Mean Corpuscular Hb (M.C.H.) 28.50 Pg 27.0-32.0 Pg
+Mean-Corpuscular Hb Conc (M.C.H.C.) 33.50 g/dl 31.5-34.5 g/dl
+Red cell Distribution Width (R.D.W.-CV) 16.5 [H] % 11.6-14.6 %
+Total W.B.C. Count 10560 [H] /ul 4000-10000 /ul
+Neutrophils 87.7 [H] % 40-70 %
+Lymphocytes 5.9 [L] % 20-40 %
+Eosinophils 0.7 [L] % 1-6 %
+Monocytes 5.5 % 2-10 %
+Basophils 0.2 % 0-1 %
+Platelet Count 370 /uL 150-450 /uL
+MPV 9.4 fL 6.78-13.46 fL
+IMMATURE PLATELET FRACTION 2.90 % 0-5 %
+Neutrophils (abs) 9261.12 [H] /uL 1575-8800 /uL
+Lymphocytes (abs) 623.04 [L] /uL 1125-4950 /uL
+Eosinophils (abs) 73.92 /uL 0-400 /uL
+Monocytes (abs) 580.80 /uL 0-1000 /uL
+Basophils (abs) 21.12 /uL 0-100 /uL
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 9.10 gm/dL (Low; reference: 13.0-17.0 gm/dL)
+- Total RBC Count: 3.19 million/cmm (Low; reference: 4.5-5.5 million/cmm)
+- Haematocrit (PCV/HCT): 27.20% (Low; reference: 40.0-50.0%)
+- Red cell Distribution Width (RDW-CV): 16.5% (High; reference: 11.6-14.6%)
+- Total WBC Count: 10,560 /uL (High; reference: 4,000-10,000 /uL)
+- Neutrophils: 87.7% (High; reference: 40-70%)
+- Lymphocytes: 5.9% (Low; reference: 20-40%)
+- Eosinophils: 0.7% (Low; reference: 1-6%)
+- Neutrophils (absolute): 9,261 /uL (High; reference: 1,575-8,800 /uL)
+- Lymphocytes (absolute): 623 /uL (Low; reference: 1,125-4,950 /uL)
+
+Other parameters including MCV, MCH, MCHC, platelet count, and others are within normal limits.
+
+### Summary
+The patient exhibits anemia with low haemoglobin, low RBC count, and low hematocrit values. The elevated RDW suggests variation in red blood cell size, which often indicates mixed or evolving anemia. There is leukocytosis predominantly due to neutrophilia, accompanied by marked lymphopenia and mild eosinopenia. Platelet counts and other red blood cell indices are normal.
+
+### Clinical Notes
+- The findings are consistent with an anemic state likely due to decreased RBC production or increased destruction.
+- The elevated WBC count with neutrophilia and lymphopenia may indicate an acute infection or inflammatory response.
+- Elevated RDW with low MCV toward the lower limit can be seen in early iron deficiency or other nutritional anemias.
+- The low eosinophils might reflect a stress response.
+- Correlation with clinical presentation, reticulocyte count, iron studies, and infection workup is advised.
+- Further evaluation to identify cause of anemia and underlying infection/inflammation is recommended.
+
+### Model Confidence (0-100%)
+95%

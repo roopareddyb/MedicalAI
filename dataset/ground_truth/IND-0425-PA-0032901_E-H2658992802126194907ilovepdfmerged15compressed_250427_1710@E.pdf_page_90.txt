@@ -1,0 +1,50 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 11.80 gms/dl 13.0 - 17.0
+Erythrocytes 3.81 mill/cmm 3.8 - 4.8
+Haemotocrit 35.90 % 40 - 50
+Leucocytes 7300 /cu.mm 4000 - 10000
+Neutrophils 83.00 % 40 - 75
+Lymphocytes 11.20 % 20 - 40
+Monocytes 5.00 % 2 - 10
+Eosinophils 0.70 % 1 - 6
+Basophils 0.10 % 1 - 2
+Neutrophils # 6.06 x1000/cumm 2 - 7
+Lymphocytes # 0.82 x1000/cumm 1 - 3
+Monocytes # 0.37 x1000/cumm 0.2 - 1
+Eosinophils # 0.05 x1000/cumm 0.02 - 0.5
+Basophils # 0.01 x1000/cumm 0.02 - 0.1
+Platelets 0.85 lacs/cumm 1.5 - 4.5
+Mean Platelet Volume 11.30 fL 7.5 - 12.0
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 11.8 g/dL (Low; reference 13.0 - 17.0)
+- Erythrocytes (RBC): 3.81 million/cmm (Low-normal; reference 3.8 - 4.8)
+- Hematocrit: 35.9% (Low; reference 40 - 50%)
+- Leucocytes (WBC): 7300 /cu.mm (Normal; reference 4000 - 10000)
+- Neutrophils: 83% (High; reference 40 - 75%)
+- Lymphocytes: 11.2% (Low; reference 20 - 40%)
+- Monocytes: 5% (Normal)
+- Eosinophils: 0.7% (Low; reference 1 - 6%)
+- Basophils: 0.1% (Low; reference 1 - 2%)
+- Absolute neutrophil count: 6.06 x1000/cumm (Normal-high; reference 2 - 7)
+- Absolute lymphocyte count: 0.82 x1000/cumm (Low; reference 1 - 3)
+- Absolute monocyte count: 0.37 x1000/cumm (Normal)
+- Absolute eosinophil count: 0.05 x1000/cumm (Normal)
+- Absolute basophil count: 0.01 x1000/cumm (Low; reference 0.02 - 0.1)
+- Platelets: 0.85 lakh/cumm (Low; reference 1.5 - 4.5 lakh/cumm)
+- Mean Platelet Volume (MPV): 11.3 fL (Normal; reference 7.5 - 12.0)
+
+### Summary
+The report reveals anemia characterized by low hemoglobin, hematocrit, and borderline low RBC count. There is significant neutrophilia with elevated neutrophil percentage and normal-high absolute counts. Lymphopenia is present both in percentage and absolute count. Platelet count is low, although MPV is normal. Other white cell types are within or slightly below normal ranges.
+
+### Clinical Notes
+- The anemia is mild and could be due to various causes including nutritional deficiency, chronic disease, or bone marrow suppression.
+- Neutrophilia with lymphopenia may indicate acute inflammation or infection, possibly bacterial.
+- Low platelet count warrants evaluation for causes such as bone marrow suppression, increased destruction, or sequestration.
+- Low basophil and eosinophil percentages with normal absolute counts are less clinically significant.
+- Correlation with clinical history, symptoms, and additional tests (iron studies, vitamin B12/folate, infection markers) recommended for comprehensive evaluation.
+
+### Model Confidence (0-100%)
+95%

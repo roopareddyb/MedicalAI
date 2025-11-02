@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name, Result, Unit, Reference Range
+HB (HAEMOGLOBIN), 8.7, g/dL, 12-16
+TLC, 19800, /cc.mm, 4000-11000
+NEUTROPHILS, 78, %, 40-70
+LYMPHOCYTES, 18, %, 20-40
+MONOCYTE, 2, %, 2-8
+EOSINOPHILS, 2, %, 1-5
+BASHOPHILS, 0, /cu.mm, 0-1
+RBC, 3.50, million/cu.mm, 3.5-5.5
+PCV, 34.6, %, 36-48
+MCV, 78.6, fL, 76-96
+MCH, 23.6, pg, 27-32
+MCHC, 28.4, g/dL, 30-35
+PLATELATE COUNT, 1.96, lac/cu.mm, 1.5-4.5
+RDW, 14.6, %, 11-16
+PCT, 0.25, %, 0.08-1
+MPV, 8.6, fL, 6-10
+
+### Interpretation
+### Key Findings
+-   **HB (HAEMOGLOBIN)**: 8.7 g/dL (Reference Range: 12-16 g/dL) - **Low**
+-   **TLC**: 19800 /cc.mm (Reference Range: 4000-11000 /cc.mm) - **High**
+-   **NEUTROPHILS**: 78 % (Reference Range: 40-70 %) - **High**
+-   **LYMPHOCYTES**: 18 % (Reference Range: 20-40 %) - **Low**
+-   **PCV**: 34.6 % (Reference Range: 36-48 %) - **Low**
+-   **MCH**: 23.6 pg (Reference Range: 27-32 pg) - **Low**
+-   **MCHC**: 28.4 g/dL (Reference Range: 30-35 g/dL) - **Low**
+
+### Summary
+The blood report indicates several values outside the normal reference ranges. Hemoglobin, PCV, MCH, and MCHC are all below their respective lower limits. The Total Leukocyte Count (TLC) is elevated, primarily driven by an increase in Neutrophils, while Lymphocytes are decreased.
+
+### Clinical Notes
+No clinical notes are available in the extracted table.
+
+### Model Confidence (0-100%)
+100%

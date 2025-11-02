@@ -1,0 +1,65 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Platelet Count 197000 cu.mm 150000 - 400000
+Neutrophils 68.8 % 40.0 - 75.0
+Lymphocytes 16.0 % 20.0 - 45.0
+Eosinophils 8.1 % 0.0 - 7.0
+Basophils 0.4 % 0.0 - 1.0
+Monocytes 6.7 % 2.0 - 10.0
+RDW 13.9 % 11.6 - 14.0
+IPF 20.10 % 0.70 - 9.10
+Neutrophil Absolute 6288.3 /cu mm 2000.0 - 7000.0
+Lymphocyte Absolute 1462.4 /cu mm 1000.0 - 3000.0
+Monocyte Absolute 612.4 /cu mm 200.0 - 1000.0
+Eosinophil Absolute 740.3 /cu mm 40.0 - 440.0
+Basophil Absolute 36.6 /cu mm 20.0 - 100.0
+SERUM BICARBONATE(Enzymatic) 23.0 mmol/L 22.0 - 29.0
+SERUM SODIUM (Indirect ISE) 143.0 mmol/l 135.0 - 145.0
+SERUM POTASSIUM (Indirect ISE) 3.48 mmol/l 3.50 - 5.10
+SERUM CHLORIDE (ISE / IMT) 103.2 mmol/L 98.0 - 107.0
+Blood Urea Nitrogen (Urease/GLDH) 9.10 mg/dl 6.00 - 20.00
+SERUM CREATININE (mod.Jaffe) 0.72 mg/dl 0.60 - 1.40
+GLUCOSE- Random (Hexokinase) 131 mg/dl 70 - 140
+eGFR 92.0 ml/min/1.73sq.m >60.0
+INR 0.94 N/A N/A
+Prothrombin Time Test 12.2 sec 11.4 - 15.2
+PT CONTROL 13 sec N/A N/A
+ISI Value 1.08 sec N/A N/A
+TEST RESULT Negative N/A N/A
+TEST RESULT Negative N/A N/A
+
+### Interpretation
+### Key Findings
+- Platelet count: 197,000/cu.mm (within normal range)
+- Neutrophils: 68.8% (normal), Absolute neutrophils 6,288.3/cu mm (normal)
+- Lymphocytes: 16.0% (low), Absolute lymphocytes 1,462.4/cu mm (normal)
+- Eosinophils: 8.1% (high), Absolute eosinophils 740.3/cu mm (high)
+- Basophils: 0.4% (normal), Absolute basophils 36.6/cu mm (normal)
+- Monocytes: 6.7% (normal), Absolute monocytes 612.4/cu mm (normal)
+- RDW (Red cell distribution width): 13.9% (normal)
+- IPF (Immature Platelet Fraction): 20.10% (elevated)
+- Serum Bicarbonate: 23.0 mmol/L (normal)
+- Electrolytes:
+  - Sodium: 143.0 mmol/L (normal)
+  - Potassium: 3.48 mmol/L (slightly below normal)
+  - Chloride: 103.2 mmol/L (normal)
+- Kidney function:
+  - Blood Urea Nitrogen: 9.10 mg/dl (normal)
+  - Serum Creatinine: 0.72 mg/dl (normal)
+  - eGFR: 92 ml/min/1.73m² (normal)
+- Blood glucose (random): 131 mg/dl (normal)
+- Coagulation profile:
+  - INR: 0.94 (normal)
+  - Prothrombin time: 12.2 sec (normal)
+
+### Summary
+The overall hematologic picture shows a normal platelet count with an elevated immature platelet fraction, suggesting increased platelet turnover. Neutrophils are within normal limits, while lymphocytes are mildly decreased. There is a mild eosinophilia both in percentage and absolute count, which may indicate an allergic reaction, parasitic infection, or other causes of eosinophilia. Electrolytes are essentially within normal limits except for a slight decrease in potassium. Renal function is normal with a good eGFR. Random glucose is within normal range. Coagulation parameters are normal.
+
+### Clinical Notes
+- Elevated IPF may suggest increased platelet production possibly due to peripheral destruction or consumption.
+- Mild lymphopenia and eosinophilia should be correlated clinically to rule out causes such as allergic conditions, infections, or immunologic diseases.
+- Slightly low potassium (3.48 mmol/L) may warrant monitoring and possible dietary or medical intervention if persistent.
+- Other parameters, including renal function, glucose, and coagulation studies, are within normal limits indicating no immediate concerns in these areas.
+
+### Model Confidence (0-100%)
+95%

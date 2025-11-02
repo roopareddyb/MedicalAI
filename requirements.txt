@@ -1,0 +1,12 @@
+streamlit
+Pillow
+agno
+google-genai
+duckduckgo-search
+nltk
+rouge-score
+sentence_transformers
+chromadb
+langchain
+langchain-community
+langchain-huggingface

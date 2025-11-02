@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 14.3 gm% 13.5 - 18
+R.B.C. count 4.71 mil./cmm. 4.5 - 6.5
+Packed Cell Volume 40.9 % 40 - 54
+Total WBC Count 13900 /cumm 4000 - 10500
+Neutrophil 88 % 40 - 70
+Lymphocytes 10 % 20 - 45
+Monocytes 01 % 2 - 8
+Eosinophil 01 % 1 - 5
+Basophil 00 % 0 - 1
+MCV 86.84 fL 82 - 97
+MCH 30.36 pg 27 - 32
+MCHC 35.0 % 32 - 36
+R.D.W. 12.6 % 11 - 16
+Platelet Count 2.29 Lacs/cumm 1.5 - 4.5
+
+### Interpretation
+### Key Findings
+- Total WBC Count: Elevated at 13,900 /cumm (Reference: 4,000 - 10,500)
+- Neutrophils: Elevated at 88% (Reference: 40 - 70%)
+- Lymphocytes: Low at 10% (Reference: 20 - 45%)
+- Monocytes: Low at 1% (Reference: 2 - 8%)
+- Hemoglobin, RBC count, PCV, MCV, MCH, MCHC, RDW, and Platelet Count are within normal reference ranges.
+
+### Summary
+The patient’s lab results show leukocytosis characterized by a high total white blood cell count and neutrophilia, with a concurrent decrease in lymphocytes and monocytes. Red blood cell parameters and platelet count are normal.
+
+### Clinical Notes
+- The elevated total WBC count and neutrophilia commonly suggest an acute bacterial infection or inflammatory process.
+- Lymphopenia and monocytopenia may reflect redistribution or consumption in the inflammatory response.
+- Normal hemoglobin and red cell indices indicate no anemia or red cell disorder currently.
+- Platelet counts within normal range reduce the concern for thrombocytopenia.
+- Correlation with clinical findings and possible further investigations for source of infection or inflammation is recommended.
+
+### Model Confidence (0-100%)
+95%

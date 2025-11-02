@@ -1,0 +1,20 @@
+### Key Findings
+- **Haemoglobin:** 9.10 gm/dL (Low, Reference Range: 13.0-17.0 gm/dL)
+- **Total R.B.C. Count:** 3.19 mill/cmm (Low, Reference Range: 4.5-5.5 mill/cmm)
+- **Haematocrit (PCV/HCT):** 27.20 % (Low, Reference Range: 40.0-50.0%)
+- **Red cell Distribution Width (R.D.W.CV):** 16.5 % (High, Reference Range: 11.6-14.6%)
+- **Total W.B.C. Count:** 10560 /uL (High, Reference Range: 4000-10000 /uL)
+- **Neutrophils:** 87.7 % (High, Reference Range: 40-70%)
+- **Lymphocytes:** 5.9 % (Low, Reference Range: 20-40%)
+- **Eosinophils:** 0.7 % (Low, Reference Range: 1-6%)
+- **Neutrophils (abs):** 9261.12 /uL (High, Reference Range: 1575-8800 /uL)
+- **Lymphocytes (abs):** 623.04 /uL (Low, Reference Range: 1125-4950 /uL)
+
+### Summary
+The complete blood count shows several abnormal findings. Red blood cell parameters indicate low Haemoglobin (9.10 gm/dL), Total R.B.C. Count (3.19 mill/cmm), and Haematocrit (27.20 %), with an elevated Red cell Distribution Width (16.5 %). White blood cell parameters reveal an elevated Total W.B.C. Count (10560 /uL), primarily driven by high Neutrophils (87.7 % and 9261.12 /uL absolute). Conversely, Lymphocytes are low (5.9 % and 623.04 /uL absolute), and Eosinophils are also low (0.7 %). Other measured parameters, including M.C.V., M.C.H., M.C.H.C., Monocytes, Basophils, Platelet Count, MPV, and IMMATURE PLATELET FRACTION, are within their respective reference ranges.
+
+### Clinical Notes
+No clinical notes are provided in the extracted table.
+
+### Model Confidence (0-100%)
+100%

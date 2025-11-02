@@ -1,0 +1,15 @@
+### Key Findings
+- Elevated Erythrocyte Sedimentation Rate (ESR) at 70 mm/hr (Reference Range: 0-15 mm/hr).
+- Decreased Haemoglobin (Hb) at 12.4 % (Reference Range: 13-17 %).
+- Decreased Haematocrit (PCV) at 37.0 % (Reference Range: 40-50 %).
+- Decreased Total RBC Count at 4.18 mill/cumm (Reference Range: 4.5-5.5 mill/cumm).
+- Elevated activated Partial Thromboplastin Time (aPTT) (Test) at 31.8 sec (Reference Range: 26.8-30.7 sec).
+
+### Summary
+The patient's blood group is O Positive. The report indicates several abnormalities including a significantly elevated Erythrocyte Sedimentation Rate (ESR) of 70 mm/hr. Red blood cell parameters show decreased Haemoglobin (12.4 %), Haematocrit (37.0 %), and Total RBC Count (4.18 mill/cumm). Coagulation studies reveal an elevated aPTT (Test) of 31.8 sec, with an aPTT (Control) of 28.0 sec. The "Test" value for another coagulation parameter is 14.4 Seconds (Reference Range: 11-15 Seconds) with a "Control" of 14.0 Seconds. Most other parameters, including Total WBC Count (8900 cells/cumm), Platelet Count (198 thous/cumm), MCV (88.6 fL), MCH (29.6 pg), MCHC (33.5 %), and differential leukocyte counts (Polymorphs 73 %, Lymphocytes 20 %, Eosinophils 01 %, Monocytes 06 %, Basophilis 00 %), are within their respective reference ranges.
+
+### Clinical Notes
+This report is generated solely based on the provided laboratory test results table. It highlights values outside the specified reference ranges. No clinical interpretation, diagnosis, or treatment recommendations are provided, as this falls outside the scope of interpreting only the extracted table. Further clinical correlation with the patient's medical history and physical examination is necessary for a comprehensive assessment.
+
+### Model Confidence (0-100%)
+100%

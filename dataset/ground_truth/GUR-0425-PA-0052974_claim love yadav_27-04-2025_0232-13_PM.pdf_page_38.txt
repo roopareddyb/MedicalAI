@@ -1,0 +1,41 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin (HB) 9.9 gm/dL 11.5 - 15.5
+TLC 5310 10^3/[spl]L 5000 - 13000
+Neutrophils 68 % 45 - 65
+Lymphocytes 24 % 35 - 45
+Monocytes 07 % 2 - 8
+Eosinophils 01 % 1 - 6
+Basophils 00 % 0 - 1
+RBC Count 4.1 million/md 3.9 - 6.2
+PCV (Haematocrit) 29.9 % 40 - 50
+MCV 72.4 fl 77 - 95
+MCH 23.2 pg 27 - 31
+MCHC 32.1 % 33 - 37
+Platelet Count 2.15 10^3/[spl]L 1.5 - 4
+RDW 15.7 11.5 - 14.5
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 9.9 gm/dL (Low; reference 11.5 - 15.5)
+- Packed Cell Volume (PCV/Hematocrit): 29.9% (Low; reference 40 - 50)
+- Mean Corpuscular Volume (MCV): 72.4 fl (Low; reference 77 - 95)
+- Mean Corpuscular Hemoglobin (MCH): 23.2 pg (Low; reference 27 - 31)
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 32.1% (Slightly low; reference 33 - 37)
+- Red Cell Distribution Width (RDW): 15.7 (High; reference 11.5 - 14.5)
+- Neutrophils: 68% (Slightly elevated; reference 45 - 65)
+- Lymphocytes: 24% (Low; reference 35 - 45)
+- Other parameters including TLC, RBC count, platelet count, monocytes, eosinophils, and basophils are within normal limits.
+
+### Summary
+The patient has anemia characterized by low hemoglobin, hematocrit, MCV, MCH, and MCHC, suggestive of a microcytic hypochromic anemia pattern. Elevated RDW suggests significant variation in red blood cell size. Mild neutrophilia and relative lymphopenia may indicate a response to inflammation or infection. Platelet count is normal.
+
+### Clinical Notes
+- The microcytic hypochromic anemia pattern often suggests iron deficiency anemia or chronic disease anemia; further evaluation with iron studies, ferritin, and possibly hemoglobin electrophoresis may be warranted.
+- Elevated RDW supports a diagnosis of iron deficiency anemia or mixed anemia.
+- Neutrophil predominance could reflect an ongoing inflammatory or infectious process.
+- Clinical correlation is essential to determine underlying causes and guide management.
+- Monitoring and possibly treating anemia may be required depending on clinical assessment.
+
+### Model Confidence (0-100%)
+95%

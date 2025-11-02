@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN (Hb),13.4,g/dL,13.5-18.0
+TOTAL LEUCOCYTE COUNT (TLC),20,400,/uL,4000-11000
+NEUTROPHIL,77,%,40-75
+LYMPHOCYTE,18,%,20-45
+EOSINOPHIL,02,%,01-06
+MONOCYTE,03,%,02-10
+BASOPHIL,00,%,0-0
+PLATELET COUNT,2.55,Lakh/cmm,1.50-4.50
+RBC COUNT,4.34,Millions/cmm,4.5-5.5
+PC.V/HAEMATOCRIT,40.2,%,40-54
+MCV,92.63,fL,80-100
+MCH,30.88,Picogram,27.0-31.0
+MCHC,33.3,g/dL,30-35
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN (Hb)**: 13.4 g/dL (Reference Range: 13.5-18.0 g/dL) - Low
+-   **TOTAL LEUCOCYTE COUNT (TLC)**: 20,400 /uL (Reference Range: 4000-11000 /uL) - High
+-   **NEUTROPHIL**: 77 % (Reference Range: 40-75 %) - High
+-   **LYMPHOCYTE**: 18 % (Reference Range: 20-45 %) - Low
+-   **RBC COUNT**: 4.34 Millions/cmm (Reference Range: 4.5-5.5 Millions/cmm) - Low
+
+### Summary
+The laboratory report shows an elevated Total Leukocyte Count (TLC) of 20,400 /uL, which is above the reference range. This is accompanied by an increased Neutrophil percentage of 77% and a decreased Lymphocyte percentage of 18%. Additionally, the HAEMOGLOBIN (Hb) is slightly low at 13.4 g/dL, and the RBC COUNT is also slightly low at 4.34 Millions/cmm. All other tested parameters, including Eosinophil, Monocyte, Basophil, Platelet Count, PC.V/HAEMATOCRIT, MCV, MCH, and MCHC, are within their respective reference ranges.
+
+### Clinical Notes
+Based solely on the provided laboratory results:
+-   The patient exhibits leukocytosis, characterized by a significantly elevated Total Leukocyte Count (TLC).
+-   The differential count indicates neutrophilia and lymphopenia, contributing to the overall leukocytosis.
+-   There is evidence of mild anemia, suggested by HAEMOGLOBIN (Hb) and RBC COUNT values slightly below the lower limit of the reference range.
+-   Other parameters, including Platelet Count, Eosinophil, Monocyte, Basophil, PC.V/HAEMATOCRIT, MCV, MCH, and MCHC, are within normal limits.
+-   No other abnormalities are noted in the provided table.
+
+### Model Confidence (0-100%)
+100%

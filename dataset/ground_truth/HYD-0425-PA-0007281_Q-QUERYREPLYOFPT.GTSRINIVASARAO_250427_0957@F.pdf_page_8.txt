@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 16.0 gm/dL Female: 11.5 - 15.0 Male: 13.5 - 18.0
+PCV 48.0 % 36 - 46
+Total RBC Count 5.3 cells/cumm 3.8 - 4.8
+Platelet Count 2.5 Lakhs/cumm 1.5 - 5.0
+Total WBC Count 9000 cells/cumm 4000 - 11000
+Polymorphs 57 % 40 - 80
+Lymphocytes 35 % 20 - 40
+Eosinophils 3 % 01 - 06
+Monocytes 5 % 02 - 10
+Basophils 0 % 00 - 02
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 16.0 gm/dL (Normal for male: 13.5 - 18.0; elevated for female: 11.5 - 15.0)
+- PCV (Packed Cell Volume): 48.0% (slightly elevated; reference range 36 - 46%)
+- Total RBC Count: 5.3 cells/cumm (elevated; reference range 3.8 - 4.8 cells/cumm)
+- Platelet Count: 2.5 Lakhs/cumm (within normal limits; reference range 1.5 - 5.0 Lakhs/cumm)
+- Total WBC Count: 9000 cells/cumm (within normal limits; reference range 4000 - 11000 cells/cumm)
+- Differential counts (Polymorphs, Lymphocytes, Eosinophils, Monocytes, Basophils) all within normal limits.
+
+### Summary
+The patient exhibits slight erythrocytosis as evidenced by elevated hemoglobin (if female) or normal hemoglobin (if male), elevated PCV, and elevated RBC count. All platelet and white blood cell counts, including differential counts, are within normal limits, indicating no current infection or hematologic abnormality in leukocytes or platelets.
+
+### Clinical Notes
+- The elevated hemoglobin and RBC count could be normal for a male patient but suggest mild erythrocytosis in a female patient.
+- Mildly increased PCV supports the presence of relatively concentrated blood or increased red cell mass.
+- Normal WBC and platelet counts suggest no acute infection or thrombocytopenia.
+- Correlation with clinical symptoms and other investigations is recommended to evaluate for causes of erythrocytosis if applicable (e.g., dehydration, smoking, chronic hypoxia, polycythemia vera).
+
+### Model Confidence (0-100%)
+95%

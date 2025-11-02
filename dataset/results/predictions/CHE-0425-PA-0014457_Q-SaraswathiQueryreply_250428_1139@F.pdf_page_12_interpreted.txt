@@ -1,0 +1,40 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Haemoglobin,12.9,g/dL,12.0-15.0
+Haematocrit,38.5,%,36-52
+Total RBC Count,4.65,10^6/uL,3.8-4.8
+Mean Corpuscular Volume (MCV),82.8,fL,83-101
+(MCH) Mean Corpuscular Haemoglobin,27.7,pg,27-32
+(MCHC) Mean Corpuscular Haemoglobin Concentration,33.5,g/dL,31.5-34.5
+RDW-CV,15.9,%,12.2-16.1
+Total WBC Count,14.63,10^3/uL,4-11
+Neutrophil,83.6,%,40-75
+Lymphocyte,11.4,%,20-40
+Monocyte,4.9,%,2-10
+Eosinophil,0.0,%,1-6
+Basophil,0.1,%,0-1
+Absolute Neutrophil Count (ANC),12.23,10^3/uL,2-7
+Absolute Lymphocyte Count (ALC),1.67,10^3/uL,1-3
+Absolute Monocyte Count (AMC),0.71,10^3/uL,0.2-1
+Absolute Eosinophil Count (AEC),0.00,10^3/uL,0.02-0.5
+Absolute Basophil Count (ABC),0.02,10^3/uL,0.02-0.1
+Platelet Count,212,10^3/uL,150-410
+
+### Interpretation
+### Key Findings
+- Mean Corpuscular Volume (MCV) is slightly low at 82.8 fL (Reference Range: 83-101 fL).
+- Total WBC Count is elevated at 14.63 10^3/uL (Reference Range: 4-11 10^3/uL).
+- Neutrophil percentage is high at 83.6 % (Reference Range: 40-75 %).
+- Lymphocyte percentage is low at 11.4 % (Reference Range: 20-40 %).
+- Eosinophil percentage is low at 0.0 % (Reference Range: 1-6 %).
+- Absolute Neutrophil Count (ANC) is high at 12.23 10^3/uL (Reference Range: 2-7 10^3/uL).
+- Absolute Eosinophil Count (AEC) is low at 0.00 10^3/uL (Reference Range: 0.02-0.5 10^3/uL).
+
+### Summary
+The complete blood count indicates an elevated total white blood cell count (14.63 10^3/uL), primarily due to an increased neutrophil percentage (83.6%) and absolute neutrophil count (12.23 10^3/uL). Concurrently, lymphocyte percentage (11.4%) and eosinophil percentage (0.0%) are decreased, with the absolute eosinophil count also being low (0.00 10^3/uL). The Mean Corpuscular Volume (MCV) is slightly below the reference range at 82.8 fL. All other measured parameters, including haemoglobin, haematocrit, total RBC count, MCH, MCHC, RDW-CV, monocyte percentage, basophil percentage, absolute lymphocyte count, absolute monocyte count, absolute basophil count, and platelet count, are within their respective reference ranges.
+
+### Clinical Notes
+Based solely on the provided extracted table and the instruction "Do NOT invent values," no clinical interpretation, diagnosis, or recommendations can be provided. Clinical notes would require medical expertise and additional patient context beyond the scope of this data extraction task.
+
+### Model Confidence (0-100%)
+95%

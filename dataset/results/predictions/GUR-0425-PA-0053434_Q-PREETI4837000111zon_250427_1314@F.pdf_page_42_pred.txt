@@ -1,0 +1,17 @@
+### Key Findings
+- **HB (HAEMOGLOBIN):** 8.7 gm/dL (Low, Reference Range: 12-16 gm/dL)
+- **TLC TLC:** 19800 /cc.mm (High, Reference Range: 4000-11000 /cc.mm)
+- **OLC NEUTROPHILS:** 78 % (High, Reference Range: 40-70 %)
+- **LYMPHOCYTES:** 18 % (Low, Reference Range: 20-40 %)
+- **PCV PCV:** 34.6 % (Low, Reference Range: 36-48 %)
+- **MCH MCH:** 23.6 pg (Low, Reference Range: 27-32 pg)
+- **MCHC MCHC:** 28.4 gm/dL (Low, Reference Range: 30-35 gm/dL)
+
+### Summary
+The report shows a low hemoglobin level (8.7 gm/dL) along with reduced PCV (34.6%), MCH (23.6 pg), and MCHC (28.4 gm/dL), indicating anemia. Additionally, there is an elevated total leukocyte count (19800 /cc.mm) primarily driven by an increase in neutrophils (78%), accompanied by a decrease in lymphocytes (18%).
+
+### Clinical Notes
+The laboratory results are consistent with anemia, as evidenced by low hemoglobin, PCV, MCH, and MCHC. The elevated total leukocyte count with neutrophilia and relative lymphopenia suggests an acute inflammatory or infectious process.
+
+### Model Confidence (0-100%)
+100%

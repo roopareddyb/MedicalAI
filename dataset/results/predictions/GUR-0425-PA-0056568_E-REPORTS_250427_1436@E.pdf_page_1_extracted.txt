@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN (HB),10.8,g/dL,12.0-15.0
+TOTAL LEUCOCYTIC COUNT (TLC),12600,/uL,4000-11000
+NEUTROPHIL,79,%,40-75
+LYMPHOCYTE,18,%,20-40
+EOSINOPHIL,01,%,00-08
+MONOCYTE,02,%,00-10
+BASOPHIL,00,%,00-01
+PLATELET COUNT,1.55,Lakh/uL,1.50-4.10
+R B C (Red Blood Cells),4.10,Millions/uL,3.80-4.80
+P.C.V/HAEMATOCRIT,31.5,%,35.0-46.0
+MCV,81.2,fL,78.0-100.0
+MCH,27.6,picogram,25.0-35.0
+MCHC,30.6,g/dL,31.0-37.0
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN (HB)**: 10.8 g/dL (Reference Range: 12.0-15.0 g/dL) - **Low**
+-   **TOTAL LEUCOCYTIC COUNT (TLC)**: 12600 /uL (Reference Range: 4000-11000 /uL) - **High**
+-   **NEUTROPHIL**: 79 % (Reference Range: 40-75 %) - **High**
+-   **LYMPHOCYTE**: 18 % (Reference Range: 20-40 %) - **Low**
+-   **P.C.V/HAEMATOCRIT**: 31.5 % (Reference Range: 35.0-46.0 %) - **Low**
+-   **MCHC**: 30.6 g/dL (Reference Range: 31.0-37.0 g/dL) - **Low**
+
+### Summary
+The report indicates a low HAEMOGLOBIN (10.8 g/dL), low P.C.V/HAEMATOCRIT (31.5 %), and low MCHC (30.6 g/dL). The TOTAL LEUCOCYTIC COUNT is elevated at 12600 /uL, primarily due to high NEUTROPHIL percentage (79 %), with a concurrently low LYMPHOCYTE percentage (18 %). All other parameters, including EOSINOPHIL, MONOCYTE, BASOPHIL, PLATELET COUNT, R B C, MCV, and MCH, are within their respective reference ranges.
+
+### Clinical Notes
+The following parameters are outside their specified reference ranges: HAEMOGLOBIN, TOTAL LEUCOCYTIC COUNT, NEUTROPHIL, LYMPHOCYTE, P.C.V/HAEMATOCRIT, and MCHC. All other reported values are within normal limits.
+
+### Model Confidence (0-100%)
+100%

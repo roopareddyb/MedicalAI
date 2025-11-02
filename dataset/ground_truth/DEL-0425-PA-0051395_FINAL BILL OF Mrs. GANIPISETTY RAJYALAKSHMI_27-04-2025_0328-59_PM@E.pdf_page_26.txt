@@ -1,0 +1,59 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+C B C (HB, PCV, TC, DC)(AUTOMATION + STANDARD METHOD) N/A N/A N/A
+ERYTHROCYTE SEDIMENTATION RATE (ESR) N/A N/A N/A
+ACTIVATED PARTIAL THROMBOPLASTIN TIME N/A N/A N/A
+FACTOR XIII - SCREENING N/A N/A N/A
+PLATELET COUNT N/A N/A N/A
+PROTHROMBIN TIME N/A N/A N/A
+THROMBIN TIME N/A N/A N/A
+ALKALINE PHOSPHATASE - SERUM/PLASMA N/A N/A N/A
+ALT(SGPT) - SERUM / PLASMA N/A N/A N/A
+AMYLASE - SERUM/PLASMA N/A N/A N/A
+BILIRUBIN, TOTAL - SERUM N/A N/A N/A
+CALCIUM - SERUM N/A N/A N/A
+CARBON DIOXIDE, TOTAL - SERUM/PLASMA N/A N/A N/A
+C B C WITH ESR (AUTOMATION + STANDARD METHOD) N/A N/A N/A
+CHLORIDE - SERUM / PLASMA N/A N/A N/A
+CHOLESTEROL - SERUM / PLASMA N/A N/A N/A
+CREATININE - SERUM / PLASMA N/A N/A N/A
+GLUCOSE - SERUM / PLASMA (RANDOM/CASUAL) N/A N/A N/A
+MAGNESIUM - SERUM N/A N/A N/A
+PHOSPHORUS, INORGANIC - SERUM N/A N/A N/A
+POTASSIUM - SERUM / PLASMA N/A N/A N/A
+PREALBUMIN SERUM N/A N/A N/A
+PROTEIN, TOTAL - SERUM / PLASMA N/A N/A N/A
+SODIUM - SERUM / PLASMA N/A N/A N/A
+UREA - SERUM / PLASMA N/A N/A N/A
+URIC ACID - SERUM N/A N/A N/A
+URINE ROUTINE (CUE) N/A N/A N/A
+CHLORIDE - SERUM / PLASMA N/A N/A N/A
+CREATININE - SERUM / PLASMA N/A N/A N/A
+GLUCOSE - SERUM / PLASMA (RANDOM/CASUAL) N/A N/A N/A
+POTASSIUM - SERUM / PLASMA N/A N/A N/A
+PREALBUMIN SERUM N/A N/A N/A
+SODIUM - SERUM / PLASMA N/A N/A N/A
+UREA - SERUM / PLASMA N/A N/A N/A
+ANTI HCV ELISA N/A N/A N/A
+HBsAg N/A N/A N/A
+H I V - 1+2 SCREENING(Ag+Ab) N/A N/A N/A
+VDRL (QUALITATIVE) - BLOOD N/A N/A N/A
+
+### Interpretation
+### Key Findings
+- All listed laboratory tests have results marked as "N/A" (Not Available).
+- No numerical values or qualitative data are provided for any of the tests.
+- Reference ranges and units are also absent.
+
+### Summary
+- The laboratory report does not contain any actual test results.
+- All requested tests, including hematology, biochemistry, serology, and urine analysis, are reported with no data.
+- This may indicate an issue with sample processing, reporting, or data extraction.
+
+### Clinical Notes
+- Without results, no clinical interpretation or assessment can be made.
+- It is recommended to verify whether the tests were performed and if the data can be retrieved.
+- If patient care decisions depend on these tests, repeat testing or contacting the lab is advised.
+
+### Model Confidence (0-100%)
+95%

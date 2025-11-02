@@ -1,0 +1,16 @@
+### Key Findings
+-   **Hemoglobin:** 11.3 g/dL (Low, Reference Range: 11.5-14.5 g/dL)
+-   **WBC count:** 14.2 10/mm² (High, Reference Range: 4-11 10/mm²)
+-   **Neutrophils:** 93 % (High, Reference Range: 40-75 %)
+-   **Lymphocytes:** 05 % (Low, Reference Range: 20-40 %)
+-   **Hemoglobin:** 9.7 g/dL (Low, Reference Range: 11.5-14.5 g/dL)
+-   **Packed cell volume:** 28.6 % (Low, Reference Range: 30-46 %)
+
+### Summary
+The report presents two distinct hemoglobin measurements, both below the reference range (11.3 g/dL and 9.7 g/dL). One packed cell volume measurement was low at 28.6%, while another was within the normal range at 34.5%. The white blood cell count was elevated at 14.2 10/mm², primarily due to a high neutrophil percentage (93%) and a low lymphocyte percentage (05%). Other parameters such as Basophils, Platelet Count, RBC COUNT, Monocytes, and Eosinophils were within their respective reference ranges. Tests for HBS ANTIGEN, HCV-HEPATITIS C VIRUS, and HIV I AND II RAPID were not available.
+
+### Clinical Notes
+The patient's laboratory results show two instances of low hemoglobin (11.3 g/dL and 9.7 g/dL). One packed cell volume result was low (28.6%), while another was within the normal range (34.5%). The white blood cell count is elevated at 14.2 10/mm², with a marked increase in neutrophils (93%) and a decrease in lymphocytes (05%). Basophils (00%), Platelet Count (266 10/mm²), RBC COUNT (4.2 Million/uL), Monocytes (01%), and Eosinophils (01%) are within their respective reference ranges. HBS ANTIGEN, HCV-HEPATITIS C VIRUS, and HIV I AND II RAPID results are not available.
+
+### Model Confidence (0-100%)
+100%

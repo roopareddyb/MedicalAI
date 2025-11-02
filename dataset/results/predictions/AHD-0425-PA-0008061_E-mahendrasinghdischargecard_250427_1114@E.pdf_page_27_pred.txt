@@ -1,0 +1,25 @@
+### Key Findings
+- Hemoglobin is low (12.1 gm/dL).
+- Mean Cell Hemoglobin (MCH) is low (24.7 pg).
+- Mean Cell Hb Conc (MCHC) is low (28.5 %).
+- Total WBC Count is high (13600 cells/cumm).
+- Absolute Neutrophils Count is high (8976 /cumm).
+- Absolute Lymphocytes Count is high (3264 /cumm).
+- Absolute Eosinophils Count (AEC) is high (544 /cumm).
+
+### Summary
+The patient's laboratory results indicate anemia, characterized by low Hemoglobin, Mean Cell Hemoglobin (MCH), and Mean Cell Hb Concentration (MCHC). Additionally, there is evidence of leukocytosis, with elevated Total White Blood Cell (WBC) count, Absolute Neutrophil Count, Absolute Lymphocyte Count, and Absolute Eosinophil Count. The Platelet Count is 502000 cells/cumm, but its clinical significance cannot be assessed without a provided reference range.
+
+### Clinical Notes
+- **Hemoglobin:** 12.1 gm/dL (Low; Reference Range: 13.0-17.0 gm/dL)
+- **Mean Cell Hemoglobin (MCH):** 24.7 pg (Low; Reference Range: 27-33 pg)
+- **Mean Cell Hb Conc (MCHC):** 28.5 % (Low; Reference Range: 32-38 %)
+- **Total WBC Count:** 13600 cells/cumm (High; Reference Range: 4000-11000 cells/cumm)
+- **Absolute Neutrophils Count:** 8976 /cumm (High; Reference Range: 2000-7000 /cumm)
+- **Absolute Lymphocytes Count:** 3264 /cumm (High; Reference Range: 1000-3000 /cumm)
+- **Absolute Eosinophils Count, AEC:** 544 /cumm (High; Reference Range: 20-500 /cumm)
+- All other reported parameters (Packed Cell Volume, R.B.C. Count, Mean Cell Volume, Neutrophils, Lymphocytes, Eosinophils, Monocytes, Absolute Monocytes Count) are within their respective reference ranges.
+- **Platelet Count:** 502000 cells/cumm (Reference Range: N/A).
+
+### Model Confidence
+100%

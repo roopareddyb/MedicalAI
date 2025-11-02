@@ -1,0 +1,16 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+C.R.P (QUANTITATIVE) C.R.P 16.9 U/L 0-6
+
+### Interpretation
+### Key Findings
+- C-Reactive Protein (C.R.P) level is 16.9 U/L, which is elevated above the normal reference range of 0-6 U/L.
+
+### Summary
+- The patient's C.R.P level is significantly elevated, indicating the presence of inflammation or infection.
+
+### Clinical Notes
+- Elevated C.R.P levels can be seen in various conditions including acute infections, chronic inflammatory diseases, and tissue injury. Further clinical correlation and additional diagnostic workup may be warranted to identify the underlying cause.
+
+### Model Confidence (0-100%)
+95%

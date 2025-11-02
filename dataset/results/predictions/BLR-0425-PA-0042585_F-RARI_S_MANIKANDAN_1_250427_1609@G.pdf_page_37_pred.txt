@@ -1,0 +1,12 @@
+### Key Findings
+- RDW is at the upper limit of the reference range (13.7%).
+- CRP is elevated (14.5 mg/L).
+
+### Summary
+The laboratory results indicate an elevated C-Reactive Protein (CRP) level of 14.5 mg/L, which is above the reference range of 0-5 mg/L. The Red Cell Distribution Width (RDW) is at the upper limit of its reference range at 13.7%. All other tested parameters, including Platelet Count (299 thousand/cu.mm), MPV (9.2 fL), Glucose Random (99 mg/dL), and Beta HCG (<0.2 mIU/ml), are within their respective reference ranges.
+
+### Clinical Notes
+The elevated CRP level suggests the presence of inflammation or infection. The RDW being at the upper limit of the reference range, while still within normal limits, indicates the highest variability in red blood cell size within the normal spectrum.
+
+### Model Confidence (0-100%)
+100%

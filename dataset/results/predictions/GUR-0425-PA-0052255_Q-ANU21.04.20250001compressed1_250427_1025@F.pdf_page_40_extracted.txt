@@ -1,0 +1,35 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN (Hb),12.6,g/dL,11.5-16.5
+TOTAL LEUCOCYTE COUNT (TLC),20,600,/uL,4000-11000
+NEUTROPHIL,79,%,40-75
+LYMPHOCYTE,15,%,20-45
+EOSINOPHIL,03,%,01-06
+MONOCYTE,03,%,02-10
+BASOPHIL,00,%,0-0
+PLATELET COUNT,2.10,Lakh/uL,1.50-4.50
+RBC COUNT,4.45,Millions/uL,3.8-4.8
+PCV/HAEMATOCRIT,37.8,%,35-45
+MCV,84.94,fL,80-100
+MCH,28.31,Picogram,27.0-31.0
+MCHC,33.3,g/dL,30-35
+URINE RM,N/A,N/A,N/A
+
+### Interpretation
+### Key Findings
+-   **TOTAL LEUCOCYTE COUNT (TLC)**: Elevated at 20,600 /uL (Reference Range: 4000-11000 /uL).
+-   **NEUTROPHIL**: Elevated at 79 % (Reference Range: 40-75 %).
+-   **LYMPHOCYTE**: Decreased at 15 % (Reference Range: 20-45 %).
+
+### Summary
+The report shows an elevated Total Leucocyte Count (TLC) of 20,600 /uL, exceeding the upper limit of the reference range (4000-11000 /uL). This is accompanied by an elevated Neutrophil percentage of 79% (reference range 40-75%) and a decreased Lymphocyte percentage of 15% (reference range 20-45%). All other blood parameters listed, including Haemoglobin, Platelet Count, RBC Count, PCV/Haematocrit, MCV, MCH, MCHC, Eosinophil, Monocyte, and Basophil percentages, are within their respective reference ranges. Data for URINE RM is not available.
+
+### Clinical Notes
+-   Total Leucocyte Count is above the upper limit of the reference range.
+-   Neutrophil percentage is above the upper limit of the reference range.
+-   Lymphocyte percentage is below the lower limit of the reference range.
+-   All other reported blood parameters are within their specified reference ranges.
+-   URINE RM test results are not provided in the table.
+
+### Model Confidence (0-100%)
+98%

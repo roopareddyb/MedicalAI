@@ -1,0 +1,30 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+CHOLESTEROL 275.06 mg/dl 140--240
+HDL CHOLESTEROL 49.21 mg/dl 30--75
+LDL CHOLESTEROL 195.776 mg/dl 50--130
+VLDL CHOLESTEROL 30.074 mg/dl 15--40
+SERUM TRIGLYCERIDE 170.37 mg/dl 25--160
+CHOLESTEROL / HDL RATIO 5.58 N/A 0--3.5
+
+### Interpretation
+### Key Findings
+- Total Cholesterol: 275.06 mg/dl (High; reference range: 140–240 mg/dl)
+- HDL Cholesterol: 49.21 mg/dl (Within normal limits; reference range: 30–75 mg/dl)
+- LDL Cholesterol: 195.776 mg/dl (High; reference range: 50–130 mg/dl)
+- VLDL Cholesterol: 30.074 mg/dl (Within normal limits; reference range: 15–40 mg/dl)
+- Serum Triglyceride: 170.37 mg/dl (Slightly elevated; reference range: 25–160 mg/dl)
+- Cholesterol / HDL Ratio: 5.58 (High; reference range: 0–3.5)
+
+### Summary
+The lipid profile indicates hypercholesterolemia with significantly elevated total cholesterol and LDL cholesterol levels. HDL cholesterol is within the normal range but on the lower side relative to the elevated LDL. Serum triglycerides are mildly elevated. The cholesterol to HDL ratio is high, suggesting increased cardiovascular risk.
+
+### Clinical Notes
+- Elevated LDL cholesterol is a major risk factor for atherosclerosis and cardiovascular disease.
+- The high cholesterol/HDL ratio further supports increased risk.
+- Mildly elevated triglycerides may also contribute to cardiovascular risk.
+- Lifestyle modification including diet, exercise, and possibly lipid-lowering medications should be considered.
+- Further clinical assessment and risk stratification are recommended.
+
+### Model Confidence (0-100%)
+95%

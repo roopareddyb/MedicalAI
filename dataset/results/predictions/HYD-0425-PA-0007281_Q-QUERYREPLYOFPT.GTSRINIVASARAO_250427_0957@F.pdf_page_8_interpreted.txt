@@ -1,0 +1,30 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+,16.0,g/dL,Female: 11.5-15.0 Male: 13.5-18.0
+PCV,48.0,%,36-46
+TOTAL RBC COUNT,5.3,cells/cumm,3.8-4.8
+PLATELET COUNT,2.5,Lakhs/cumm,1.5-5.0
+TOTAL WBC COUNT,9,000,cells/cumm,4000-11000
+POLYMORPHS,57,%,40-80
+LYMPHOCYTES,35,%,20-40
+EOSINOPHILS,03,%,01-06
+MONOCYTES,05,%,02-10
+BASOPHILS,00,%,00-02
+R B C MORPHOLOGY,NORMOCYTIC/NORMOCHROMIC,N/A,N/A
+WBC,WITHIN NORMAL LIMITS,N/A,N/A
+PLATELETS,ADEQUATE,N/A,N/A
+
+### Interpretation
+### Key Findings
+- PCV is elevated at 48.0% (Reference Range: 36-46%).
+- TOTAL RBC COUNT is elevated at 5.3 cells/cumm (Reference Range: 3.8-4.8 cells/cumm).
+- An unnamed test shows a result of 16.0 g/dL. This value is above the reference range for females (11.5-15.0 g/dL) but within the reference range for males (13.5-18.0 g/dL).
+
+### Summary
+The report indicates elevated PCV and Total RBC Count. An unnamed test result is 16.0 g/dL, which is high for females but within the normal range for males. All other measured parameters, including Platelet Count (2.5 Lakhs/cumm), Total WBC Count (9,000 cells/cumm), Polymorphs (57%), Lymphocytes (35%), Eosinophils (03%), Monocytes (05%), and Basophils (00%), are within their respective reference ranges. RBC morphology is described as NORMOCYTIC/NORMOCHROMIC, and platelets are noted as ADEQUATE. WBCs are reported as WITHIN NORMAL LIMITS.
+
+### Clinical Notes
+The provided table does not contain any clinical notes.
+
+### Model Confidence (0-100%)
+100%

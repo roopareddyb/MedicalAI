@@ -1,0 +1,16 @@
+### Key Findings
+- **HAEMOGLOBIN (HB)**: 10.8 gm/dL (Reference Range: 12.0-15.0 gm/dL) - Below reference range.
+- **TOTAL LEUCOCYTIC COUNT (TLC)**: 12600 /cmm (Reference Range: 4000-11000 /cmm) - Above reference range.
+- **NEUTROPHIL**: 79 % (Reference Range: 40-75 %) - Above reference range.
+- **LYMPHOCYTE**: 18 % (Reference Range: 20-40 %) - Below reference range.
+- **P.C.V/HAEMATOCRIT**: 31.5 % (Reference Range: 35.0-46.0 %) - Below reference range.
+- **MCHC**: 30.6 gm/dL (Reference Range: 31.0-37.0 gm/dL) - Below reference range.
+
+### Summary
+The laboratory results show several deviations from the reference ranges. There is evidence of low hemoglobin (10.8 gm/dL), low P.C.V/HAEMATOCRIT (31.5 %), and low MCHC (30.6 gm/dL). The total white blood cell count (TLC) is elevated at 12600 /cmm, primarily driven by an increased neutrophil percentage (79 %), while the lymphocyte percentage is decreased (18 %). Other parameters including EOSINOPHIL, MONOCYTE, BASOPHIL, PLATELET COUNT, R B C, MCV, and MCH are within their respective reference ranges.
+
+### Clinical Notes
+No clinical notes can be provided based solely on the extracted laboratory values without additional patient information or clinical context.
+
+### Model Confidence (0-100%)
+100%

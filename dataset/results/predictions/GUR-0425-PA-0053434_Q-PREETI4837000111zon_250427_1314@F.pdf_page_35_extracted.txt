@@ -1,0 +1,16 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+URINE FOR PREGNANCY,NEGATIVE,N/A,N/A
+
+### Interpretation
+### Key Findings
+- Urine pregnancy test result is negative.
+
+### Summary
+- A urine test for pregnancy was conducted, and the result was negative.
+
+### Clinical Notes
+- The patient's urine pregnancy test is negative, indicating no biochemical evidence of pregnancy at the time of testing.
+
+### Model Confidence (0-100%)
+100%

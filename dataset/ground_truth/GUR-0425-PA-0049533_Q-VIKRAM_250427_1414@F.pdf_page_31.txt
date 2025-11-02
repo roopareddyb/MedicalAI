@@ -1,0 +1,25 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+PTI TEST 16.0 sec. 12-16
+PTI CONTROL 14.0 sec. --14
+PTI INDEX 87.5 % --
+PTI INR 1.1 0.88-1.1
+
+### Interpretation
+### Key Findings
+- PTI TEST: 16.0 sec (at the upper limit of the reference range 12-16 sec)
+- PTI CONTROL: 14.0 sec (above the upper limit of the reference range <14 sec)
+- PTI INDEX: 87.5% (no reference range provided)
+- PTI INR: 1.1 (at the upper limit of the reference range 0.88-1.1)
+
+### Summary
+The patient's Prothrombin Time Index (PTI) TEST is at the upper limit of the normal range, while the PTI CONTROL is slightly above the normal reference range. The INR is within the upper boundary of normal, indicating normal coagulation status without significant prolongation of blood clotting time.
+
+### Clinical Notes
+- The PTI TEST and INR values suggest normal coagulation function.
+- The slightly elevated PTI CONTROL may warrant clinical correlation but is not significantly out of range.
+- No immediate evidence of coagulopathy based on provided values.
+- Continued monitoring may be advised if clinically indicated.
+
+### Model Confidence (0-100%)
+95%

@@ -1,0 +1,40 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HB 11.3 gm/dl 13.0-17.0
+TLC 16.3 10^3/cumm 4.0-11.0
+DLC N/A N/A N/A
+NEUTROPHILS 74 % 45-70
+LYMPHOCYTE 16 % 20-40
+MONOCYTE 06 % 2-10
+EOSINOPHIL 04 % 1-6
+BASOPHIL 00 % 0-1
+PLATELET COUNT 201 10^3/cumm 150-450
+RBC COUNT 4.1 million cells/cumm 4.0-5.5
+HCT 34 % 40-50
+MCV 83.2 fl 82-102
+MCH 27.5 picogram 27-33
+MCHC 33.1 g/dl 31.5-34.5
+RDW 15.1 % 11.5-14.5
+
+### Interpretation
+### Key Findings
+- Hemoglobin (HB): 11.3 gm/dl (Low; normal 13.0-17.0)
+- Total Leukocyte Count (TLC): 16.3 x10^3/cumm (High; normal 4.0-11.0)
+- Neutrophils: 74% (Slightly elevated; normal 45-70%)
+- Lymphocytes: 16% (Low; normal 20-40%)
+- Hematocrit (HCT): 34% (Low; normal 40-50%)
+- Red Cell Distribution Width (RDW): 15.1% (Slightly elevated; normal 11.5-14.5%)
+- Other parameters (Platelet count, RBC count, MCV, MCH, MCHC, Monocytes, Eosinophils, Basophils) are within normal limits.
+
+### Summary
+The patient demonstrates anemia, evidenced by low hemoglobin and hematocrit levels. The elevated total leukocyte count and neutrophilia suggest an ongoing inflammatory or infectious process. Lymphopenia is also noted, which may reflect immune system involvement or stress response. The slightly increased RDW suggests some variation in red blood cell size, which can be seen in anemia of mixed etiology.
+
+### Clinical Notes
+- The anemia is likely mild to moderate and should be evaluated for underlying causes such as nutritional deficiencies, chronic disease, or blood loss.
+- Elevated TLC and neutrophilia raise suspicion for bacterial infection or inflammation; clinical correlation with symptoms is advised.
+- Lymphopenia can be associated with viral infections, stress, or immunosuppression.
+- Further investigations including peripheral smear review, iron studies, vitamin B12/folate levels, and clinical examination are recommended to determine etiology.
+- Close monitoring and follow-up blood work should be considered.
+
+### Model Confidence (0-100%)
+95%

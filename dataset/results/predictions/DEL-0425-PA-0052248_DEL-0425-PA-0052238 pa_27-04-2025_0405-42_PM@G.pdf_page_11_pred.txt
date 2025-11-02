@@ -1,0 +1,17 @@
+### Key Findings
+- Haematocrit is low at 34% (reference range: 46-51%).
+- MCHC is high at 35 g/dl (reference range: 31.5-34.5 g/dl).
+
+### Summary
+The report indicates a low Haematocrit and a high MCHC. All other parameters, including CAST PATHOLOGIAL, NON SQUAMOUS EPITHELIAL CELLS, SQUAMOUS EPITHELIAL CELLS, YEAST, BACTERIA, BACTERIA COCCI, BACTERIA RODS, MUCUS, HAEMOGLOBIN, TOTAL WBC COUNT, RBC COUNT, MCV, and MCH, are within their respective reference ranges. The sample's colour is Yellow and appearance is Clear.
+
+### Clinical Notes
+- **Microscopic Examination:** CAST PATHOLOGIAL (0.0 /HPF), NON SQUAMOUS EPITHELIAL CELLS (0.0 /HPF), SQUAMOUS EPITHELIAL CELLS (0.0 /HPF), YEAST (0.0 /HPF), BACTERIA (10.7 /HPF), BACTERIA COCCI (10.7 /HPF), BACTERIA RODS (0.0 /HPF), and MUCUS (0.5 /HPF) are all within their respective reference ranges.
+- **Physical Characteristics:** The sample COLOUR is Yellow and APPEARANCE is Clear.
+- **Hematology:**
+    - HAEMOGLOBIN (11.9 g/dl), TOTAL WBC COUNT (5830 cells/cumm), RBC COUNT (3.94 million/cu mm), MCV (87 fl), and MCH (30 pg) are within their respective reference ranges.
+    - HAEMATOCRIT is low at 34% (reference range: 46-51%).
+    - MCHC is high at 35 g/dl (reference range: 31.5-34.5 g/dl).
+
+### Model Confidence (0-100%)
+100%

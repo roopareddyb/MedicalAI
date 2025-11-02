@@ -1,0 +1,43 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+RDW 12.7 % 11.6 - 14
+PLATELET COUNT 238000 /cumm 150000 - 410000
+MPV 6.8 fl 7.5 - 12.0
+ABSOLUTE NEUTROPHIL COUNT 3.9 X10^3/ul 2.0 - 7.0
+ABSOLUTE LYMPHOCYTE COUNT 1.1 X10^3/ul 1.0 - 3.0
+ABSOLUTE MONOCYTE COUNT 0.3 X10^3/ul 0.2 - 1.0
+ABSOLUTE EOSINOPHIL COUNT 0.3 X10^3/ul 0.0 - 0.5
+ABSOLUTE BASOPHIL COUNT 0.0 X10^3/ul 0.02 - 0.1
+NEUTROPHIL 67 % 40 - 80
+LYMPHOCYTE 21 % 20 - 40
+MONOCYTE 06 % 2 - 10
+EOSINOPHIL 06 % 1 - 6
+BASOPHIL 00 % 1 - 2
+
+### Interpretation
+### Key Findings
+- RDW: 12.7% (within normal range 11.6 - 14%)
+- Platelet Count: 238,000 /cumm (within normal range 150,000 - 410,000)
+- MPV: 6.8 fl (slightly below normal range 7.5 - 12.0)
+- Absolute Neutrophil Count: 3.9 x10^3/µl (within normal range 2.0 - 7.0)
+- Absolute Lymphocyte Count: 1.1 x10^3/µl (within normal range 1.0 - 3.0)
+- Absolute Monocyte Count: 0.3 x10^3/µl (within normal range 0.2 - 1.0)
+- Absolute Eosinophil Count: 0.3 x10^3/µl (within normal range 0.0 - 0.5)
+- Absolute Basophil Count: 0.0 x10^3/µl (below normal range 0.02 - 0.1)
+- Neutrophil Percentage: 67% (within normal range 40 - 80%)
+- Lymphocyte Percentage: 21% (within normal range 20 - 40%)
+- Monocyte Percentage: 6% (within normal range 2 - 10%)
+- Eosinophil Percentage: 6% (upper limit of normal range 1 - 6%)
+- Basophil Percentage: 0% (below normal range 1 - 2%)
+
+### Summary
+The complete blood count results are largely within normal limits, except for a slightly low mean platelet volume (MPV) and absent basophils both in absolute count and percentage. RDW, platelet count, neutrophil, lymphocyte, monocyte, and eosinophil values are within reference ranges. Eosinophil percentage is at the upper limit of normal. The low MPV could suggest smaller platelet size, and absent basophils may or may not be clinically significant depending on clinical context.
+
+### Clinical Notes
+- A low MPV could be observed in conditions affecting platelet production or activation; however, MPV alone has limited diagnostic value without clinical correlation.
+- Basophils are normally low in blood; complete absence is sometimes seen and may not indicate pathology but can be noted if symptoms or other lab abnormalities arise.
+- Other parameters are within normal limits, suggesting no overt infection, inflammation, or hematological disorder based on this CBC panel.
+- Clinical correlation is warranted to interpret these results fully, especially regarding the low MPV and absent basophils.
+
+### Model Confidence (0-100%)
+95%

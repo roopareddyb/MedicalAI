@@ -1,0 +1,48 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin 13.1 g/dL 12 - 15
+Packed Cell Volume (PCV) 37.2 % 36 - 46
+Total RBC Count 4.20 million/cumm 3.8 - 4.8
+MCV 88.5 fL 83 - 101
+MCH 31.2 pg 27 - 32
+MCHC 35.2 g/dL 31.5 - 34.5
+RDW-CV 12.6 % 11.6 - 14.0
+Platelet Count 1.72 Lakhs/Cumm 1.5 - 4.1
+MPV 8.9 fl 7.0 - 10.0
+Total WBC Count 6,980 cells/cumm 4000 - 10000
+Neutrophils 65.7 % 40 - 80
+Lymphocytes 27.6 % 20 - 40
+Eosinophils 2.4 % 01 - 06
+Monocytes 3.3 % 02 - 10
+Basophils 1.0 % 0.0 - 2.0
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 13.1 g/dL (within normal range 12 - 15)
+- Packed Cell Volume (PCV): 37.2% (within normal range 36 - 46%)
+- Total RBC Count: 4.20 million/cumm (within normal range 3.8 - 4.8)
+- MCV: 88.5 fL (within normal range 83 - 101)
+- MCH: 31.2 pg (within normal range 27 - 32)
+- MCHC: 35.2 g/dL (slightly above normal range 31.5 - 34.5)
+- RDW-CV: 12.6% (within normal range 11.6 - 14.0)
+- Platelet Count: 1.72 Lakhs/cumm (within normal range 1.5 - 4.1 Lakhs)
+- MPV: 8.9 fL (within normal range 7.0 - 10.0)
+- Total WBC Count: 6980 cells/cumm (within normal range 4000 - 10000)
+- Neutrophils: 65.7% (within normal range 40 - 80)
+- Lymphocytes: 27.6% (within normal range 20 - 40)
+- Eosinophils: 2.4% (within normal range 1 - 6)
+- Monocytes: 3.3% (within normal range 2 - 10)
+- Basophils: 1.0% (within normal range 0 - 2)
+
+### Summary
+The complete blood count (CBC) values are predominantly within their respective normal reference ranges. The only minor deviation is the MCHC which is slightly elevated at 35.2 g/dL, slightly exceeding the upper normal reference limit of 34.5 g/dL. This mild elevation is typically not significant but may warrant clinical correlation. All other parameters including hemoglobin, RBC indices, platelet count, and differential leukocyte counts are within normal limits.
+
+### Clinical Notes
+- The hemoglobin level and red cell indices indicate no anemia or polycythemia.
+- The slight elevation in MCHC may suggest mild spherocytosis or other hemoglobin concentration abnormalities, but it is borderline and often clinically insignificant.
+- Platelet count and MPV are normal, indicating no thrombocytopenia or platelet size anomalies.
+- Total WBC and differential counts are unremarkable, with no evidence of infection, inflammation, or hematologic malignancy.
+- Overall, the blood profile suggests normal hematologic function.
+
+### Model Confidence (0-100%)
+95%

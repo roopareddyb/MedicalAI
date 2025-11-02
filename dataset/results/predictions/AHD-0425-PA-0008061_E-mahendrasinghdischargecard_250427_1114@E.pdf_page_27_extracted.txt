@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Hemoglobin,12.1,g/dL,13.0-17.0
+Packed Cell Volume (HCT),42.5,%,40-50
+R.B.C. Count,4.90,mill/cmm,4.5-5.5
+Mean Cell Volume(MCV),86.7,fL,83-101
+Mean Cell Hemoglobin(MCH),24.7,pg,27-33
+Mean Cell Hb Conc(MCHC),28.5,%,32-38
+Total WBC Count,13600,cells/cumm,4000-11000
+Neutrophils,66,%,50-70
+Lymphocytes,24,%,20-40
+Eosinophils,4,%,1-6
+Monocytes,06,%,0-10
+Absolute Neutrophils Count,8976,/uL,2000-7000
+Absolute Lymphocytes Count,3264,/uL,1000-3000
+Absolute Monocytes Count,816,/uL,200-1000
+Absolute Eosinophils Count, AEC,544,/uL,20-500
+Platelet Count,502000,cells/cumm,N/A
+
+### Interpretation
+### Key Findings
+-   **Hemoglobin:** 12.1 g/dL (Low, reference range: 13.0-17.0 g/dL)
+-   **Mean Cell Hemoglobin (MCH):** 24.7 pg (Low, reference range: 27-33 pg)
+-   **Mean Cell Hb Conc (MCHC):** 28.5 % (Low, reference range: 32-38 %)
+-   **Total WBC Count:** 13600 cells/cumm (High, reference range: 4000-11000 cells/cumm)
+-   **Absolute Neutrophils Count:** 8976 /uL (High, reference range: 2000-7000 /uL)
+-   **Absolute Lymphocytes Count:** 3264 /uL (High, reference range: 1000-3000 /uL)
+-   **Absolute Eosinophils Count (AEC):** 544 /uL (High, reference range: 20-500 /uL)
+
+### Summary
+The report indicates several values outside their normal reference ranges. Hemoglobin, Mean Cell Hemoglobin (MCH), and Mean Cell Hb Concentration (MCHC) are below their respective lower limits. Conversely, Total WBC Count, Absolute Neutrophils Count, Absolute Lymphocytes Count, and Absolute Eosinophils Count are above their respective upper limits. Other parameters, including Packed Cell Volume (HCT), R.B.C. Count, Mean Cell Volume (MCV), Neutrophils, Lymphocytes, Eosinophils, Monocytes, and Absolute Monocytes Count, are within their specified reference ranges. The Platelet Count is provided but without a reference range for comparison.
+
+### Clinical Notes
+The extracted table shows a pattern of decreased red blood cell indices (Hemoglobin, MCH, MCHC) and increased white blood cell counts (Total WBC, Absolute Neutrophils, Absolute Lymphocytes, Absolute Eosinophils). All other measured parameters are within their specified reference ranges, except for Platelet Count which has no reference range provided in the table.
+
+### Model Confidence (0-100%)
+95%

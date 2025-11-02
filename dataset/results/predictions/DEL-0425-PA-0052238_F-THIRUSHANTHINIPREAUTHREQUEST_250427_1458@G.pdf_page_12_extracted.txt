@@ -1,0 +1,30 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+RDW,12.7,%,11.6-14
+PLATELET COUNT,238000,/cumm,150000-410000
+MPV,6.8,fl,7.5-12.0
+ABSOLUTE NEUTROPHIL COUNT,3.9,X10^3/uL,2.0-7.0
+ABSOLUTE LYMPHOCYTE COUNT,1.1,X10^3/uL,1.0-3.0
+ABSOLUTE MONOCYTE COUNT,0.3,X10^3/uL,0.2-1.0
+ABSOLUTE EOSINOPHIL COUNT,0.3,X10^3/uL,0.0-0.5
+ABSOLUTE BASOPHIL COUNT,0.0,X10^3/uL,0.02-0.1
+NEUTROPHIL,67,%,40-80
+LYMPHOCYTE,21,%,20-40
+MONOCYTE,06,%,2-10
+EOSINOPHIL,06,%,1-6
+BASOPHIL,00,%,1-2
+
+### Interpretation
+### Key Findings
+-   **MPV**: 6.8 fl (Reference Range: 7.5-12.0 fl) - Low
+-   **ABSOLUTE BASOPHIL COUNT**: 0.0 X10^3/uL (Reference Range: 0.02-0.1 X10^3/uL) - Low
+-   **BASOPHIL**: 00% (Reference Range: 1-2%) - Low
+
+### Summary
+Most of the reported parameters are within their respective reference ranges. However, the Mean Platelet Volume (MPV) is low at 6.8 fl. Additionally, both the Absolute Basophil Count (0.0 X10^3/uL) and the Basophil percentage (00%) are below their respective lower reference limits.
+
+### Clinical Notes
+Interpretation of these findings should be performed by a qualified healthcare professional in the context of the patient's overall clinical presentation and medical history. This report only highlights values outside the provided reference ranges and does not offer medical advice or diagnosis.
+
+### Model Confidence (0-100%)
+100%

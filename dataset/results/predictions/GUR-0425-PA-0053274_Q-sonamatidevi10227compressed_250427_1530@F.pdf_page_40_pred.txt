@@ -1,0 +1,17 @@
+### Key Findings
+- **Elevated Total Leucocyte Count**: 11,900 /cu mm (Reference Range: 4000-11000)
+- **Elevated Polymorphs**: 87 % (Reference Range: 45-75)
+- **Low Lymphocytes**: 11 % (Reference Range: 25-45)
+- **Low RBC**: 4.13 millions/cmm (Reference Range: 4.5-6.5)
+- **Low PCV**: 33.8 % (Reference Range: 37-47)
+- **Elevated C. Reactive Protein**: 12.1 mg/L (Reference Range: Less than 6.0)
+- **Haemoglobin**: 11.8 gm%, which is within the female reference range (11.5-16.5 gm%) but below the male reference range (13-18 gm%).
+
+### Summary
+The laboratory report indicates several abnormalities. There is evidence of an inflammatory or infectious process, characterized by an elevated Total Leucocyte Count, primarily due to an increase in Polymorphs (neutrophilia), and a significantly elevated C. Reactive Protein. Concurrently, Lymphocytes are decreased. Additionally, there are signs of anemia, with low RBC count and low PCV, although MCV, MCH, and MCHC are within normal limits, suggesting a normocytic, normochromic picture. Haemoglobin level is at the lower end of the female reference range and below the male reference range. Other parameters such as Monocytes, Eosinophils, Basophils, Platelet Count, R.D.W, and Random Blood Sugar are within their respective reference ranges.
+
+### Clinical Notes
+The complete blood count reveals a leukocytosis with a neutrophilic predominance and associated lymphopenia. This pattern, in conjunction with a markedly elevated C. Reactive Protein, suggests an acute inflammatory or infectious response. Red blood cell parameters indicate a mild anemia, characterized by low RBC count and PCV, with MCV, MCH, and MCHC values falling within the normal range. Haemoglobin is 11.8 gm%, which is within the female reference range but below the male reference range. All other measured parameters, including Monocytes, Eosinophils, Basophils, Platelet Count, R.D.W, and Random Blood Sugar, are within their established reference ranges.
+
+### Model Confidence (0-100%)
+100%

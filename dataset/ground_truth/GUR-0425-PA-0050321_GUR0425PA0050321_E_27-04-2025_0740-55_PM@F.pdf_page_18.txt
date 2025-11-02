@@ -1,0 +1,46 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin 7.6 g/dl 12.0 - 15.0
+Packed Cell Volume 24.1 % 40-60
+Total Leucocyte Count (TLC) 17.0 10^9/L 4.0-10.0
+RBC Count 2.71 10^12/L 3.8-4.8
+MCV 88.8 fl 83-101
+MCH 28.2 pg 27-32
+MCHC 31.7 g/dl 31.5-34.5
+Platelet Count 247 10^9/L 150-410
+MPV 9.2 fl 7.8-11.2
+RDW 15.1 % 11.5-14.5
+Neutrophils 94.3 % 40-80
+Lymphocytes 1.2 % 20-40
+Monocytes 4.3 % 2-10
+Eosinophils 0.0 % 1-6
+Basophils 0.2 % 0-2
+Absolute Neutrophil Count 16.03 10^9/L 2.0-7.0
+Absolute Lymphocyte Count 0.2 10^9/L 1.0-3.0
+Absolute Monocyte Count 0.73 10^9/L 0.2-1.0
+Absolute Basophil Count 0.030 10^9/L 0.02-0.1
+
+### Interpretation
+### Key Findings
+- Haemoglobin is low at 7.6 g/dl (reference 12.0 - 15.0), indicating anemia.
+- Packed Cell Volume (PCV) is markedly low at 24.1% (reference 40 - 60%).
+- Total Leukocyte Count (TLC) is high at 17.0 x10^9/L (reference 4.0 - 10.0), indicating leukocytosis.
+- RBC count is low at 2.71 x10^12/L (reference 3.8 - 4.8).
+- Neutrophils percentage is elevated at 94.3% (reference 40 - 80%), with an absolute neutrophil count of 16.03 x10^9/L (reference 2.0 - 7.0).
+- Lymphocytes percentage is markedly decreased at 1.2% (reference 20 - 40%), and absolute lymphocyte count is also low at 0.2 x10^9/L (reference 1.0 - 3.0).
+- RDW is slightly elevated at 15.1% (reference 11.5 - 14.5).
+- Other red cell indices (MCV, MCH, MCHC) are within normal limits.
+- Platelet count and MPV are within normal reference ranges.
+
+### Summary
+The lab results show significant anemia with low hemoglobin, PCV, and RBC count. There is pronounced leukocytosis, predominantly neutrophilic, with marked neutrophilia and neutrophil absolute count elevated. Lymphocyte counts are suppressed. The elevated RDW suggests some variability in red blood cell size. The blood picture is suggestive of an inflammatory or infectious process causing neutrophilic leukocytosis and an anemia, possibly anemia of chronic disease or infection. The low lymphocytes may suggest immune suppression or redistribution.
+
+### Clinical Notes
+- Anemia is moderate to severe and requires further evaluation for cause including possible blood loss, nutritional deficiencies, chronic disease, or hemolysis.
+- Neutrophilic leukocytosis with associated lymphopenia is commonly seen in acute bacterial infections or stress response.
+- Elevated RDW may indicate a mixed population of red cells, potentially due to recent blood loss or bone marrow response.
+- Normal MCV, MCH, and MCHC favor normocytic, normochromic anemia.
+- Clinical correlation with patient history, signs/symptoms, and further investigations like peripheral smear, reticulocyte count, iron studies, and infection workup are warranted.
+
+### Model Confidence (0-100%)
+95%

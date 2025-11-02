@@ -1,0 +1,19 @@
+### Key Findings
+-   **Haemoglobin**: 7.90 gm/dL (Low, Reference Range: 12.0-16.0)
+-   **Total Leucocyte Count**: 16200 P/cumm (High, Reference Range: 4000-11000)
+-   **Polymorphs**: 78 % (High, Reference Range: 40-75)
+-   **Lymphocytes**: 18 % (Low, Reference Range: 20-40)
+-   **E.S.R(WINTROBE: MATHOD)**: 40 mm/1hrs (High, Reference Range: 00-10 M)
+-   **RBC Count**: 3.09 million/cumm (Low, Reference Range: 4.5-5.9)
+-   **PCV (PACKED CELL VOLUME)**: 23.9 % (Low, Reference Range: 41.0-53.0)
+-   **Platelets Count**: 1.28 Lacks (Low, Reference Range: 1.5-4.5)
+-   Monocytes, Eosinophil, MCV, MCH, and MCHC are within their respective reference ranges.
+
+### Summary
+The patient's lab results indicate anemia (low Haemoglobin, RBC Count, and PCV) with normocytic, normochromic indices. There is evidence of leukocytosis, primarily due to an increase in polymorphs (neutrophilia), accompanied by lymphopenia. An inflammatory process is suggested by a significantly elevated E.S.R. Additionally, the platelet count is low (thrombocytopenia).
+
+### Clinical Notes
+The complete blood count shows a significant reduction in red blood cell parameters, including Haemoglobin (7.90 gm/dL), RBC Count (3.09 million/cumm), and PCV (23.9%). The MCV (96.5 fL), MCH (27.2 pg), and MCHC (31.7 g/dL) are within normal limits, suggesting a normocytic, normochromic anemia. The white blood cell count is elevated at 16200 P/cumm, with a differential showing an increase in Polymorphs (78%) and a decrease in Lymphocytes (18%). The E.S.R. is markedly elevated at 40 mm/1hrs. The platelet count is reduced to 1.28 Lacks.
+
+### Model Confidence (0-100%)
+100%

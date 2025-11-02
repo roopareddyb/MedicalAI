@@ -1,0 +1,16 @@
+### Key Findings
+- **HAEMOGLOBIN**: 11.8 gm/dL (Low, Reference Range: 12.0-18.0)
+- **TOTAL LEUCOCYTE COUNT**: 20500 /cumm (High, Reference Range: 4000-11000)
+- **Neutrophils**: 84 % (High, Reference Range: 40-75)
+- **Lymphocytes**: 12 % (Low, Reference Range: 20-45)
+- **MCH**: 25.7 pg (Low, Reference Range: 27.00-32.00)
+- **RDW**: 15.2 % (High, Reference Range: 11.5-14.5)
+
+### Summary
+The report indicates mild anemia with low hemoglobin and mean corpuscular hemoglobin (MCH). There is significant leukocytosis, primarily due to an elevated neutrophil count (neutrophilia) and a decreased lymphocyte count (lymphopenia). The red cell distribution width (RDW) is also elevated.
+
+### Clinical Notes
+The patient exhibits a hemoglobin level of 11.8 gm/dL, which is slightly below the lower limit of the reference range, accompanied by a low MCH of 25.7 pg. The total leukocyte count is markedly elevated at 20500 /cumm, with a differential showing an increased percentage of neutrophils (84%) and a decreased percentage of lymphocytes (12%). The RDW is 15.2%, exceeding the upper limit of the reference range. Other parameters, including TOTAL R.B.C. COUNT, P.C.V./Haematocrit value, MCV, MCHC, and PLATELET COUNT, are within their respective reference ranges.
+
+### Model Confidence (0-100%)
+100%

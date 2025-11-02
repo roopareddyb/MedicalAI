@@ -1,0 +1,45 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN (HB) 13.8 gm/dl 11.0 - 17.0
+TOTAL COUNT 9920 cells/cumm 4000 - 11000
+POLYMORPHS 77.6 % 50 - 80
+LYMPHOCYTES 14.0 % 25 - 50
+MONOCYTES 7.0 % 2 - 10
+EOSINOPHILS 0.1 % < 5
+BASOPHILS 0.3 % <2
+PLATELET COUNT 1.0 Lakhs/cumm 1.5 - 5.0
+RBC 4.11 million/cmm 3.8 - 6.5
+PCV 39.9 % 37.0 - 54.0
+MCV 97.1 fL 80 - 100
+MCH 33.6 pg 27.0 - 32.0
+
+### Interpretation
+### Key Findings
+- Haemoglobin (Hb): 13.8 gm/dl (within normal range: 11.0 - 17.0)
+- Total Count (WBC): 9920 cells/cumm (normal range: 4000 - 11000)
+- Polymorphs: 77.6% (high-normal, upper end of normal 50 - 80%)
+- Lymphocytes: 14.0% (low, below normal range 25 - 50%)
+- Monocytes: 7.0% (normal range 2 - 10%)
+- Eosinophils: 0.1% (normal, < 5%)
+- Basophils: 0.3% (normal, < 2%)
+- Platelet Count: 1.0 Lakhs/cumm (low, reference range 1.5 - 5.0 Lakhs/cumm)
+- RBC: 4.11 million/cmm (normal range 3.8 - 6.5)
+- PCV (Hematocrit): 39.9% (normal range 37.0 - 54.0)
+- MCV: 97.1 fL (normal range 80 - 100)
+- MCH: 33.6 pg (slightly elevated, normal range 27.0 - 32.0)
+
+### Summary
+- The hemoglobin level and RBC count are within normal limits.
+- White blood cell total count is normal but shows a shift in differential count with decreased lymphocytes and elevated polymorphs, which may indicate an acute bacterial infection or inflammation.
+- Platelet count is low (thrombocytopenia).
+- Mean corpuscular hemoglobin (MCH) is mildly elevated, possibly indicating macrocytic red cells or variation in cell hemoglobin content.
+- Other parameters like PCV, MCV, monocytes, eosinophils, and basophils are within normal ranges.
+
+### Clinical Notes
+- The low lymphocyte percentage combined with high polymorphs suggests a possible acute bacterial infection or stress response.
+- Thrombocytopenia should be further evaluated for potential causes such as viral infections, bone marrow suppression, or platelet destruction.
+- Slightly elevated MCH with normal MCV may require correlation with clinical context and further testing if anemia symptoms are present.
+- Overall, the blood picture warrants clinical correlation and possibly further investigation depending on patient symptoms and history.
+
+### Model Confidence (0-100%)
+95%

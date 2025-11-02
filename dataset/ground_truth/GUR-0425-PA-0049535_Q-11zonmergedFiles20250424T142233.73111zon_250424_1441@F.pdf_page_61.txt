@@ -1,0 +1,18 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+ESR 54 mm/1st. hr. 0-20
+
+### Interpretation
+### Key Findings
+- ESR (Erythrocyte Sedimentation Rate) is elevated at 54 mm/hr.
+- The normal reference range for ESR is 0-20 mm/hr.
+
+### Summary
+- The ESR value is significantly higher than the normal range, indicating the presence of inflammation or an ongoing inflammatory process.
+
+### Clinical Notes
+- An elevated ESR can be seen in a variety of conditions including infections, autoimmune diseases, chronic inflammatory conditions, and malignancies.
+- Further clinical correlation and additional diagnostic workup may be necessary to determine the underlying cause of the elevated ESR.
+
+### Model Confidence (0-100%)
+95%

@@ -1,0 +1,13 @@
+### Key Findings
+-   **TOTAL LEUCOCYTE COUNT (TLC)**: Elevated at 20,600 /cumm (Reference Range: 4000-11000 /cumm).
+-   **NEUTROPHIL**: Elevated at 79 % (Reference Range: 40-75 %).
+-   **LYMPHOCYTE**: Decreased at 15 % (Reference Range: 20-45 %).
+
+### Summary
+The laboratory report indicates an elevated Total Leucocyte Count (TLC) of 20,600 /cumm, which is above the normal reference range. This leukocytosis is primarily characterized by an elevated Neutrophil percentage of 79%, exceeding its reference range, and a decreased Lymphocyte percentage of 15%, falling below its reference range. All other measured parameters, including HAEMOGLOBIN (Hb), EOSINOPHIL, MONOCYTE, BASOPHIL, PLATELET COUNT, RBC COUNT, PCV/HAEMATOCRIT, MCV, MCH, and MCHC, are within their respective reference ranges. No data is available for URINE RM.
+
+### Clinical Notes
+Based solely on the provided laboratory values, the findings suggest leukocytosis with neutrophilia and relative lymphopenia. This pattern is often associated with acute bacterial infections or inflammatory processes. Further clinical evaluation and correlation with the patient's symptoms and medical history are recommended to determine the underlying cause and guide appropriate management.
+
+### Model Confidence (0-100%)
+100%

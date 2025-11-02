@@ -1,0 +1,31 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN(HB),13.8,gm/dL,11.0-17.0
+TOTAL COUNT,9920,cells/cumm,4000-11000
+POLYMORPHS,77.6,%,50-80
+LYMPHOCYTES,14.0,%,25-50
+MONOCYTES,7.0,%,2-10
+EOSINOPHILS,0.1,%,<5
+BASOPHILS,0.3,%,<2
+PLATELET COUNT,1.0,Lakhs/cumm,1.5-5.0
+RBC,4.11,million/cmm,3.8-6.5
+PCV,39.9,%,37.0-54.0
+MCV,97.1,fL,80-100
+MCH,33.6,pg,27.0-32.0
+
+### Interpretation
+### Key Findings
+- **Lymphocytes**: 14.0% (Reference Range: 25-50%) - Low
+- **PLATELET COUNT**: 1.0 Lakhs/cumm (Reference Range: 1.5-5.0 Lakhs/cumm) - Low
+- **MCH**: 33.6 pg (Reference Range: 27.0-32.0 pg) - High
+
+### Summary
+The report indicates a low lymphocyte count and platelet count, along with an elevated MCH. All other measured parameters, including Haemoglobin, Total Count, Polymorphs, Monocytes, Eosinophils, Basophils, RBC, PCV, and MCV, are within their respective reference ranges.
+
+### Clinical Notes
+- Lymphocytes are observed at 14.0%, which is below the lower limit of the reference range of 25%.
+- Platelet Count is observed at 1.0 Lakhs/cumm, which is below the lower limit of the reference range of 1.5 Lakhs/cumm.
+- MCH is observed at 33.6 pg, which is above the upper limit of the reference range of 32.0 pg.
+
+### Model Confidence (0-100%)
+100%

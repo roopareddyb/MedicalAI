@@ -1,0 +1,32 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+GLYCOSYLATED HEMOGLOBIN (HBA1C) 6.6 % Non-diabetic Adult < 5.7 Pre-diabetes 5.7 - 6.4 Diabetes diagnosis: > or = 6.5 Therapeutic goals: < 7.0 Action suggested : > 8.0 (ADA Guideline 2021)
+MEAN PLASMA GLUCOSE 142.7 mg/dL < 116.0
+HEPATITIS B CORE ANTIBODIES (TOTAL) NON REACTIVE NON REACTIVE N/A
+PATIENT VALUE 0.150 S/CO < 1.00 (Non Reactive) > or = 1.00 (Reactive)
+HEPATITIS B SURFACE ANTIGEN 0.39 COI < 1.00 Non-reactive > or = 1.00 Reactive
+HEPATITIS C ANTIBODIES NON REACTIVE NON REACTIVE N/A
+PATIENT VALUE 0.05 COI < 0.9:Non-reactive > or = 0.9 to < 1.0 :Borderline > or = 1.0:Reactive
+HIV 4TH GEN ASSAY (P24AG + HIV AB) NON REACTIVE NON REACTIVE N/A
+
+### Interpretation
+### Key Findings
+- Glycosylated Hemoglobin (HbA1c): 6.6% (Diabetes diagnosis threshold ≥ 6.5%)
+- Mean Plasma Glucose: 142.7 mg/dL (Above reference range <116.0 mg/dL)
+- Hepatitis B Core Antibodies (Total): Non-reactive (0.150 S/CO, reference <1.00 non-reactive)
+- Hepatitis B Surface Antigen: Non-reactive (0.39 COI, reference <1.00 non-reactive)
+- Hepatitis C Antibodies: Non-reactive (0.05 COI, reference <0.9 non-reactive)
+- HIV 4th Gen Assay (P24Ag + HIV Ab): Non-reactive
+
+### Summary
+The patient’s HbA1c is 6.6%, which meets the diagnostic criteria for diabetes mellitus (≥6.5%) according to ADA guidelines. The mean plasma glucose is elevated, supporting hyperglycemia. Viral serologies for Hepatitis B (core antibodies and surface antigen), Hepatitis C, and HIV are all non-reactive, indicating no current infection with these viruses.
+
+### Clinical Notes
+- The HbA1c level suggests established diabetes; glycemic control should be evaluated and treatment optimized as needed.
+- Mean plasma glucose confirms elevated glucose levels consistent with the HbA1c.
+- The patient shows no serological evidence of Hepatitis B, Hepatitis C, or HIV infections.
+- Monitoring and management should focus on diabetes care, including lifestyle modifications and/or pharmacotherapy.
+- Further assessment may include evaluating for diabetes complications and cardiovascular risk factors.
+
+### Model Confidence (0-100%)
+99%

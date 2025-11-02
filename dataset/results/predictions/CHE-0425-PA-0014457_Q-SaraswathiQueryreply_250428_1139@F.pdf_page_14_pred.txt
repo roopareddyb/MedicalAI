@@ -1,0 +1,25 @@
+### Key Findings
+-   **Total WBC Count**: 17.53 10^3/µL (Reference Range: 4-11 10^3/µL) - Elevated
+-   **Lymphocyte**: 18.3 % (Reference Range: 20-40 %) - Low
+-   **Monocyte**: 12.2 % (Reference Range: 2-10 %) - Elevated
+-   **Eosinophil**: 0.0 % (Reference Range: 1-6 %) - Low
+-   **Absolute Neutrophil Count (ANC)**: 12.15 10^3/µL (Reference Range: 2-7 10^3/µL) - Elevated
+-   **Absolute Lymphocyte Count (ALC)**: 3.21 10^3/µL (Reference Range: 1-3 10^3/µL) - Elevated
+-   **Absolute Monocyte Count (AMC)**: 2.14 10^3/µL (Reference Range: 0.2-1 10^3/µL) - Elevated
+-   **Absolute Eosinophil Count (AEC)**: 0.00 10^3/µL (Reference Range: 0.02-0.5 10^3/µL) - Low
+-   **Erythrocyte Sedimentation Rate (ESR)**: 55 mm/1hr (Reference Range: 0-30 mm/1hr) - Elevated
+
+### Summary
+The complete blood count shows an elevated Total WBC Count (17.53 10^3/µL). This is primarily driven by an elevated Absolute Neutrophil Count (12.15 10^3/µL), an elevated Absolute Monocyte Count (2.14 10^3/µL), and an elevated Absolute Lymphocyte Count (3.21 10^3/µL). Relative percentages show low Lymphocytes (18.3%) and Eosinophils (0.0%), with elevated Monocytes (12.2%). The Erythrocyte Sedimentation Rate (ESR) is significantly elevated at 55 mm/1hr. Red blood cell parameters and platelet count are within their respective reference ranges.
+
+### Clinical Notes
+-   **Leukocytosis**: Total WBC count is elevated (17.53 10^3/µL).
+-   **Neutrophilia**: Absolute Neutrophil Count is elevated (12.15 10^3/µL).
+-   **Monocytosis**: Both relative Monocyte percentage (12.2%) and Absolute Monocyte Count (2.14 10^3/µL) are elevated.
+-   **Lymphocytosis**: Absolute Lymphocyte Count is elevated (3.21 10^3/µL), despite a low relative Lymphocyte percentage (18.3%).
+-   **Eosinopenia**: Both relative Eosinophil percentage (0.0%) and Absolute Eosinophil Count (0.00 10^3/µL) are low.
+-   **Elevated ESR**: The Erythrocyte Sedimentation Rate is significantly elevated (55 mm/1hr), indicating inflammation.
+-   All other parameters, including Haemoglobin, Haematocrit, Total RBC Count, MCV, MCH, MCHC, RDW-CV, Basophil percentage, Absolute Basophil Count, and Platelet Count, are within their respective reference ranges.
+
+### Model Confidence (0-100%)
+100%

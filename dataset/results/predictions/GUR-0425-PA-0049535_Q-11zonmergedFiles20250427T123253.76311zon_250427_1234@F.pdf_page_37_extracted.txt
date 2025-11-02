@@ -1,0 +1,18 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+C.R.P (QUANTITATIVE) C.R.P,18.9,UL,0-6
+
+### Interpretation
+### Key Findings
+- The C.R.P (QUANTITATIVE) C.R.P level is 18.9 UL.
+- The reference range for C.R.P is 0-6 UL.
+- The patient's C.R.P level is elevated above the established reference range.
+
+### Summary
+A C.R.P (QUANTITATIVE) C.R.P test was performed, yielding a result of 18.9 UL. This value is higher than the established reference range of 0-6 UL, indicating an elevated C.R.P level.
+
+### Clinical Notes
+The C.R.P (QUANTITATIVE) C.R.P result of 18.9 UL is significantly elevated compared to the reference range of 0-6 UL. Elevated C.R.P levels are generally indicative of inflammation or infection. Clinical correlation with patient symptoms and other diagnostic findings is recommended for further evaluation.
+
+### Model Confidence (0-100%)
+95%

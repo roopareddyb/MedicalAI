@@ -1,0 +1,24 @@
+### Key Findings
+- Lymphocytes are low at 14.0% (Reference Range: 25-50%).
+- Platelet Count is low at 1.0 Lakhs/cumm (Reference Range: 1.5-5.0 Lakhs/cumm).
+- MCH is high at 33.6 Pg (Reference Range: 27.0-32.0 Pg).
+
+### Summary
+The complete blood count indicates that Haemoglobin, Total Count, Polymorphs, Monocytes, Eosinophils, Basophils, RBC, PCV, and MCV are within their respective reference ranges. However, the Lymphocyte count and Platelet Count are below the lower limit of their reference ranges, while MCH is above its upper limit.
+
+### Clinical Notes
+- HAEMOGLOBIN(HB): 13.8 gm/dl (Normal, Reference Range: 11.0-17.0)
+- TOTAL COUNT: 9920 cells/cumm (Normal, Reference Range: 4000-11000)
+- POLYMORPHS: 77.6 % (Normal, Reference Range: 50-80)
+- LYMPHOCYTES: 14.0 % (Low, Reference Range: 25-50)
+- MONOCYTES: 7.0 % (Normal, Reference Range: 2-10)
+- EOSINOPHILS: 0.1 % (Normal, Reference Range: <5)
+- BASOPHILS: 0.3 % (Normal, Reference Range: <2)
+- PLATELET COUNT: 1.0 Lakhs/cumm (Low, Reference Range: 1.5-5.0)
+- RBC: 4.11 million/cmm (Normal, Reference Range: 3.8-6.5)
+- PCV: 39.9 % (Normal, Reference Range: 37.0-54.0)
+- MCV: 97.1 fL (Normal, Reference Range: 80-100)
+- MCH: 33.6 Pg (High, Reference Range: 27.0-32.0)
+
+### Model Confidence
+100%

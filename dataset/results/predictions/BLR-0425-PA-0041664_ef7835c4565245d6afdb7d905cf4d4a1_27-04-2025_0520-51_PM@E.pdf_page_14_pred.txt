@@ -1,0 +1,15 @@
+### Key Findings
+- Haemoglobin is slightly low at 11.7 g/dL (Reference Range: 12.0-15.0 g/dL).
+- RDW-CV is slightly low at 11.3% (Reference Range: 11.6-15%).
+- Neutrophils are elevated at 74.5% (Reference Range: 40-70%).
+- Lymphocytes are decreased at 16.2% (Reference Range: 20-40%).
+- WBC Morphology indicates Neutrophilia.
+
+### Summary
+The complete blood count reveals a mild decrease in Haemoglobin and RDW-CV. The differential white blood cell count shows an elevated percentage of Neutrophils (74.5%) and a decreased percentage of Lymphocytes (16.2%), which is consistent with the reported Neutrophilia in WBC morphology. All other measured parameters, including total WBC count, Platelet count, RBC count, Haematocrit, MCV, MCH, MCHC, MPV, P-LCR, Eosinophils, Monocytes, Basophils, IG, and NRBC, are within their respective reference ranges. RBC morphology is reported as normocytic and normochromic, and platelets are adequate. Malarial parasites were not seen.
+
+### Clinical Notes
+The patient exhibits mild anemia based on the Haemoglobin level. The low RDW-CV is also noted. The observed Neutrophilia (elevated Neutrophils and decreased Lymphocytes) suggests a shift in the white blood cell differential, which can be associated with various conditions such as infection or inflammation, despite the total WBC count being within the normal range. Red blood cell indices (MCV, MCH, MCHC) and morphology are normal, indicating normocytic and normochromic red cells. Platelet count and morphology are adequate. There is no evidence of malarial parasites.
+
+### Model Confidence (0-100%)
+100%

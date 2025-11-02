@@ -1,0 +1,53 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 12.6 gms/dl 12.0 - 15.0
+Total WBC Count 10900 /ul 4500 - 11000
+Neutrophil 55 % 40 - 70
+Lymphocytes 40 % 20 - 40
+Eosinophil 02 % 1 - 6
+Monocytes 03 % 2 - 8
+Basophils 00 % 0 - 1
+Haematocrit (HCT) 38.6 % 37.0 - 47.0
+RBC Count 4.23 mil./cmm 4.5 - 6.5
+MCV 91.25 fL 80 - 100
+MCH 29.79 pg 27 - 34
+MCHC 32.64 gm/dl 32 - 36
+RDW-CV 12.6 % 11 - 16
+RDW-SD 46.5 fL 36 - 56
+Platelet Count 361000 /cmm 150000 - 450000
+MPV 9.1 fL 6.5 - 12
+PDW 14.9 fL 9 - 17
+PCT 0.33 % 0.10 - 0.50
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 12.6 g/dl (within normal range)
+- Total WBC Count: 10,900 /µl (upper normal limit)
+- Neutrophils: 55% (normal)
+- Lymphocytes: 40% (upper normal limit)
+- Eosinophils: 2% (normal)
+- Monocytes: 3% (normal)
+- Basophils: 0% (normal)
+- Hematocrit: 38.6% (normal)
+- RBC Count: 4.23 million/cmm (slightly low)
+- MCV: 91.25 fL (normal)
+- MCH: 29.79 pg (normal)
+- MCHC: 32.64 g/dl (normal)
+- RDW-CV: 12.6% (normal)
+- RDW-SD: 46.5 fL (normal)
+- Platelet Count: 361,000 /cmm (normal)
+- MPV: 9.1 fL (normal)
+- PDW: 14.9 fL (normal)
+- PCT: 0.33% (normal)
+
+### Summary
+The complete blood count shows overall normal values except for a slightly decreased red blood cell count and borderline total white blood cell count at the high end of the reference range. Hemoglobin and hematocrit are within normal limits, indicating no significant anemia. Platelet parameters are also normal. Differential counts are balanced with no apparent leukocytosis or eosinophilia.
+
+### Clinical Notes
+- The mild reduction in RBC count warrants clinical correlation but hemoglobin and hematocrit suggest adequate oxygen-carrying capacity.
+- The total WBC count is at the upper limit of normal, possibly indicating a reactive or inflammatory state if clinically relevant.
+- Differential percentages are within normal ranges, suggesting no active infection or hematologic disorder.
+- Continue routine monitoring as indicated by clinical context.
+
+### Model Confidence (0-100%)
+95%

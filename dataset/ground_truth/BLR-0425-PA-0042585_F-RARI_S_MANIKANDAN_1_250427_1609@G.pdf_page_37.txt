@@ -1,0 +1,30 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+RDW (sheath flow DC detection) 13.7 % 11.60-13.70
+Platelet Count (sheath flow DC detection / Optical) 299 thousand/cu.mm 150-400
+MPV (sheath flow DC detection) 9.2 fL 7.80-11
+Glucose Random (Hexokinase method) 99 mg/dL Normal range 70-140 mg/dL
+Beta HCG (ECLIA) <0.2 mIU/ml Non pregnant: 0.1-5.7 mIU/ml Pregnant 1st week: 10-30 mIU/ml 2nd week: 30-100 mIU/ml 3rd week: 100-1000 mIU/ml 4th week: 1000-10,000 mIU/ml 2-3 months: 30,000-1,00,000 mIU/ml 2nd trimester: 10,000-30,000 mIU/ml 3rd trimester: 5000-15,000 mIU/ml
+CRP (Immunoturbidimetric method) 14.5 mg/L 0-5
+
+### Interpretation
+### Key Findings
+- RDW: 13.7% (at upper limit of normal, 11.6-13.7%)
+- Platelet Count: 299 thousand/cu.mm (normal, 150-400)
+- MPV: 9.2 fL (normal, 7.8-11)
+- Random Glucose: 99 mg/dL (normal, 70-140)
+- Beta HCG: <0.2 mIU/ml (consistent with non-pregnant reference range 0.1-5.7)
+- CRP: 14.5 mg/L (elevated, normal 0-5 mg/L)
+
+### Summary
+The patient's complete blood count parameters including RDW, platelet count, and MPV are within or at the upper end of normal limits. Random blood glucose is within normal range. Beta HCG is undetectable, consistent with a non-pregnant status. C-reactive protein is elevated at 14.5 mg/L, indicating an active inflammatory or infectious process.
+
+### Clinical Notes
+- Elevated CRP suggests the presence of inflammation or infection that may require further clinical correlation and possible investigation.
+- Normal glucose level indicates no current hyperglycemia.
+- Normal platelet parameters reduce the likelihood of platelet disorders at this time.
+- Beta HCG level confirms the patient is not pregnant.
+- RDW at the upper normal limit may warrant monitoring if clinically indicated.
+
+### Model Confidence (0-100%)
+95%

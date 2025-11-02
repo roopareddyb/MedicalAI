@@ -1,0 +1,18 @@
+### Key Findings
+- Hemoglobin: 11.6 gm/dL (Low, Reference Range: 13.0-17.0 gm/dL)
+- Mean Cell Hemoglobin (MCH): 22.7 pg (Low, Reference Range: 27-33 pg)
+- Mean Cell Hb Conc (MCHC): 25.7 % (Low, Reference Range: 32-38 %)
+- Absolute Lymphocytes Count: 22018 /cumm (High, Reference Range: 1000-3000 /cumm)
+
+### Summary
+The report indicates low Hemoglobin, Mean Cell Hemoglobin (MCH), and Mean Cell Hb Conc (MCHC). The Absolute Lymphocytes Count is elevated. All other reported parameters with reference ranges are within normal limits. Platelet Count has no reference range provided.
+
+### Clinical Notes
+- Hemoglobin is decreased at 11.6 gm/dL, which is below the reference range of 13.0-17.0 gm/dL.
+- Red blood cell indices show decreased Mean Cell Hemoglobin (MCH) at 22.7 pg (reference range: 27-33 pg) and decreased Mean Cell Hb Conc (MCHC) at 25.7% (reference range: 32-38 %).
+- The Absolute Lymphocytes Count is significantly elevated at 22018 /cumm, exceeding its reference range of 1000-3000 /cumm.
+- All other complete blood count parameters, including Packed Cell Volume (HCT), R.B.C. Count, Mean Cell Volume (MCV), Total WBC Count, Neutrophils, Lymphocytes, Eosinophils, Monocytes, Absolute Neutrophils Count, Absolute Monocytes Count, and Absolute Eosinophils Count, AEC, are within their respective reference ranges.
+- Platelet Count is 398000 cells/cumm; no reference range is provided for comparison.
+
+### Model Confidence (0-100%)
+100%

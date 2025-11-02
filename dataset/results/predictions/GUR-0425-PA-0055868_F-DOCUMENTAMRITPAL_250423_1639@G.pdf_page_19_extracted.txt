@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Blood Sugar Random,93.0,mg/dL,80-150
+Haemo,11.5,L,N/A
+PCV,35.8,%,36-52
+MCV,82.7,fL,80.0-96.0
+MCH,26.6,pgms,27.0-32.0
+MCHC,32.1,%,31.5-34.5
+Total WBC count,17100,H,/cmm,4000-10000
+Neutrophil,78.0,H,%,40-70
+Lymphocytes,20.0,%,20-45
+Eosinophils,1.0,%,00-06
+Monocytes,1.0,%,00-08
+Platelet Count,197000,/cmm,-150000-450000
+Serum Sodium,139.6,Meq/L,135-155
+Calcium Ionized,4.62,mg/dL,4.6-5.3
+Serum Potassium,3.79,Meq/L,3.5-5.6
+Serum Chlorides,102.8,Meq/L,99-108
+Blood Urea,37,mg/dL,10 to 40
+
+### Interpretation
+### Key Findings
+-   **PCV**: 35.8% (Reference Range: 36-52%) - **Low**
+-   **MCH**: 26.6 pgms (Reference Range: 27.0-32.0 pgms) - **Low**
+-   **Total WBC count**: 17100 /cmm (Reference Range: 4000-10000 /cmm) - **High**
+-   **Neutrophil**: 78.0% (Reference Range: 40-70%) - **High**
+
+### Summary
+The laboratory results show an elevated total white blood cell count and neutrophil percentage. Additionally, the PCV and MCH values are below their respective reference ranges. All other tested parameters, including random blood sugar, MCV, MCHC, lymphocyte, eosinophil, monocyte percentages, platelet count, serum electrolytes (sodium, potassium, chlorides), ionized calcium, and blood urea, are within their specified reference ranges. The 'Haemo' test result could not be interpreted due to the absence of a reference range.
+
+### Clinical Notes
+The elevated Total WBC count (17100 /cmm) and Neutrophil percentage (78.0%) are above the upper limits of their reference ranges.
+The PCV (35.8%) and MCH (26.6 pgms) are below the lower limits of their reference ranges.
+All other reported values are within the established reference ranges.
+
+### Model Confidence (0-100%)
+100%

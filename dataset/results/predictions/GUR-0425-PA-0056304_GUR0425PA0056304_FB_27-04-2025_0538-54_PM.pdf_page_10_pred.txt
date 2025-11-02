@@ -1,0 +1,23 @@
+### Key Findings
+*   **Hematology:**
+    *   Haemoglobin is low at 11.9 g/dL (Reference Range: 12-16 g/dL).
+    *   Lymphocytes are low at 15% (Reference Range: 20-40%).
+    *   RBC COUNT is low at 3.85 10^6/uL (Reference Range: 4.2-5.4 10^6/uL).
+    *   Packed cell volume is low at 34.2% (Reference Range: 37-47%).
+*   **Coagulation Profile:**
+    *   PROTHROMBIN TIME (13.1 Sec) is within the reference range (10.1-14.7 Sec).
+    *   APTT (31.2 Sec) is within the reference range (27.8-37.2 Sec).
+*   **Urine Analysis:**
+    *   Protein and Reducing Sugar are NEGATIVE.
+    *   Other urine parameters (Volume, Colour, Appearance, pH, Specific Gravity, Pus Cells, Epithelial Cells, Casts, Crystals) do not have reference ranges provided in the table.
+*   **Blood Group:**
+    *   Blood group is B' POSITIVE.
+
+### Summary
+The patient's hematology results show several values below the reference range, including Haemoglobin (11.9 g/dL), Lymphocytes (15%), RBC COUNT (3.85 10^6/uL), and Packed cell volume (34.2%). Other hematological parameters such as TLC, Eosinophils, Monocytes, MCV, MCHC, and MCH are within their respective normal ranges. Coagulation tests, PROTHROMBIN TIME (13.1 Sec) and APTT (31.2 Sec), are within normal limits. Urine analysis indicates negative results for Protein and Reducing Sugar, with other parameters reported without reference ranges. The patient's blood group is B' POSITIVE.
+
+### Clinical Notes
+The laboratory report indicates a pattern of reduced red blood cell parameters, specifically low Haemoglobin, RBC COUNT, and Packed cell volume. Lymphocytes are also noted to be below the established reference range. The remaining white blood cell differentials (TLC, Eosinophils, Monocytes) and red blood cell indices (MCV, MCHC, MCH) are within normal limits. Coagulation studies, including PROTHROMBIN TIME and APTT, are within their expected ranges. Urine microscopy and chemical analysis show no protein or reducing sugar, and other physical and microscopic findings are reported without comparative reference ranges.
+
+### Model Confidence (0-100%)
+100%

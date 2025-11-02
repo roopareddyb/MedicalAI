@@ -1,0 +1,38 @@
+### Extracted Table
+Test Name, Result, Unit, Reference Range
+Hemoglobin, 11.3, g/dL, 11.5-14.5
+Basophils, 00, %, 0-1
+Platelet Count, 266, 10^3/mm^3, 150-450
+RBC COUNT, 4.2, Million/uL, 3.8-4.8
+Packed cell volume, 34.5, %, 30-46
+WBC count, 14.2, 10^3/mm^3, 4-11
+Neutrophils, 93, %, 40-75
+Lymphocytes, 05, %, 20-40
+Monocytes, 01, %, 0-10
+Eosinophils, 01, %, 1-6
+Hemoglobin, 9.7, g/dL, 11.5-14.5
+Packed cell volume, 28.6, %, 30-46
+HBS ANTIGEN, N/A, N/A, N/A
+HCV-HEPATITIS C VIRUS, N/A, N/A, N/A
+HIV I AND II RAPID, N/A, N/A, N/A
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 11.3 g/dL (Reference Range: 11.5-14.5 g/dL) - Low
+- WBC count: 14.2 10^3/mm^3 (Reference Range: 4-11 10^3/mm^3) - High
+- Neutrophils: 93 % (Reference Range: 40-75 %) - High
+- Lymphocytes: 05 % (Reference Range: 20-40 %) - Low
+- Hemoglobin: 9.7 g/dL (Reference Range: 11.5-14.5 g/dL) - Low
+- Packed cell volume: 28.6 % (Reference Range: 30-46 %) - Low
+- HBS ANTIGEN: N/A - Result not available
+- HCV-HEPATITIS C VIRUS: N/A - Result not available
+- HIV I AND II RAPID: N/A - Result not available
+
+### Summary
+The report indicates two instances of low Hemoglobin (11.3 g/dL and 9.7 g/dL) and a low Packed Cell Volume (28.6 %), suggesting anemia. The White Blood Cell (WBC) count is elevated at 14.2 10^3/mm^3, primarily due to a high Neutrophil percentage (93 %), while Lymphocytes are low (05 %). Other parameters such as Basophils (00 %), Platelet Count (266 10^3/mm^3), RBC COUNT (4.2 Million/uL), Monocytes (01 %), and Eosinophils (01 %) are within their respective reference ranges. Results for HBS ANTIGEN, HCV-HEPATITIS C VIRUS, and HIV I AND II RAPID are not available.
+
+### Clinical Notes
+The laboratory findings show evidence of anemia, characterized by reduced Hemoglobin and Packed Cell Volume values. Additionally, there is leukocytosis (elevated WBC count) with a differential pattern indicating neutrophilia (high neutrophils) and lymphopenia (low lymphocytes). This pattern of white blood cell abnormalities may suggest an inflammatory or infectious process. Specific serological tests for Hepatitis B, Hepatitis C, and HIV were not performed or results were not provided in this report. These findings should be interpreted in the context of the patient's clinical presentation and medical history.
+
+### Model Confidence (0-100%)
+100%

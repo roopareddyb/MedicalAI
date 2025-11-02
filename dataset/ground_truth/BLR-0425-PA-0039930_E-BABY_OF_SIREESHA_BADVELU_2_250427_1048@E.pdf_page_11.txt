@@ -1,0 +1,39 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Platelet count 2.78 Lakhs/Cumm 2.1 - 5.0
+Mean Cell Volume (MCV) 106.7 fI 92 - 118
+Mean Cell Haemoglobin (MCH) 36.1 pg 31 - 37
+Mean Cell Haemoglobin Concentration (MCHC) 33.8 g/L 29 - 47
+RDW 16.0 % 11.6 - 14.0
+Neutrophils 58 % 20 - 45
+Lymphocytes 26 % 28 - 35
+Eosinophils 07 % 1.4 - 4.3
+Monocytes 09 % 4 - 7
+Basophils 00 % 0 - 1
+
+### Interpretation
+### Key Findings
+- Platelet count: 2.78 Lakhs/Cumm (within normal range 2.1 - 5.0)
+- Mean Cell Volume (MCV): 106.7 fL (within normal range 92 - 118)
+- Mean Cell Hemoglobin (MCH): 36.1 pg (within normal range 31 - 37)
+- Mean Cell Hemoglobin Concentration (MCHC): 33.8 g/L (within normal range 29 - 47)
+- Red Cell Distribution Width (RDW): 16.0% (elevated; normal range 11.6 - 14.0)
+- Neutrophils: 58% (elevated; normal range 20 - 45)
+- Lymphocytes: 26% (slightly decreased; normal range 28 - 35)
+- Eosinophils: 7% (elevated; normal range 1.4 - 4.3)
+- Monocytes: 9% (elevated; normal range 4 - 7)
+- Basophils: 0% (within normal range 0 - 1)
+
+### Summary
+The complete blood count shows a normal platelet count and red blood cell indices (MCV, MCH, MCHC). However, there is an increased RDW indicating variability in red blood cell size. The differential white blood cell count reveals neutrophilia, eosinophilia, and monocytosis, with a slight lymphopenia.
+
+### Clinical Notes
+- Elevated RDW may indicate anisocytosis, suggesting possible mixed anemia or recent changes in erythropoiesis.
+- Neutrophilia often reflects infection, inflammation, or stress.
+- Eosinophilia can be associated with allergic reactions, parasitic infections, or certain hematologic conditions.
+- Monocytosis may be seen in chronic inflammation, infection, or recovery phases.
+- Slightly low lymphocytes could be due to stress or acute infection.
+- Correlation with clinical symptoms and further investigations is advised to determine the underlying cause of these hematological changes.
+
+### Model Confidence (0-100%)
+95%

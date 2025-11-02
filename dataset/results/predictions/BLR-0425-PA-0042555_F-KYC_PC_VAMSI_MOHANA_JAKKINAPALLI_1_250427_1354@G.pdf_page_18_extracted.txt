@@ -1,0 +1,45 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Colour (Macroscopy),PALE YELLOW,N/A,(Pale Yellow - Yellow)
+Appearance (Macroscopy),SLIGHTLY TURBID,N/A,N/A
+Reaction [PH] (Strip Double Indicator),8.0,N/A,(4.6-8.8)
+Specific Gravity(Ionic Conceration),1.015,N/A,(1.015-1.025)
+Protein/Albumin (Strip Method),NIL,N/A,(NIL-TRACE)
+Glucose (Benedict / Strip Method),NIL,N/A,(NIL)
+Ketone Bodies (Rothera's/Strip Method),NIL,N/A,(NIL)
+Urobilinogen (Ehrlich reaction/Strip Method),NIL,N/A,(NORMAL)
+Bile Salts (Hay's Test),NIL,N/A,(NEGATIVE)
+Bile Pigments (Fouchet's test),NIL,N/A,(NIL)
+WBC/Pus Cells,4-6,/hpf,(4-6)
+Red Blood Cells,NIL,N/A,(1-2)
+Epithelial Cells,1-2,/hpf,(2-4)
+Casta,HYALINE CAST,N/A,(NIL)
+Crystals,NIL,N/A,(NIL)
+WBC Count (TC),9000,/cu.mm,[4400-11000]
+RBC Count,5.15,million/cu.mm,[4.50-5.50]
+Haemoglobin,15.0,g/dL,[13.0-<17.0)
+Haematocrit [PCV],42.6,%,[40.0-50.0]
+MCV,82.6,fL,[83.0-101.0]
+MCH,29.1,pg,[27.0-32.0)
+MCHC,35.2,g/dL,[31.5-34.5]
+Platelet Count,242000,/cu.mm,[150000-400000]
+RDW (CV),13.2,%,[11.6-14.0)
+Neutrophils,55.1,%,[40.0-75.0)
+Lymphocytes,36.9,%,[20.0-45.0]
+Monocytes,5.6,%,[2.0-10.0)
+Eosinophils,1.8,%,(0.0-7.0)
+Basophils,0.6,%,[0.0-1.0]
+SERUM CREATININE (Kinetic mod.Jaffe),0.84,mg/dL,[0.80-1.60)
+*eGFR (Calculated),105.7,mL/min/1.73sq.m,[>60.0]
+
+### Interpretation
+### Key Findings
+- Urine appearance is slightly turbid.
+- Hyaline Casts are present in urine (reference range: NIL).
+- Red Blood Cells in urine are NIL /hpf (reference range: 1-2 /hpf).
+- Epithelial Cells in urine are 1-2 /hpf (reference range: 2-4 /hpf).
+- Mean Corpuscular Volume (MCV) is 82.6 fL (reference range: 83.0-101.0 fL).
+- Mean Corpuscular Hemoglobin Concentration (MCHC) is 35.2 g/dL (reference range: 31.5-34.5 g/dL).
+
+### Summary
+The urinalysis reveals a slightly turbid appearance and the presence of Hyaline Casts. Red Blood Cells and

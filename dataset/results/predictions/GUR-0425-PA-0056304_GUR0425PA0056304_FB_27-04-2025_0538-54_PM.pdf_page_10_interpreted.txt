@@ -1,0 +1,71 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Volume,10,mL,N/A
+Colour,Pale Yellow,N/A,N/A
+Appearance,Clear,N/A,N/A
+pH,6.0,N/A,N/A
+Specific Gravity,1.015,N/A,N/A
+Protein,NEGATIVE,N/A,N/A
+Reducing Sugar,NEGATIVE,N/A,N/A
+Pus Cells,2-3,N/A,N/A
+Epithelial Cells,0-1,N/A,N/A
+Casts,Nil,N/A,N/A
+Crystals,Nil,N/A,N/A
+PROTHROMBIN TIME,13.1,Sec,10.1-14.7
+PROTHROMBIN CONTROL,12.5,Sec,N/A
+APTT,31.2,Sec,27.8-37.2
+Haemoglobin,11.9,g/dL,12-16
+TLC,7200,/cu.mm,4000-11000
+Lymphocytes,15,%,20-40
+Eosinophils,03,%,2-6
+Monocytes,05,%,2-10
+RBC COUNT,3.85,10^6/uL,4.2-5.4
+MCV,88.8,fL,82-97
+MCHC,34.8,g/dL,32-36
+MCH,30.9,pg,27-33
+Packed cell volume,34.2,%,37-47
+
+### Interpretation
+### Key Findings
+- Haemoglobin is low at 11.9 g/dL (reference range: 12-16 g/dL).
+- Lymphocytes are low at 15% (reference range: 20-40%).
+- RBC COUNT is low at 3.85 10^6/uL (reference range: 4.2-5.4 10^6/uL).
+- Packed cell volume is low at 34.2% (reference range: 37-47%).
+
+### Summary
+The report includes results from urine analysis, a coagulation profile, and a complete blood count. Urine analysis parameters are provided without reference ranges. Coagulation parameters, PROTHROMBIN TIME and APTT, are within their respective reference ranges. Hematology results indicate several parameters outside normal limits: Haemoglobin, Lymphocytes, RBC COUNT, and Packed cell volume are all low. Other hematology parameters such as TLC, Eosinophils, Monocytes, MCV, MCHC, and MCH are within their normal reference ranges.
+
+### Clinical Notes
+- **Urine Analysis:**
+    - Volume: 10 mL
+    - Colour: Pale Yellow
+    - Appearance: Clear
+    - pH: 6.0
+    - Specific Gravity: 1.015
+    - Protein: NEGATIVE
+    - Reducing Sugar: NEGATIVE
+    - Pus Cells: 2-3
+    - Epithelial Cells: 0-1
+    - Casts: Nil
+    - Crystals: Nil
+    *(Note: No reference ranges provided in the table for urine analysis parameters, thus status relative to normal cannot be determined from the given data.)*
+
+- **Coagulation Profile:**
+    - PROTHROMBIN TIME: 13.1 Sec (Within reference range: 10.1-14.7 Sec)
+    - PROTHROMBIN CONTROL: 12.5 Sec (No reference range provided)
+    - APTT: 31.2 Sec (Within reference range: 27.8-37.2 Sec)
+
+- **Hematology:**
+    - Haemoglobin: 11.9 g/dL (Low; reference range: 12-16 g/dL)
+    - TLC: 7200 /cu.mm (Within reference range: 4000-11000 /cu.mm)
+    - Lymphocytes: 15 % (Low; reference range: 20-40 %)
+    - Eosinophils: 03 % (Within reference range: 2-6 %)
+    - Monocytes: 05 % (Within reference range: 2-10 %)
+    - RBC COUNT: 3.85 10^6/uL (Low; reference range: 4.2-5.4 10^6/uL)
+    - MCV: 88.8 fL (Within reference range: 82-97 fL)
+    - MCHC: 34.8 g/dL (Within reference range: 32-36 g/dL)
+    - MCH: 30.9 pg (Within reference range: 27-33 pg)
+    - Packed cell volume: 34.2 % (Low; reference range: 37-47 %)
+
+### Model Confidence (0-100%)
+100%

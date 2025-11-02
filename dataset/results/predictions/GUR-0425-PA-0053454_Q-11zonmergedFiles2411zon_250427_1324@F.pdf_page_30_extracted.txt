@@ -1,0 +1,18 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+C.R.P (QUANTITATIVE),16.9,U/L,0-6
+
+### Interpretation
+### Key Findings
+- The C.R.P (QUANTITATIVE) result is 16.9 U/L.
+- The reference range for C.R.P (QUANTITATIVE) is 0-6 U/L.
+- The patient's C.R.P level (16.9 U/L) is elevated above the reference range (0-6 U/L).
+
+### Summary
+The C.R.P (QUANTITATIVE) test indicates an elevated level of 16.9 U/L, which is higher than the established reference range of 0-6 U/L.
+
+### Clinical Notes
+No additional clinical notes can be generated solely from the provided table.
+
+### Model Confidence (0-100%)
+100%

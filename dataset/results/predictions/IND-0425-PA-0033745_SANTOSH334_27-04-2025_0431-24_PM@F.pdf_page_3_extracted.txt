@@ -1,0 +1,28 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+GLYCOSYLATED HEMOGLOBIN (HBA1C),6.6,%,Non-diabetic Adult < 5.7
+MEAN PLASMA GLUCOSE,142.7,mg/dL,<116.0
+HEPATITIS B CORE ANTIBODIES (TOTAL),NON REACTIVE,N/A,N/A
+HEPATITIS B CORE ANTIBODIES (TOTAL) PATIENT VALUE,0.150,S/CO,<1.00 (Non Reactive)
+HEPATITIS B SURFACE ANTIGEN,0.39,COI,<1.00 Non-reactive
+HEPATITIS C ANTIBODIES,NON REACTIVE,N/A,N/A
+HEPATITIS C ANTIBODIES PATIENT VALUE,0.05,COI,<0.9:Non-reactive
+HIV 4TH GEN ASSAY (P24AG + HIV AB),NON REACTIVE,N/A,N/A
+
+### Interpretation
+### Key Findings
+- Glycosylated Hemoglobin (HbA1c) is 6.6%, which is above the non-diabetic adult reference range of < 5.7%.
+- Mean Plasma Glucose is 142.7 mg/dL, which is above the reference range of <116.0 mg/dL.
+- Hepatitis B Core Antibodies (Total) are NON REACTIVE (0.150 S/CO), within the non-reactive range of <1.00 S/CO.
+- Hepatitis B Surface Antigen is 0.39 COI, within the non-reactive range of <1.00 COI.
+- Hepatitis C Antibodies are NON REACTIVE (0.05 COI), within the non-reactive range of <0.9 COI.
+- HIV 4th Gen Assay (P24AG + HIV AB) is NON REACTIVE.
+
+### Summary
+The patient exhibits elevated Glycosylated Hemoglobin (HbA1c) and Mean Plasma Glucose levels, indicating impaired glucose regulation. Serological tests for Hepatitis B, Hepatitis C, and HIV are non-reactive.
+
+### Clinical Notes
+The Glycosylated Hemoglobin (HbA1c) result of 6.6% exceeds the non-diabetic adult reference range of < 5.7%, suggesting a potential diagnosis of diabetes or pre-diabetes. This finding is supported by the elevated Mean Plasma Glucose of 142.7 mg/dL, which is above the reference range of <116.0 mg/dL. All tested markers for Hepatitis B (Core Antibodies Total and Surface Antigen), Hepatitis C (Antibodies), and HIV (4th Gen Assay) are non-reactive, consistent with the respective reference ranges for non-reactive status.
+
+### Model Confidence (0-100%)
+100%

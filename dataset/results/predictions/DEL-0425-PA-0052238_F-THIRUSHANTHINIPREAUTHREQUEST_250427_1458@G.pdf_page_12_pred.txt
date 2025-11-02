@@ -1,0 +1,13 @@
+### Key Findings
+- MPV is low at 6.8 fl (Reference Range: 7.5-12.0 fl).
+- Absolute Basophil Count is low at 0.0 X10^3/uL (Reference Range: 0.02-0.1 X10^3/uL).
+- Basophil percentage is low at 00 % (Reference Range: 1-2 %).
+
+### Summary
+The provided laboratory results show that most parameters are within their respective reference ranges. Specifically, RDW, Platelet Count, Absolute Neutrophil Count, Absolute Lymphocyte Count, Absolute Monocyte Count, Absolute Eosinophil Count, Neutrophil percentage, Lymphocyte percentage, Monocyte percentage, and Eosinophil percentage are within normal limits. However, the Mean Platelet Volume (MPV), Absolute Basophil Count, and Basophil percentage are below their reference ranges.
+
+### Clinical Notes
+Interpretation is based solely on the provided laboratory data. The patient exhibits a low Mean Platelet Volume (MPV), a low Absolute Basophil Count, and a low Basophil percentage. All other reported complete blood count parameters are within their respective reference ranges. Further clinical correlation is recommended.
+
+### Model Confidence (0-100%)
+100%

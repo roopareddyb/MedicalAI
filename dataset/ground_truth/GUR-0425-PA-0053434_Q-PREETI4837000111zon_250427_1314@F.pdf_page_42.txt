@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN 8.7 gm/dl 12-16
+TLC 19800 /cc.mm 4000-11000
+NEUTROPHILS 78 % 40-70
+LYMPHOCYTES 18 % 20-40
+MONOCYTE 2 % 2-8
+EOSINOPHILS 2 % 1-5
+BASHOPHILS 0 /cumm 0-1
+RBC 3.50 million/cumm 3.5-5.5
+PCV 34.6 % 36-48
+MCV 78.6 fl 76-96
+MCH 23.6 pg 27-32
+MCHC 28.4 gm/dl 30-35
+PLATEATE COUNT 1.96 lac/cumm 1.5-4.5
+RDW 14.6 % 11-16
+PCT 0.25 % 0.08-1
+MPV 8.6 fl 6-10
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 8.7 gm/dl (Low; Normal: 12-16 gm/dl)
+- Total Leukocyte Count (TLC): 19,800 /cc.mm (High; Normal: 4,000-11,000 /cc.mm)
+- Neutrophils: 78% (High; Normal: 40-70%)
+- Lymphocytes: 18% (Low; Normal: 20-40%)
+- RBC count: 3.50 million/cumm (Low normal; Normal: 3.5-5.5 million/cumm)
+- Packed Cell Volume (PCV): 34.6% (Low; Normal: 36-48%)
+- Mean Corpuscular Hemoglobin (MCH): 23.6 pg (Low; Normal: 27-32 pg)
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 28.4 gm/dl (Low; Normal: 30-35 gm/dl)
+- Platelet count: 1.96 lac/cumm (Normal; Normal: 1.5-4.5 lac/cumm)
+- Other values within normal limits or marginally altered.
+
+### Summary
+The report reveals anemia characterized by low hemoglobin, reduced RBC indices (MCH, MCHC), and low hematocrit (PCV). There is leukocytosis with neutrophilia suggesting an acute bacterial infection or inflammation. Lymphocytes are decreased. Platelet count is within normal limits. Overall picture is consistent with an inflammatory or infectious process with anemia, possibly of chronic disease or iron deficiency.
+
+### Clinical Notes
+- The anemia is likely hypochromic, microcytic or normocytic given low MCH and MCHC but normal MCV.
+- Elevated TLC and neutrophils supports ongoing infection or inflammation.
+- Consider further evaluation including iron studies, reticulocyte count, and clinical correlation.
+- Monitor for signs of infection and treat accordingly.
+- Address anemia concurrently depending on etiology.
+  
+### Model Confidence (0-100%)
+95%

@@ -1,0 +1,22 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+TI TEST,16.0,sec.,12--16
+TI CONTROL,14.0,sec.,--14
+PTI INDEX,87.5,%,N/A
+PTI INR,1.1,N/A,0.88--1.1
+
+### Interpretation
+### Key Findings
+- TI TEST result (16.0 sec) is at the upper limit of its reference range (12-16 sec).
+- TI CONTROL result (14.0 sec) is within its reference range (--14 sec).
+- PTI INR result (1.1) is at the upper limit of its reference range (0.88-1.1).
+- PTI INDEX result (87.5 %) is reported without a specified reference range.
+
+### Summary
+The TI TEST and PTI INR values are observed at the upper limits of their respective reference ranges. The TI CONTROL value falls within its reference range. The PTI INDEX value is provided, but no reference range is available for comparison.
+
+### Clinical Notes
+The provided table contains specific laboratory test results and their corresponding reference ranges. Interpretation is limited to direct comparison of reported results against these ranges. No additional clinical information, patient history, or previous test results are available in the extracted table to provide further clinical context or recommendations.
+
+### Model Confidence (0-100%)
+98%

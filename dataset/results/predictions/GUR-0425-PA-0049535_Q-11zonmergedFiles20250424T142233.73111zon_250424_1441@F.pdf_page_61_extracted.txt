@@ -1,0 +1,18 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+ESR,54,mm/hr,0-20
+
+### Interpretation
+### Key Findings
+- The ESR (Erythrocyte Sedimentation Rate) result is 54 mm/hr.
+- The reference range for ESR is 0-20 mm/hr.
+- The patient's ESR result (54 mm/hr) is elevated compared to the reference range.
+
+### Summary
+- The ESR test shows an elevated value of 54 mm/hr, which is above the normal reference range of 0-20 mm/hr.
+
+### Clinical Notes
+- The provided table contains laboratory test results and reference ranges, but no specific clinical notes or interpretations.
+
+### Model Confidence (0-100%)
+100%

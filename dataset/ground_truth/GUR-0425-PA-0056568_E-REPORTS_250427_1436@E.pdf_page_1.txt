@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN (HB) 10.8 gm/dl 12.0 - 15.0
+TOTAL LEUCOCYTIC COUNT (TLC) 12600 /cmm 4000 - 11000
+NEUTROPHIL 79 % 40 - 75
+LYMPHOCYTE 18 % 20 - 40
+EOSINOPHIL 01 % 00 - 08
+MONOCYTE 02 % 00 - 10
+BASOPHIL 00 % 00 - 01
+PLATELET COUNT 1.55 Lakh/cmm 1.50 - 4.10
+R B C (Red Blood Cells) 4.10 Millions/cmm 3.80 - 4.80
+P.C.V / HAEMATOCRIT 31.5 % 35.0 - 46.0
+M C V 81.2 fL 78.0 - 100.0
+M C H 27.6 picogram 25.0 - 35.0
+M C H C 30.6 gm/dl 31.0 - 37.0
+
+### Interpretation
+### Key Findings
+- Haemoglobin (Hb): 10.8 gm/dl (Low; normal range 12.0 - 15.0)
+- Total Leucocytic Count (TLC): 12,600 /cmm (Elevated; normal range 4,000 - 11,000)
+- Neutrophils: 79% (Slightly elevated; normal range 40 - 75%)
+- Lymphocytes: 18% (Low; normal range 20 - 40%)
+- Platelet Count: 1.55 Lakh/cmm (Within normal low range; normal 1.50 - 4.10 Lakh/cmm)
+- Packed Cell Volume (PCV/Hematocrit): 31.5% (Low; normal 35.0 - 46.0%)
+- MCHC: 30.6 gm/dl (Slightly low; normal 31.0 - 37.0 gm/dl)
+- RBC count, MCV, MCH are within normal limits.
+
+### Summary
+The patient exhibits mild anemia demonstrated by low haemoglobin, low hematocrit, and slightly reduced MCHC, suggesting a hypochromic, possibly normocytic anemia. There is leukocytosis with neutrophilia and relative lymphopenia, possibly indicating an acute bacterial infection or inflammatory process. Platelet count is within normal limits.
+
+### Clinical Notes
+- The mild anemia could be due to nutritional deficiency, chronic disease, or early blood loss; further workup may be warranted.
+- Elevated TLC with neutrophilia and low lymphocytes suggests infection or inflammation.
+- Correlation with clinical signs, symptoms, and possibly further investigations (e.g., iron studies, infection markers) is recommended.
+
+### Model Confidence (0-100%)
+95%

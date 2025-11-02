@@ -1,0 +1,50 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Haemoglobin,12.1,g/dL,M:13-18 F: 11.5-16.5
+Total Leucocyte Count,19,800,/uL,4000-11000
+Polymorphs,93,%,45-75
+Lymphocytes,05,%,25-45
+Monocytes,01,%,0-7
+Eosinophils,01,%,0-4
+Basophils,00,%,0-1
+RBC,4.27,millions/uL,4.5-6.5
+PCV,33.4,%,37-47
+MCV,87.2,fL,82-92
+MCH,29.6,pg,28-32
+MCHC,33.2,g/dL,32-37
+Platelet Count,3.21,lac/uL,1.5-4.5
+R.D.W,41.8,fL,39-46
+S. Sodium,133.9,meq/L,135-155
+S. Potassium,3.44,meq/L,3.5-5.5
+S. Calcium,8.81,mg/dL,8.4-10.4
+B.Sugar (R),102.3,mg/dL,80-140
+C. Reactive Protein,21.9,mg/L,Less than 6.0
+
+### Interpretation
+### Key Findings
+- **Haemoglobin**: 12.1 g/dL (Low for male reference range, within female reference range)
+- **Total Leucocyte Count**: 19,800 /uL (High)
+- **Polymorphs**: 93 % (High)
+- **Lymphocytes**: 05 % (Low)
+- **RBC**: 4.27 millions/uL (Low)
+- **PCV**: 33.4 % (Low)
+- **S. Sodium**: 133.9 meq/L (Low)
+- **S. Potassium**: 3.44 meq/L (Low)
+- **C. Reactive Protein**: 21.9 mg/L (High)
+
+### Summary
+The report indicates significant leukocytosis with neutrophilia and lymphopenia, suggesting an acute inflammatory or infectious process. Anemia is present, characterized by low RBC and PCV, with Haemoglobin being low for males but within the female reference range. Electrolyte imbalances include mild hyponatremia and hypokalemia. A markedly elevated C. Reactive Protein further confirms a systemic inflammatory response.
+
+### Clinical Notes
+The complete blood count (CBC) reveals a significantly elevated Total Leucocyte Count of 19,800 /uL, primarily driven by a marked increase in Polymorphs (93%), indicating neutrophilia. Concurrently, Lymphocytes are low at 05%, consistent with lymphopenia. These findings collectively suggest an acute inflammatory or infectious condition.
+
+Anemia is evident from the reduced RBC count (4.27 millions/uL) and PCV (33.4%). The Haemoglobin level of 12.1 g/dL is below the male reference range but falls within the female reference range. MCV, MCH, and MCHC are within normal limits, suggesting a normocytic, normochromic anemia.
+
+Electrolyte analysis shows mild hyponatremia (S. Sodium 133.9 meq/L) and mild hypokalemia (S. Potassium 3.44 meq/L).
+
+The C. Reactive Protein is significantly elevated at 21.9 mg/L, which strongly supports the presence of a systemic inflammatory process.
+
+Other parameters, including Monocytes, Eosinophils, Basophils, Platelet Count, R.D.W, S. Calcium, and B.Sugar (R), are within their respective reference ranges.
+
+### Model Confidence (0-100%)
+100%

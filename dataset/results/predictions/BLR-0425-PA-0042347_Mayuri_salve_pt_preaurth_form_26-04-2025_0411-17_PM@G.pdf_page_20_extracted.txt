@@ -1,0 +1,36 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Hemoglobin,12.6,g/dL,12.0-15.0
+Total WBC Count,10900,/uL,4500-11000
+Neutrophil,55,%,40-70
+Lymphocytes,40,%,20-40
+Eosinophil,02,%,1-6
+Monocytes,03,%,2-8
+Basophils,00,%,0-1
+Haematocrit (HCT),38.6,%,37.0-47.0
+RBC Count,4.23,mil./cmm,4.5-6.5
+MCV,91.25,fL,80-100
+MCH,29.79,pg,27-34
+MCHC,32.64,g/dL,32-36
+RDW-CV,12.6,%,11-16
+RDW-SD,46.5,fL,36-56
+Platelet Count,361000,/cmm,150000-450000
+MPV,9.1,fL,6.5-12
+PDW,14.9,fL,9-17
+PCT,0.33,%,0.10-0.50
+RBC Morphology,Normocytic Normochromic,N/A,N/A
+WBC Morphology,Within Normal Limits,N/A,N/A
+Platelet,Adequate on smear,N/A,N/A
+
+### Interpretation
+### Key Findings
+- RBC Count: 4.23 mil./cmm (Low, Reference Range: 4.5-6.5)
+
+### Summary
+The report indicates that the majority of hematological parameters are within their respective reference ranges. The primary finding is a Red Blood Cell (RBC) Count of 4.23 mil./cmm, which is slightly below the established reference range of 4.5-6.5 mil./cmm. Despite the low RBC count, the RBC Morphology is reported as Normocytic Normochromic, and other red blood cell indices such as Hemoglobin, Haematocrit (HCT), MCV, MCH, MCHC, RDW-CV, and RDW-SD are all within normal limits. Total WBC Count, differential counts (Neutrophil, Lymphocytes, Eosinophil, Monocytes, Basophils), and WBC Morphology are within normal limits. Platelet Count, MPV, PDW, PCT, and Platelet morphology are also within normal limits.
+
+### Clinical Notes
+The isolated finding of a low RBC Count (4.23 mil./cmm) is noted. This finding should be interpreted in the context of normal RBC Morphology (Normocytic Normochromic) and normal values for Hemoglobin (12.6 g/dL), Haematocrit (38.6%), MCV (91.25 fL), MCH (29.79 pg), and MCHC (32.64 g/dL). All other parameters related to white blood cells and platelets, including their counts and morphological assessments, are within normal limits as per the provided table.
+
+### Model Confidence (0-100%)
+100%

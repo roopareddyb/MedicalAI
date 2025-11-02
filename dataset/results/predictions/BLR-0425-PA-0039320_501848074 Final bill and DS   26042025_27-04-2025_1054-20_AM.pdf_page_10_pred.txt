@@ -1,0 +1,31 @@
+### Key Findings
+- APTT is elevated at 66.9 sec (Reference Range: 26-36 sec).
+- Haemoglobin Estimation (Hb) is elevated at 15.3 g/dL (Reference Range: 11.1-14.1 g/dL).
+- Platelet Count is decreased at 107 K/uL (Reference Range: 200-550 K/uL).
+- RBC Count (Red Blood Cell) is elevated at 5.33 10^6/uL (Reference Range: 4.1-5.3 10^6/uL).
+- PCV (Haematocrit) is elevated at 44.5 % (Reference Range: 30-40 %).
+- Red cell distribution width-CV%(RDW) is elevated at 14.9 % (Reference Range: 11.6-14 %).
+- Platelet distribution width(PDW) is elevated at 15.7 fL (Reference Range: 8.5-14.1 fL).
+- Neutrophils are elevated at 68 % (Reference Range: 20-65 %).
+
+### Summary
+The report indicates elevated APTT, Haemoglobin, RBC Count, PCV, RDW, PDW, and Neutrophils. Platelet Count is decreased. Other parameters such as Total Leukocyte Count, MCV, MCH, MCHC, and MPV are within their respective reference ranges.
+
+### Clinical Notes
+- APTT: 66.9 sec (High) - Reference Range: (26-36) sec
+- Control: 30.0 sec
+- Haemoglobin Estimation (Hb): 15.3 g/dL (High) - Reference Range: (11.1-14.1) g/dL
+- Total Leukocyte Count (TLC): 9.9 K/uL (Normal) - Reference Range: (6-18) K/uL
+- Platelet Count: 107 K/uL (Low) - Reference Range: (200-550) K/uL
+- RBC Count (Red Blood Cell): 5.33 10^6/uL (High) - Reference Range: (4.1-5.3) 10^6/uL
+- PCV (Haematocrit): 44.5 % (High) - Reference Range: (30-40) %
+- Mean Corpuscular Volume (MCV): 83.4 fL (Normal) - Reference Range: (68-84) fL
+- Mean corpuscular hemoglobin (MCH): 28.7 pg (Normal) - Reference Range: (24-30) pg
+- Mean corpuscular hemoglobin concentration(MCHC): 34.4 g/dL (Normal) - Reference Range: (30-36) g/dL
+- Red cell distribution width-CV%(RDW): 14.9 % (High) - Reference Range: (11.6-14) %
+- Platelet distribution width(PDW): 15.7 fL (High) - Reference Range: (8.5-14.1) fL
+- Mean platelet volume(MPV): 8.7 fL (Normal) - Reference Range: (7.44-10.26) fL
+- Neutrophils: 68 % (High) - Reference Range: (20-65) %
+
+### Model Confidence
+100%

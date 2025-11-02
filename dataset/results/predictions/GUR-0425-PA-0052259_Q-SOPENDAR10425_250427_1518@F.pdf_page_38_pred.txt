@@ -1,0 +1,19 @@
+### Key Findings
+- **Haemoglobin (Cyanmet. method)**: 12.1 gm/dL (Low if male, within reference range if female, based on reference M13-18 F 11.5-16.5)
+- **Total Leucocyte Count**: 19,800 /uL (High, reference range 4000-11000)
+- **Polymorphs**: 93 % (High, reference range 45-75)
+- **Lymphocytes**: 05 % (Low, reference range 25-45)
+- **RBC**: 4.27 millions/cmm (Low, reference range 4.5-6.5)
+- **PCV**: 33.4 % (Low, reference range 37-47)
+- **S. Sodium**: 133.9 meq/L (Low, reference range 135-155)
+- **S. Potassium**: 3.44 meq/L (Low, reference range 3.5-5.5)
+- **C. Reactive Protein**: 21.9 mg/L (High, reference range Less than 6.0)
+
+### Summary
+The report indicates significant abnormalities including leukocytosis with neutrophilia and lymphopenia, suggesting an inflammatory or infectious process, which is further supported by a markedly elevated C. Reactive Protein. Anemia is present, characterized by low RBC and PCV, with normocytic and normochromic indices. Electrolyte imbalances include hyponatremia and hypokalemia. The Haemoglobin level is within the female reference range but low for males.
+
+### Clinical Notes
+The combination of an elevated Total Leucocyte Count, high Polymorphs, low Lymphocytes, and significantly elevated C. Reactive Protein strongly suggests an acute inflammatory or infectious process. The patient also presents with anemia (low RBC and PCV) that is normocytic and normochromic based on MCV, MCH, and MCHC being within normal limits. Additionally, there are electrolyte disturbances with low serum sodium and potassium. The interpretation of the Haemoglobin level requires knowledge of the patient's gender.
+
+### Model Confidence (0-100%)
+100%

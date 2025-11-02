@@ -1,0 +1,16 @@
+### Key Findings
+-   **HB:** 11.3 L gm/dl (Reference Range: 13.0-17.0)
+-   **TLC:** 16.3 H 10^3/cumm (Reference Range: 4.0-11.0)
+-   **NEUTROPHILS:** 74 H % (Reference Range: 45-70)
+-   **LYMPHOCYTE:** 16 L % (Reference Range: 20-40)
+-   **HCT:** 34 L % (Reference Range: 40-50)
+-   **RDW:** 15.1 H % (Reference Range: 11.5-14.5)
+
+### Summary
+The laboratory report indicates several values outside their reference ranges. Red blood cell parameters show low Hemoglobin (11.3 gm/dl) and Hematocrit (34%), along with an elevated Red Cell Distribution Width (15.1%). White blood cell parameters reveal a high Total Leukocyte Count (16.3 10^3/cumm), primarily driven by elevated Neutrophils (74%), while Lymphocytes are decreased (16%). Other measured parameters, including Platelet Count, RBC Count, MCV, MCH, MCHC, Monocyte, Eosinophil, and Basophil, are within their respective reference ranges.
+
+### Clinical Notes
+The interpretation of these laboratory findings requires correlation with the patient's clinical history, symptoms, and physical examination. The observed abnormalities include indicators of anemia (low HB, HCT, high RDW) and changes in white blood cell differential (high TLC, high Neutrophils, low Lymphocytes). Further medical evaluation is recommended to understand the clinical significance of these results.
+
+### Model Confidence (0-100%)
+100%

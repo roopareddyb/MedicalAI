@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+APTT 66.9 sec (26 - 36)
+Control 30.0 sec (-)
+Haemoglobin Estimation (Hb) 15.3 g/dl (11.1 - 14.1)
+Total Leukocyte Count (TLC) 9.9 K/uL (6 - 18)
+Platelet Count 107 K/uL (200 - 550)
+RBC Count (Red Blood Cell) 5.33 10^6/µL (4.1 - 5.3)
+PCV (Haematocrit) 44.5 % (30 - 40)
+Mean Corpuscular Volume (MCV) 83.4 fl (68 - 84)
+Mean corpuscular hemoglobin (MCH) 28.7 pg (24 - 30)
+Mean corpuscular hemoglobin concentration (MCHC) 34.4 g/dl (30 - 36)
+Red cell distribution width-CV%(RDW) 14.9 % (11.6 - 14)
+Platelet distribution width(PDW) 15.7 fl (8.5 - 14.1)
+Mean platelet volume(MPV) 8.7 fl (7.44 - 10.26)
+Neutrophils 68 % (20 - 65)
+
+### Interpretation
+### Key Findings
+- APTT: Elevated at 66.9 sec (Reference: 26 - 36 sec)
+- Haemoglobin: Elevated at 15.3 g/dl (Reference: 11.1 - 14.1 g/dl)
+- Platelet count: Low at 107 K/uL (Reference: 200 - 550 K/uL)
+- PCV (Hematocrit): Elevated at 44.5% (Reference: 30 - 40%)
+- RBC Count: Upper limit, slightly elevated at 5.33 x10^6/µL (Reference: 4.1 - 5.3 x10^6/µL)
+- RDW-CV: Elevated at 14.9% (Reference: 11.6 - 14%)
+- PDW: Elevated at 15.7 fl (Reference: 8.5 - 14.1 fl)
+- Neutrophils: Slightly elevated at 68% (Reference: 20 - 65%)
+
+Other parameters including TLC, MCV, MCH, MCHC, MPV are within normal limits.
+
+### Summary
+The patient presents with a significantly prolonged Activated Partial Thromboplastin Time (APTT), indicating a potential coagulation abnormality. There is thrombocytopenia (low platelet count), which could contribute to bleeding risk. Hemoglobin and hematocrit values are mildly elevated, suggesting possible relative erythrocytosis or hemoconcentration. The RBC count is at the upper normal limit. Elevated RDW indicates some variation in red blood cell size. Neutrophil percentage is slightly increased, possibly indicating mild inflammation or stress response.
+
+### Clinical Notes
+- Prolonged APTT warrants further investigation to rule out coagulation factor deficiencies, presence of inhibitors, or anticoagulant therapy effects.
+- Thrombocytopenia should be evaluated for causes such as bone marrow suppression, increased platelet destruction, or consumption.
+- Elevated hemoglobin and hematocrit may be secondary to dehydration or other causes of relative polycythemia.
+- Elevated RDW may suggest anisocytosis, potentially from nutritional deficiencies or early marrow response.
+- Slight neutrophilia could indicate infection, inflammation, or stress.
+
+Clinical correlation and additional testing (e.g., coagulation factor assays, peripheral smear, inflammatory markers) are recommended to clarify diagnosis and guide management.
+
+### Model Confidence (0-100%)
+95%

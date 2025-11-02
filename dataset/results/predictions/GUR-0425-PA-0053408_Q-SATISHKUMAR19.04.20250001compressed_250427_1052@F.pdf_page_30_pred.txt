@@ -1,0 +1,15 @@
+### Key Findings
+- Elevated Total Leucocyte Count (TLC) at 20,400 /cumm (Reference: 4000-11000 /cumm).
+- Elevated Neutrophil percentage at 77% (Reference: 40-75%).
+- Decreased Lymphocyte percentage at 18% (Reference: 20-45%).
+- Slightly low Haemoglobin (Hb) at 13.4 gm/dL (Reference: 13.5-18.0 gm/dL).
+- Low RBC Count at 4.34 Millions/cmm (Reference: 4.5-5.5 Millions/cmm).
+
+### Summary
+The laboratory report shows an elevated Total Leucocyte Count (TLC) of 20,400 /cumm, which is above the upper limit of the reference range. This elevation is accompanied by an increased Neutrophil percentage of 77% and a decreased Lymphocyte percentage of 18%. Haemoglobin (Hb) is slightly below the reference range at 13.4 gm/dL, and the RBC Count is also low at 4.34 Millions/cmm. Other parameters including Eosinophil, Monocyte, Basophil, Platelet Count, PC.V/Haematocrit, MCV, MCH, and MCHC are within their respective reference ranges.
+
+### Clinical Notes
+The findings indicate leukocytosis with neutrophilia and lymphopenia. There is also evidence of mild anemia based on the slightly low Haemoglobin and low RBC count. These results warrant clinical correlation and further investigation to determine the underlying cause.
+
+### Model Confidence (0-100%)
+100%

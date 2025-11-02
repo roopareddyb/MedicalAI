@@ -1,0 +1,17 @@
+### Key Findings
+- PTI TEST result is 16.0 sec, which is at the upper limit of the reference range (12-16 sec).
+- PTI CONTROL result is 14.0 sec, which is at the upper limit of the reference range (--14 sec).
+- PTI INR result is 1.1, which is at the upper limit of the reference range (0.88-1.1).
+- PTI INDEX result is 87.5%, with no reference range provided for comparison.
+
+### Summary
+The Prothrombin Time (PTI) related tests, specifically PTI TEST, PTI CONTROL, and PTI INR, are all reported at the upper limit of their respective reference ranges. The PTI INDEX value is provided without a comparative reference range.
+
+### Clinical Notes
+- PTI TEST: 16.0 sec (Reference Range: 12-16 sec)
+- PTI CONTROL: 14.0 sec (Reference Range: --14 sec)
+- PTI INDEX: 87.5 % (Reference Range: N/A)
+- PTI INR: 1.1 (Reference Range: 0.88-1.1)
+
+### Model Confidence (0-100%)
+100%

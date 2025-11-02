@@ -1,0 +1,26 @@
+### Key Findings
+-   **HAEMOGLOBIN**: 10.0 gm% (Reference Range: 13.0-18.0) - **Low**
+-   **TOTAL LEUCOCYTE COUNT**: 17200 /Cu mm (Reference Range: 4000-11000) - **High**
+-   **Neutrophils**: 88 % (Reference Range: 45-75) - **High**
+-   **Lymphocytes**: 08 % (Reference Range: 20-45) - **Low**
+-   **E.S.R. (Westergren Method) -in First hour**: 70 mm (Reference Range: 0-15) - **High**
+-   **TOTAL R.B.C. COUNT**: 3.15 Million/Cu mm (Reference Range: 4.2-5.4) - **Low**
+-   **P.C.V./ Haematocrit Value**: 29.8 % (Reference Range: 36-48) - **Low**
+-   **MCV**: 94.60 fL (Reference Range: 77-93) - **High**
+-   **C.R.P. (Quantitative)**: 62 mg/dl (Reference Range: < 6.0 mg/dl) - **High**
+-   **SERUM BILIRUBIN TOTAL**: 1.5 mg/dL (Reference Range: 0.2-1.2) - **High**
+-   **SERUM BILIRUBIN DIRECT**: 0.5 mg/dL (Reference Range: up to 0.2) - **High**
+-   **SERUM BILIRUBIN INDIRECT**: 1 mg/dL (Reference Range: 0.2-0.6) - **High**
+-   **S.G.O.T.**: 162 U/L (Reference Range: 0-45) - **High**
+-   **S.G.P.T.**: 168 U/L (Reference Range: 0-49) - **High**
+-   **TOTAL PROTEINS**: 5.5 Gm/dL (Reference Range: 6.0-8.3) - **Low**
+-   **ALBUMIN**: 2.6 Gm/dL (Reference Range: 3.2-5.0) - **Low**
+
+### Summary
+The report indicates a macrocytic anemia with low hemoglobin, total RBC count, and PCV, alongside an elevated MCV. There is evidence of a significant inflammatory response characterized by elevated total leukocyte count, neutrophilia, lymphopenia, high ESR, and markedly elevated C.R.P. Liver function tests show elevated total, direct, and indirect bilirubin, as well as significantly elevated S.G.O.T. and S.G.P.T. Additionally, total proteins and albumin levels are low.
+
+### Clinical Notes
+The findings collectively suggest the presence of anemia with macrocytic features, a pronounced systemic inflammatory process, and hepatocellular injury with hyperbilirubinemia. There is also evidence of hypoproteinemia.
+
+### Model Confidence (0-100%)
+100%

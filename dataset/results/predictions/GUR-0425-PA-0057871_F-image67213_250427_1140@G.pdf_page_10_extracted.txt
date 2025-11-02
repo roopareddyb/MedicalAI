@@ -1,0 +1,58 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+SODIUM,130,mEq/L,N/A
+POTASSIUM,4.6,mEq/L,N/A
+CHLORIDE,100,mEq/L,N/A
+AMMONIA,57.3,umol/L,N/A
+TLC (Total Leucocyte Count),7.39,10^3/uL,N/A
+CREATININE,4.60,mg/dL,N/A
+SODIUM,130,mEq/L,N/A
+POTASSIUM,4.7,mEq/L,N/A
+CHLORIDE,99,mEq/L,N/A
+Prothrombin Time (Patient Value),12.9,Sec,N/A
+Prothrombin Time (MNPT),11.0,Sec,N/A
+Prothrombin Ratio (PR),1.17,N/A,N/A
+International Normalized Ratio (INR),1.18,N/A,N/A
+HB,8.2,g/dL,N/A
+HEMATOCRIT,25.30,%,N/A
+RDW-CV,15.6,%,N/A
+TLC,3.89,10^3/uL,N/A
+PLATELET COUNT,114.0,10^3/uL,N/A
+ESR,55,mm/1hr,N/A
+Neutrophil,2.65,10^3/uL,N/A
+Lymphocyte,0.54,10^3/uL,N/A
+Monocyte,0.58,10^3/uL,N/A
+Eosinophil,0.09,10^3/uL,N/A
+Basophils,0.03,10^3/uL,N/A
+
+### Interpretation
+### Key Findings
+- SODIUM: 130 mEq/L (recorded twice)
+- POTASSIUM: 4.6 mEq/L and 4.7 mEq/L
+- CHLORIDE: 100 mEq/L and 99 mEq/L
+- AMMONIA: 57.3 umol/L
+- TLC (Total Leucocyte Count): 7.39 10^3/uL and 3.89 10^3/uL (recorded as TLC)
+- CREATININE: 4.60 mg/dL
+- Prothrombin Time (Patient Value): 12.9 Sec
+- Prothrombin Time (MNPT): 11.0 Sec
+- Prothrombin Ratio (PR): 1.17
+- International Normalized Ratio (INR): 1.18
+- HB: 8.2 g/dL
+- HEMATOCRIT: 25.30 %
+- RDW-CV: 15.6 %
+- PLATELET COUNT: 114.0 10^3/uL
+- ESR: 55 mm/1hr
+- Neutrophil: 2.65 10^3/uL
+- Lymphocyte: 0.54 10^3/uL
+- Monocyte: 0.58 10^3/uL
+- Eosinophil: 0.09 10^3/uL
+- Basophils: 0.03 10^3/uL
+
+### Summary
+The report includes results for various laboratory tests. Electrolyte levels (SODIUM, POTASSIUM, CHLORIDE) were measured, with some values showing slight variations across repeated measurements. Ammonia and Creatinine levels were also reported. Coagulation parameters, including Prothrombin Time (Patient Value and MNPT), Prothrombin Ratio, and International Normalized Ratio (INR), are present. A comprehensive blood count was performed, detailing Hemoglobin (HB), Hematocrit, RDW-CV, Platelet Count, and Total Leucocyte Count (TLC), along with differential counts for Neutrophils, Lymphocytes, Monocytes, Eosinophils, and Basophils. ESR was also measured.
+
+### Clinical Notes
+No reference ranges were provided for any of the listed tests, which precludes interpretation of whether the reported values are within, above, or below normal limits. Several tests, including SODIUM, POTASSIUM, CHLORIDE, and TLC, appear to have been performed multiple times, with some showing consistent values (SODIUM) and others showing slight variations (POTASSIUM, CHLORIDE, TLC).
+
+### Model Confidence (0-100%)
+100%

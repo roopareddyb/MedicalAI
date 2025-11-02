@@ -1,0 +1,14 @@
+### Key Findings
+- MCHC is elevated at 35.2 g/dL (Reference Range: 31.5-34.5 g/dL).
+- All other parameters are within their respective reference ranges.
+
+### Summary
+The complete blood count (CBC) results indicate that most hematological parameters are within normal limits. Specifically, Haemoglobin, Packed Cell Volume (PCV), Total RBC Count, MCV, MCH, RDW-CV, Platelet Count, MPV, Total WBC Count, Neutrophils, Lymphocytes, Eosinophils, Monocytes, and Basophils all fall within their established reference ranges. The only notable finding is an elevated Mean Corpuscular Hemoglobin Concentration (MCHC) at 35.2 g/dL, which is slightly above the upper limit of the reference range.
+
+### Clinical Notes
+- The interpretation is based exclusively on the provided laboratory values and their corresponding reference ranges.
+- The elevated MCHC should be evaluated in conjunction with the patient's clinical history and other diagnostic findings.
+- No other abnormalities were identified in the provided lab report.
+
+### Model Confidence (0-100%)
+100%

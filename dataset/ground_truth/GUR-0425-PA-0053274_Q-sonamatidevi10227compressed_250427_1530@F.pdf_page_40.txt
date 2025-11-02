@@ -1,0 +1,43 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin 11.8 gm% M: 13-18 F: 11.5-16.5
+Total Leucocyte Count 11900 /cu mm 4000-11000
+Polymorphs 87 % 45-75
+Lymphocytes 11 % 25-45
+Monocytes 01 % 0-7
+Eosinophils 01 % 0-4
+Basophils 00 % 0-1
+RBC 4.13 millions/cmm 4.5-6.5
+PCV 33.8 % 37-47
+MCV 87.9 fl 82-92
+MCH 29.4 pg 28-32
+MCHC 33.0 gm% 32-37
+Platelet Count 3.15 lac/cmm 1.5-4.5
+R.D.W 41.4 fl 39-46
+B.Sugar (R) 113.5 mg/dl 80-140
+C. Reactive Protein 12.1 mg/L Less than 6.0
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 11.8 gm% (slightly low for male, low-normal for female)
+- Total Leucocyte Count: 11,900 /cu mm (mild leukocytosis)
+- Polymorphs: 87% (elevated)
+- Lymphocytes: 11% (decreased)
+- RBC: 4.13 million/cmm (low)
+- PCV (Packed Cell Volume): 33.8% (low)
+- C-Reactive Protein (CRP): 12.1 mg/L (elevated, normal <6.0)
+- Other parameters (MCV, MCH, MCHC, Platelet Count, R.D.W, Blood Sugar) within normal limits
+
+### Summary
+The patient presents with mild anemia (low hemoglobin, RBC, and PCV), leukocytosis with neutrophilia (elevated polymorphs), and decreased lymphocytes, indicative of an acute inflammatory or infectious process. Elevated C-reactive protein further supports active inflammation. Blood sugar level is within normal range.
+
+### Clinical Notes
+- Mild anemia may be due to acute or chronic illness; further evaluation may be needed.
+- Leukocytosis with neutrophilia and high CRP suggests an ongoing bacterial infection or inflammatory condition.
+- The low lymphocyte percentage could be reactive or related to infection.
+- Monitor clinical symptoms and consider further diagnostic workup including infection markers, cultures, or imaging if indicated.
+- Evaluate for possible causes of anemia (nutritional, chronic disease, blood loss).
+- Blood sugar is normal, minimizing concern for diabetes-related complications at this time.
+
+### Model Confidence (0-100%)
+95%

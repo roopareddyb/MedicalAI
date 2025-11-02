@@ -1,0 +1,42 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+APTT,66.9,sec,(26-36)
+Control,30.0,sec,(-)
+Haemoglobin Estimation (Hb),15.3,g/dL,(11.1-14.1)
+Total Leukocyte Count (TLC),9.9,K/uL,(6-18)
+Platelet Count,107,K/uL,(200-550)
+RBC Count (Red Blood Cell),5.33,10^6/uL,(4.1-5.3)
+PCV (Haematocrit),44.5,%,(30-40)
+Mean Corpuscular Volume (MCV),83.4,fL,(68-84)
+Mean corpuscular hemoglobin (MCH),28.7,pg,(24-30)
+Mean corpuscular hemoglobin concentration(MCHC),34.4,g/dL,(30-36)
+Red cell distribution width-CV%(RDW),14.9,%,(11.6-14)
+Platelet distribution width(PDW),15.7,fL,(8.5-14.1)
+Mean platelet volume(MPV),8.7,fL,(7.44-10.26)
+Neutrophils,68,%,(20-65)
+
+### Interpretation
+### Key Findings
+- APTT: 66.9 sec (Reference: 26-36 sec) - High
+- Haemoglobin Estimation (Hb): 15.3 g/dL (Reference: 11.1-14.1 g/dL) - High
+- Platelet Count: 107 K/uL (Reference: 200-550 K/uL) - Low
+- RBC Count (Red Blood Cell): 5.33 10^6/uL (Reference: 4.1-5.3 10^6/uL) - High
+- PCV (Haematocrit): 44.5 % (Reference: 30-40 %) - High
+- Red cell distribution width-CV%(RDW): 14.9 % (Reference: 11.6-14 %) - High
+- Platelet distribution width(PDW): 15.7 fL (Reference: 8.5-14.1 fL) - High
+- Neutrophils: 68 % (Reference: 20-65 %) - High
+
+### Summary
+The report indicates several abnormal findings. The APTT, Haemoglobin, RBC Count, PCV, RDW, PDW, and Neutrophil levels are elevated, while the Platelet Count is decreased.
+
+### Clinical Notes
+The following parameters are within their respective reference ranges:
+- Control: 30.0 sec
+- Total Leukocyte Count (TLC): 9.9 K/uL (Reference: 6-18 K/uL)
+- Mean Corpuscular Volume (MCV): 83.4 fL (Reference: 68-84 fL)
+- Mean corpuscular hemoglobin (MCH): 28.7 pg (Reference: 24-30 pg)
+- Mean corpuscular hemoglobin concentration(MCHC): 34.4 g/dL (Reference: 30-36 g/dL)
+- Mean platelet volume(MPV): 8.7 fL (Reference: 7.44-10.26 fL)
+
+### Model Confidence (0-100%)
+100%

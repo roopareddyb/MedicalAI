@@ -1,0 +1,12 @@
+### Key Findings
+- Glycosylated Hemoglobin (HbA1c) is 6.6%, which falls into the "Diabetes diagnosis" category according to ADA Guideline 2021.
+- Mean Plasma Glucose is elevated at 142.7 mg/dL, exceeding the reference range of <116.0 mg/dL.
+
+### Summary
+The patient's Glycosylated Hemoglobin (HbA1c) is 6.6%, indicating a diagnosis of diabetes, though it remains within therapeutic goals (< 7.0%). The Mean Plasma Glucose level is 142.7 mg/dL, which is above the normal reference range. Tests for Hepatitis B Core Antibodies (Total), Hepatitis B Surface Antigen, Hepatitis C Antibodies, and HIV 4th Gen Assay (P24Ag+ HIV Ab) are all non-reactive.
+
+### Clinical Notes
+The HbA1c result of 6.6% is consistent with a diagnosis of diabetes based on the ADA Guideline 2021 (>= 6.5%). This value is also within the therapeutic goal of < 7.0%. The Mean Plasma Glucose of 142.7 mg/dL is above the non-diabetic reference range of <116.0 mg/dL. All tested infectious disease markers, including Hepatitis B Core Antibodies (Total) (0.150 S/CO), Hepatitis B Surface Antigen (0.39 COI), Hepatitis C Antibodies (0.05 COI), and HIV 4th Gen Assay, are non-reactive, indicating no evidence of these infections.
+
+### Model Confidence (0-100%)
+100%

@@ -1,0 +1,49 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 12.1 gm/dl 13.0-17.0
+Packed Cell Volume (HCT) 42.5 % 40-50
+R.B.C. Count 4.90 mill/cmm 4.5-5.5
+Mean Cell Volume (MCV) 86.7 fl 83-101
+Mean Cell Hemoglobin (MCH) 24.7 pg 27-33
+Mean Cell Hb Conc (MCHC) 28.5 % 32-38
+Total WBC Count 13600 cells/cumm 4000-11000
+Neutrophils 66 % 50-70
+Lymphocytes 24 % 20-40
+Eosinophils 4 % 1-6
+Monocytes 06 % 0-10
+Absolute Neutrophils Count 8976 /cumm 2000-7000
+Absolute Lymphocytes Count 3264 /cumm 1000-3000
+Absolute Monocytes Count 816 /cumm 200-1000
+Absolute Eosinophils Count, AEC 544 /cumm 20-500
+Platelet Count 502000 cells/cumm N/A
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 12.1 gm/dl (low; reference 13.0-17.0)
+- Packed Cell Volume (HCT): 42.5% (normal; reference 40-50%)
+- R.B.C. Count: 4.90 mill/cmm (normal; reference 4.5-5.5)
+- Mean Cell Volume (MCV): 86.7 fl (normal; reference 83-101)
+- Mean Cell Hemoglobin (MCH): 24.7 pg (low; reference 27-33)
+- Mean Cell Hemoglobin Concentration (MCHC): 28.5% (low; reference 32-38)
+- Total WBC Count: 13,600 cells/cumm (high; reference 4,000-11,000)
+- Neutrophils: 66% (normal high; reference 50-70)
+- Lymphocytes: 24% (normal; reference 20-40)
+- Eosinophils: 4% (normal; reference 1-6)
+- Monocytes: 6% (normal; reference 0-10)
+- Absolute Neutrophils Count: 8,976 /cumm (high; reference 2,000-7,000)
+- Absolute Lymphocytes Count: 3,264 /cumm (slightly high; reference 1,000-3,000)
+- Absolute Monocytes Count: 816 /cumm (normal; reference 200-1,000)
+- Absolute Eosinophils Count (AEC): 544 /cumm (high; reference 20-500)
+- Platelet Count: 502,000 cells/cumm (high; typical upper limit ~400,000)
+
+### Summary
+The patient has mild anemia evidenced by low hemoglobin, MCH, and MCHC, though hematocrit and RBC count are within normal limits. The red cell indices suggest hypochromic normocytic anemia. There is leukocytosis with elevated total WBC count driven mainly by increased absolute neutrophils and eosinophils. Platelet count is also elevated (thrombocytosis). These findings suggest a possible inflammatory or infectious process, allergic or parasitic reaction (considering high eosinophils), or other causes of reactive leukocytosis and thrombocytosis.
+
+### Clinical Notes
+- Low hemoglobin with low MCH and MCHC could indicate early iron deficiency or chronic disease anemia.
+- Elevated total WBC with neutrophilia and eosinophilia may be due to bacterial infection, allergic response, or parasitic infestation.
+- Thrombocytosis is often reactive, secondary to inflammation or infection.
+- Clinical correlation including patient symptoms, history, and additional tests (iron studies, inflammatory markers, infection workup) is recommended.
+
+### Model Confidence (0-100%)
+95%

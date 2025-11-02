@@ -1,0 +1,41 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN 11.8 g/dl 13.5 to 18.0
+TOTAL ERYTHROCYTE (RBC) COUNT 4.02 X 10^6/µL 4.2 to 5.6
+PACKED CELLS VOLUME 33.5 % 42 to 52
+MCV (CBC) 83.33 fL 81.2 to 94.0
+MCH (CBC) 29.35 pg 27 to 31
+MCHC (MEAN CELL HB CONCENTRATION) 35.22 g/dl 30 to 36
+TOTAL WBC COUNT 7510 /Cu mm 4000 to 11000
+NEUTROPHILS 60 % 40 to 75
+LYMPHOCYTES 32 % N/A
+EOSINOPHILS 03 % N/A
+MONOCYTES 05 % N/A
+BASOPHILS 00 % 0 to 2
+PLATELET COUNT 353000 /cu mm 150000 to 500000
+RDW (RED CELL DISTRIBUTION WIDTH) 12.8 % 11.5 to 14.0
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 11.8 g/dl (Low; reference 13.5 to 18.0)
+- Total Erythrocyte (RBC) Count: 4.02 x 10^6/µL (Slightly low; reference 4.2 to 5.6)
+- Packed Cell Volume (PCV): 33.5% (Low; reference 42 to 52)
+- MCV: 83.33 fL (Within normal range)
+- MCH: 29.35 pg (Within normal range)
+- MCHC: 35.22 g/dl (Within normal range)
+- Total WBC Count: 7510 /cu mm (Normal)
+- Differential counts (Neutrophils, Lymphocytes, Eosinophils, Monocytes, Basophils) all within normal limits or not outside typical ranges
+- Platelet Count: 353,000 /cu mm (Normal)
+- RDW: 12.8% (Normal)
+
+### Summary
+The laboratory report shows evidence of mild anemia, indicated by low haemoglobin, RBC count, and packed cell volume. Red cell indices such as MCV, MCH, and MCHC are within normal limits, suggesting normocytic normochromic anemia. White blood cell and platelet counts are within normal ranges, and differential counts do not suggest any acute infection or hematologic abnormality.
+
+### Clinical Notes
+- The patient has mild anemia which may warrant further clinical correlation and investigation to determine etiology (e.g., nutritional deficiency, chronic disease).
+- Normal red cell indices suggest the anemia is not due to iron deficiency or macrocytic causes but could be early anemia of chronic disease or other causes.
+- Normal WBC and platelets indicate no current infection or bone marrow suppression.
+- Recommend clinical evaluation including history, physical exam, and additional tests as indicated.
+
+### Model Confidence (0-100%)
+95%

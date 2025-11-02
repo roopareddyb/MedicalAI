@@ -1,0 +1,26 @@
+### Key Findings
+- **HAEMOGLOBIN**: 12.5 gm% (Reference Range: 13.0-18.0) - Low
+- **TOTAL LEUCOCYTE COUNT**: 18,900 /Cu mm (Reference Range: 4000-11000) - High
+- **Neutrophils**: 88 % (Reference Range: 45-75) - High
+- **Lymphocytes**: 08 % (Reference Range: 20-45) - Low
+- **E.S.R. (Westergren Method)**: 42 mm (Reference Range: 0-15) - High
+- **MCHC**: 31.49 g/dL (Reference Range: 32-36) - Low
+- **C.R.P. (Quantitative)**: 65.1 mg/dL (Reference Range: < 6.0 mg/dl) - High
+- **BLOOD SUGAR Random**: 280 mg/dl (Reference Range: 70-140) - High
+- **SERUM BILIRUBIN TOTAL**: 1.5 mg/dL (Reference Range: 0.2-1.2) - High
+- **SERUM BILIRUBIN DIRECT**: 0.6 mg/dL (Reference Range: up to 0.2) - High
+- **SERUM BILIRUBIN INDIRECT**: 0.9 mg/dL (Reference Range: 0.2-0.6) - High
+- **S.G.O.T.**: 180 U/L (Reference Range: 0-45) - High
+- **S.G.P.T.**: 195 U/L (Reference Range: 0-49) - High
+- **TOTAL PROTEINS**: 4.8 gm/dL (Reference Range: 6.0-8.3) - Low
+- **ALBUMIN**: 2.2 gm/dL (Reference Range: 3.2-5.0) - Low
+- **A: G RATIO**: 0.85 (Reference Range: 1.5-2.5:1) - Low
+
+### Summary
+The laboratory report indicates several significant abnormalities. Hematological findings include a low hemoglobin and MCHC, suggesting mild anemia, alongside a markedly elevated total leukocyte count primarily driven by neutrophilia and associated lymphopenia. Inflammatory markers, E.S.R. and C.R.P., are significantly elevated. Blood sugar is substantially high. Liver function tests show elevated total, direct, and indirect bilirubin, as well as elevated S.G.O.T. and S.G.P.T. Additionally, total proteins and albumin are low, resulting in a decreased A:G ratio.
+
+### Clinical Notes
+The elevated Total Leucocyte Count (18,900 /Cu mm) with high Neutrophils (88%) and low Lymphocytes (08%) suggests an active inflammatory or infectious process. This is further supported by the significantly elevated E.S.R. (42 mm) and C.R.P. (65.1 mg/dL). The low Haemoglobin (12.5 gm%) and MCHC (31.49 g/dL) indicate a mild anemia. The random blood sugar of 280 mg/dl is significantly elevated, indicating hyperglycemia. Liver function appears impaired, as evidenced by elevated Total Bilirubin (1.5 mg/dL), Direct Bilirubin (0.6 mg/dL), Indirect Bilirubin (0.9 mg/dL), S.G.O.T. (180 U/L), and S.G.P.T. (195 U/L). Furthermore, the low Total Proteins (4.8 gm/dL) and Albumin (2.2 gm/dL), leading to a low A:G Ratio (0.85), could suggest impaired hepatic synthetic function or nutritional deficiencies.
+
+### Model Confidence (0-100%)
+100%

@@ -1,0 +1,29 @@
+### Key Findings
+-   SODIUM: 130 mEq/L
+-   POTASSIUM: 4.6 mEq/L, 4.7 mEq/L
+-   CHLORIDE: 100 mEq/L, 99 mEq/L
+-   AMMONIA: 57.3 µmol/L
+-   TLC (Total Leucocyte Count): 7.39 10^3/µL, 3.89 10^3/µL
+-   CREATININE: 4.60 mg/dL
+-   Prothrombin Time (MNPT): 11.0 Sec
+-   Prothrombin Ratio (PR): 1.17
+-   International Normalized Ratio (INR): 1.18
+-   HB: 8.2 g/dL
+-   HEMATOCRIT: 25.30 %
+-   RDW-CV: 15.6 %
+-   PLATELET COUNT: 114.0 10^3/µL
+-   ESR: 55 mm/1hr
+-   Neutrophil: 2.65 10^3/µL
+-   Lymphocyte: 0.54 10^3/µL
+-   Monocyte: 0.58 10^3/µL
+-   Eosinophil: 0.09 10^3/µL
+-   Basophils: 0.03 10^3/µL
+
+### Summary
+The provided lab results include values for electrolytes (Sodium, Potassium, Chloride), renal function (Creatinine), liver/coagulation parameters (Ammonia, Prothrombin Time, Prothrombin Ratio, INR), and a comprehensive hematology panel (HB, Hematocrit, RDW-CV, TLC, Platelet Count, ESR, and differential counts for Neutrophils, Lymphocytes, Monocytes, Eosinophils, and Basophils). Some tests, such as Sodium, Potassium, Chloride, and TLC, have multiple entries with slightly varying values.
+
+### Clinical Notes
+No clinical notes or interpretations can be provided as the extracted table does not include reference ranges for any of the tests, nor does it contain any patient-specific clinical context or history. Therefore, it is not possible to determine if any of the reported values are outside of normal limits or to infer any clinical significance.
+
+### Model Confidence (0-100%)
+100%

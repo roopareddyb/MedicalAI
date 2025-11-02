@@ -1,0 +1,50 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+BILIRUBIN [TOTAL] 0.601 mg/dL 0.2 - 1.3
+BILIRUBIN (DIRECT) 0.409 mg/dL 0.0 - 0.40
+BILIRUBIN (INDIRECT) 0.19 mg/dL 0.0 - 1.1
+S.G.O.T (AST) 70 U/L 14 - 36
+S.G.P.T (ALT) 32 U/L <35
+G.G.T 61 U/L 12 - 43
+ALKALINE PHOSPHATASE 126 U/L 38 - 126
+TOTAL PROTEINS 7.7 gm/dL 6.3 - 8.2
+ALBUMIN 4.1 gm/dL 3.5 - 5.0
+GLOBULIN 3.6 gm/dL 2.5 - 3.5
+A/G RATIO 1.14 1.5 - 2.5
+HAEMOGLOBIN 10.3 g/dL 12.0 - 15.0
+PACKED CELL VOLUME (PCV) 33.6 % 36 - 46
+R.B.C. Count 3.33 x10^12/L 3.8 - 4.8
+MCV 100.9 fL 83 - 101
+MCH 30.9 pg 27 - 32
+
+### Interpretation
+### Key Findings
+- Total Bilirubin: 0.601 mg/dL (within normal limits)
+- Direct Bilirubin: 0.409 mg/dL (slightly above normal upper limit of 0.40 mg/dL)
+- Indirect Bilirubin: 0.19 mg/dL (normal)
+- S.G.O.T (AST): 70 U/L (elevated; normal range 14-36)
+- S.G.P.T (ALT): 32 U/L (normal)
+- G.G.T: 61 U/L (elevated; normal range 12-43)
+- Alkaline Phosphatase: 126 U/L (upper limit of normal)
+- Total Proteins: 7.7 gm/dL (normal)
+- Albumin: 4.1 gm/dL (normal)
+- Globulin: 3.6 gm/dL (slightly elevated; normal 2.5-3.5)
+- A/G Ratio: 1.14 (decreased; normal 1.5-2.5)
+- Hemoglobin: 10.3 g/dL (low; anemia)
+- Packed Cell Volume (PCV): 33.6% (low)
+- RBC Count: 3.33 x10^12/L (low)
+- MCV: 100.9 fL (upper normal limit, indicating macrocytosis or borderline)
+- MCH: 30.9 pg (normal)
+
+### Summary
+The patient exhibits liver function abnormalities including elevated AST and GGT, with a borderline high direct bilirubin. The alkaline phosphatase is at the upper limit of normal. The low A/G ratio is likely due to a slightly raised globulin level. The complete blood count suggests mild anemia with reduced hemoglobin, PCV, and RBC count; the MCV is at the higher end of normal, suggesting a possible macrocytic or borderline red cell picture.
+
+### Clinical Notes
+- Elevated AST and GGT indicate possible hepatocellular injury or cholestasis.
+- Mild hyperbilirubinemia limited to direct bilirubin suggests possible cholestatic or hepatic dysfunction.
+- The low A/G ratio may reflect chronic inflammation or liver dysfunction affecting globulin and albumin synthesis.
+- Anemia is present with mild macrocytosis, which could be due to nutritional deficiencies (e.g., B12 or folate), liver disease, or other causes; further evaluation is recommended.
+- Correlation with clinical history, physical examination, and possibly additional tests (e.g., viral hepatitis serology, iron studies, vitamin levels) is advised.
+
+### Model Confidence (0-100%)
+95%

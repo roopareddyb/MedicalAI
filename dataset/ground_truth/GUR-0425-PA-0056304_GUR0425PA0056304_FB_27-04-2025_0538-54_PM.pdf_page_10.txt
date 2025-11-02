@@ -1,0 +1,71 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Volume 10 ml (-)
+Colour Pale Yellow N/A
+Appearance Clear N/A
+pH 6.0 N/A
+Specific Gravity 1.015 N/A
+Protein NEGATIVE N/A
+Reducing Sugar NEGATIVE N/A
+Pus Cells 2-3 N/A
+Epithelial Cells 0-1 N/A
+Casts Nil N/A
+Crystals Nil N/A
+Prothrombin Time 13.1 Sec (10.1 - 14.7)
+Prothrombin Control 12.5 Sec (-)
+APTT 31.2 Sec (27.8 - 37.2)
+Blood Group ABO RH B' = POSITIVE N/A
+Haemoglobin 11.9 g/dL (12 - 16)
+TLC 7200 /cu.mm (4000 - 11000)
+Lymphocytes 15 % (20 - 40)
+Eosinophils 03 % (2 - 6)
+Monocytes 05 % (2 - 10)
+RBC Count 3.85 10^6/µL (4.2 - 5.4)
+MCV 88.8 fl (82 - 97)
+MCHC 34.8 g/dL (32 - 36)
+MCH 30.9 pg (27 - 33)
+Packed Cell Volume 34.2 % (37 - 47)
+
+### Interpretation
+### Key Findings
+- Urine analysis:
+  - Volume: 10 ml
+  - Colour: Pale Yellow
+  - Appearance: Clear
+  - pH: 6.0
+  - Specific Gravity: 1.015
+  - Protein: Negative
+  - Reducing Sugar: Negative
+  - Pus Cells: 2-3 (slightly elevated, normal <5)
+  - Epithelial Cells: 0-1 (normal)
+  - Casts: Nil
+  - Crystals: Nil
+- Coagulation profile:
+  - Prothrombin Time (PT): 13.1 sec (within normal range 10.1 - 14.7 sec)
+  - Prothrombin Control: 12.5 sec
+  - Activated Partial Thromboplastin Time (APTT): 31.2 sec (within normal range 27.8 - 37.2 sec)
+- Hematology:
+  - Blood Group: B positive
+  - Hemoglobin: 11.9 g/dL (slightly below normal, anemia)
+  - Total Leukocyte Count (TLC): 7200 /cu.mm (normal)
+  - Lymphocytes: 15% (low, normal 20-40%)
+  - Eosinophils: 3% (normal)
+  - Monocytes: 5% (normal)
+  - RBC Count: 3.85 million/μL (low, normal 4.2 - 5.4)
+  - Mean Corpuscular Volume (MCV): 88.8 fl (normal)
+  - Mean Corpuscular Hemoglobin Concentration (MCHC): 34.8 g/dL (normal)
+  - Mean Corpuscular Hemoglobin (MCH): 30.9 pg (normal)
+  - Packed Cell Volume (PCV): 34.2% (slightly low, normal 37 - 47%)
+
+### Summary
+The urine analysis reveals no significant abnormalities with only a mild presence of pus cells suggesting minimal inflammation or possible early infection. Coagulation parameters are within normal limits, indicating normal blood clotting function. The hematology results show mild anemia characterized by low hemoglobin, RBC count, and packed cell volume; however, red blood cell indices (MCV, MCH, MCHC) are within normal limits, suggesting normocytic normochromic anemia. The lymphocyte percentage is mildly decreased, which may reflect a transient immunological change. Other white blood cell differentials are normal.
+
+### Clinical Notes
+- Mild anemia detected; further evaluation may be needed to identify underlying cause (e.g., nutritional deficiency, chronic disease).
+- Slightly decreased lymphocyte percentage might warrant monitoring if clinically indicated.
+- Urine findings are largely normal, with minimal pus cells; clinical correlation is advised to rule out early urinary tract infection.
+- Coagulation profile is normal, suggesting no bleeding risk at present.
+- Overall, the findings suggest mild hematologic abnormality without active infection or coagulopathy.
+
+### Model Confidence (0-100%)
+95%

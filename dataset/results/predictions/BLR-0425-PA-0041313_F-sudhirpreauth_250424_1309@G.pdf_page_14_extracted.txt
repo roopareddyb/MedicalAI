@@ -1,0 +1,59 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Hemoglobin,14.1,g/dL,13.00-18.00
+Red Cell Count,4.95,10^6/uL,4.50-6.50
+Hematocrit,44.7,%,40.00-54.00
+MCV,90.3,fL,76.00-96.00
+MCH,28.6,pg,27.00-32.00
+MCHC,31.6,g/dL,30.00-35.00
+RDW,13.9,%,11.50-14.50
+WBC Count,9.44,10^3/uL,4.00-11.00
+Platelet Count,183,10^3/uL,150.00-450.00
+Neutrophils,67,%,40.00-70.00
+Lymphocytes,26,%,15.00-40.00
+Eosinophils,02,%,2.00-6.00
+Monocytes,05,%,2.00-8.00
+Basophils,00,%,0.00-2.00
+Absolute Neutrophils,6.32,10^3/uL,1.60-7.70
+Absolute Lymphocytes,2.45,10^3/uL,0.60-4.40
+Absolute Eosinophils,0.19,10^3/uL,0.00-0.45
+Absolute Monocytes,0.47,10^3/uL,0.08-0.88
+RBC,Normocytic Normochromic,N/A,Normocytic Normochromic
+WBC,Within Normal Limits,N/A,Within Normal Limits
+Platelet,Adequate,N/A,Adequate
+
+### Interpretation
+### Key Findings
+- All tested parameters are within their respective reference ranges.
+- RBC morphology is Normocytic Normochromic.
+- WBC morphology is Within Normal Limits.
+- Platelet morphology is Adequate.
+
+### Summary
+The complete blood count (CBC) results indicate that all measured parameters, including hemoglobin, red cell count, hematocrit, MCV, MCH, MCHC, RDW, WBC count, platelet count, and the differential counts for neutrophils, lymphocytes, eosinophils, monocytes, and basophils (both percentage and absolute), are within the established normal reference ranges. Additionally, the morphological assessments for RBCs, WBCs, and platelets are normal.
+
+### Clinical Notes
+- Hemoglobin: 14.1 g/dL (Reference: 13.00-18.00)
+- Red Cell Count: 4.95 10^6/uL (Reference: 4.50-6.50)
+- Hematocrit: 44.7 % (Reference: 40.00-54.00)
+- MCV: 90.3 fL (Reference: 76.00-96.00)
+- MCH: 28.6 pg (Reference: 27.00-32.00)
+- MCHC: 31.6 g/dL (Reference: 30.00-35.00)
+- RDW: 13.9 % (Reference: 11.50-14.50)
+- WBC Count: 9.44 10^3/uL (Reference: 4.00-11.00)
+- Platelet Count: 183 10^3/uL (Reference: 150.00-450.00)
+- Neutrophils: 67 % (Reference: 40.00-70.00)
+- Lymphocytes: 26 % (Reference: 15.00-40.00)
+- Eosinophils: 02 % (Reference: 2.00-6.00)
+- Monocytes: 05 % (Reference: 2.00-8.00)
+- Basophils: 00 % (Reference: 0.00-2.00)
+- Absolute Neutrophils: 6.32 10^3/uL (Reference: 1.60-7.70)
+- Absolute Lymphocytes: 2.45 10^3/uL (Reference: 0.60-4.40)
+- Absolute Eosinophils: 0.19 10^3/uL (Reference: 0.00-0.45)
+- Absolute Monocytes: 0.47 10^3/uL (Reference: 0.08-0.88)
+- RBC: Normocytic Normochromic
+- WBC: Within Normal Limits
+- Platelet: Adequate
+
+### Model Confidence (0-100%)
+100%

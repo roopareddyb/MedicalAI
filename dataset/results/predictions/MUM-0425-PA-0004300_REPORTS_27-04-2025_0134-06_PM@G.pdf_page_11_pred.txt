@@ -1,0 +1,13 @@
+### Key Findings
+- **HAEMOGLOBIN:** 11.8 g/dL (Low, Reference Range: 13.5 to 18.0 g/dL)
+- **TOTAL ERYTHROCYTE (RBC) COUNT:** 4.02 X 10^6/µL (Low, Reference Range: 4.2 to 5.6 X 10^6/µL)
+- **PACKED CELLS VOLUME:** 33.5 % (Low, Reference Range: 42 to 52 %)
+
+### Summary
+The complete blood count (CBC) results indicate several parameters outside the normal reference range. Haemoglobin, Total Erythrocyte (RBC) Count, and Packed Cells Volume are all below their respective reference ranges. Other red blood cell indices such as MCV (83.33 fL), MCH (29.35 pg), MCHC (35.22 g/dL), and RDW (12.8 %) are within normal limits. The Total WBC Count (7510 /cu mm) and differential counts for Neutrophils (60 %) and Basophils (00 %) are within their provided reference ranges. Platelet Count (353000 /cu mm) is also within the normal range. Reference ranges for Lymphocytes, Eosinophils, and Monocytes were not provided.
+
+### Clinical Notes
+Based on the extracted data, the patient exhibits findings consistent with anemia, characterized by reduced Haemoglobin, Total Erythrocyte (RBC) Count, and Packed Cells Volume. The MCV, MCH, and MCHC values are within normal limits, suggesting a normocytic, normochromic presentation of anemia. Further clinical evaluation is recommended to investigate the etiology of these findings.
+
+### Model Confidence (0-100%)
+100%

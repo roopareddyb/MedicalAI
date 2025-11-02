@@ -1,0 +1,17 @@
+### Key Findings
+-   **SGPT(ALT):** Elevated at 61.1 u/L (Reference Range: 0-50 u/L)
+-   **SGOT(AST):** Elevated at 55.2 u/L (Reference Range: 0-50 u/L)
+-   **Globulin:** Elevated at 3.85 g/dL (Reference Range: 2-3.5 g/dL)
+-   **Hb(Haemoglobin):** Low at 11.8 g/dL (Reference Range: F 12-15 g/dL)
+-   **EOSINOPHIL:** Low at 0.5 % (Reference Range: 1-6 %)
+-   **MONOCYTES:** Elevated at 11.2 % (Reference Range: 2-10 %)
+-   **HCT:** Low at 34.5 % (Reference Range: 40-50 %)
+
+### Summary
+The laboratory results indicate elevated liver enzymes (SGPT(ALT) and SGOT(AST)), elevated Globulin, and several abnormalities in the complete blood count. Specifically, Haemoglobin (Hb) and Hematocrit (HCT) are low, Eosinophils are low, and Monocytes are elevated. All other tested parameters, including Blood Urea, Serum Creatnine, electrolytes (Sodium, Potassium, Chloride), bilirubin levels (Total, Direct, Indirect), Alkaline Phosphate, Total Protein, Albumin, TLC, Neutrophils, Lymphocytes, and Basophils, are within their respective reference ranges.
+
+### Clinical Notes
+This report provides a factual summary of the laboratory results as extracted from the provided table. Clinical interpretation of these findings and their significance requires evaluation by a qualified healthcare professional in the context of the patient's medical history, symptoms, and other diagnostic information.
+
+### Model Confidence (0-100%)
+100%

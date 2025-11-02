@@ -1,0 +1,36 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Haemoglobin (HB),9.9,g/dL,11.5-15.5
+TLC,5310,10^3/uL,5000-13000
+Neutrophils,68,%,45-65
+Lymphocytes,24,%,35-45
+Monocytes,07,%,2-8
+Eosinophils,01,%,1-6
+Basophils,00,%,0-1
+RBC Count,4.1,million/uL,3.9-6.2
+PCV (Haematocrit),29.9,%,40-50
+MCV,72.4,fL,77-95
+MCH,23.2,pg,27-31
+MCHC,32.1,%,33-37
+Platelet Count,2.15,10^3/uL,1.5-4
+RDW,15.7,%,11.5-14.5
+
+### Interpretation
+### Key Findings
+- Haemoglobin (HB): 9.9 g/dL (Low, Reference Range: 11.5-15.5)
+- Neutrophils: 68 % (High, Reference Range: 45-65)
+- Lymphocytes: 24 % (Low, Reference Range: 35-45)
+- PCV (Haematocrit): 29.9 % (Low, Reference Range: 40-50)
+- MCV: 72.4 fL (Low, Reference Range: 77-95)
+- MCH: 23.2 pg (Low, Reference Range: 27-31)
+- MCHC: 32.1 % (Low, Reference Range: 33-37)
+- RDW: 15.7 % (High, Reference Range: 11.5-14.5)
+
+### Summary
+The patient's blood test results indicate anemia, characterized by low Haemoglobin, PCV, MCV, MCH, and MCHC, along with an elevated RDW. The white blood cell differential shows an elevated Neutrophil percentage and a decreased Lymphocyte percentage. All other measured parameters are within their respective reference ranges.
+
+### Clinical Notes
+The complete blood count findings are consistent with a microcytic hypochromic anemia, as evidenced by reduced MCV, MCH, MCHC, Haemoglobin, and PCV values. The elevated RDW suggests increased variability in red blood cell size. The white blood cell differential shows neutrophilia and lymphopenia.
+
+### Model Confidence (0-100%)
+100%

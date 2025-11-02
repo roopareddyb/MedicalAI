@@ -1,0 +1,28 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+TOTAL BILIRUBIN,0.78,mg/dL,0.2--1.2
+DIRECT BILIRUBIN,0.32,mg/dL,0--0.4
+INDIRECT BILIRUBIN,0.46,mg/dL,0.2--0.8
+S.G.O.T,33.51,U/L,5--34
+S.G.P.T,39.65,U/L,0--40
+SERUM ALKALINE PHOSPHATSE,83.62,IU/L,28--111
+SERUM PROTEIN,6.87,gm/dL,6--8.3
+SERUM ALBUMIN,3.95,gm/dL,3.5--5
+SERUM GLOBULIN,2.92,gm/dL,2.5--3.5
+A/G RATIO,1.35,N/A,N/A
+
+### Interpretation
+### Key Findings
+- All reported laboratory values with specified reference ranges are within normal limits.
+- S.G.O.T (33.51 U/L) is at the upper end of its normal range (5-34 U/L).
+- S.G.P.T (39.65 U/L) is at the upper end of its normal range (0-40 U/L).
+
+### Summary
+The provided laboratory results for TOTAL BILIRUBIN, DIRECT BILIRUBIN, INDIRECT BILIRUBIN, S.G.O.T, S.G.P.T, SERUM ALKALINE PHOSPHATSE, SERUM PROTEIN, SERUM ALBUMIN, and SERUM GLOBULIN are all within their respective reference ranges.
+
+### Clinical Notes
+- The A/G RATIO is 1.35, with no reference range provided in the table for comparison.
+- S.G.O.T and S.G.P.T values are observed to be close to the upper limit of their normal reference ranges.
+
+### Model Confidence (0-100%)
+100%

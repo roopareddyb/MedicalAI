@@ -1,0 +1,43 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Haemoglobin,7.6,g/dL,12.0-15.0
+Packed Cell, Volume,24.1,%,40-50
+Total Leucocyte Count (TLC),17.0,10-9/L,4.0-10.0
+RBC Count,2.71,10-12/L,3.8-4.8
+MCV,88.8,fL,83-101
+MCH,28.2,pg,27-32
+MCHC,31.7,g/dL,31.5-34.5
+Platelet Count,247,10-9/L,150-410
+MPV,9.2,fL,7.8-11.2
+RDW,15.1,%,11.5-14.5
+Neutrophils,94.3,%,40-80
+Lymphocytes,1.2,%,20-40
+Monocytes,4.3,%,2-10
+Eosinophils,0.0,%,1-6
+Basophils,0.2,%,0-2
+Absolute Neutrophil Count,16.03,10-9/L,2.0-7.0
+Absolute Lymphocyte Count,0.2,10-9/L,1.0-3.0
+Absolute Monocyte Count,0.73,10-9/L,0.2-1.0
+Absolute Basophil Count,0.030,10-9/L,0.02-0.1
+
+### Interpretation
+### Key Findings
+-   **Haemoglobin:** 7.6 g/dL (Reference: 12.0-15.0 g/dL) - **Low**
+-   **Packed Cell Volume:** 24.1 % (Reference: 40-50 %) - **Low**
+-   **Total Leucocyte Count (TLC):** 17.0 10-9/L (Reference: 4.0-10.0 10-9/L) - **High**
+-   **RBC Count:** 2.71 10-12/L (Reference: 3.8-4.8 10-12/L) - **Low**
+-   **RDW:** 15.1 % (Reference: 11.5-14.5 %) - **High**
+-   **Neutrophils:** 94.3 % (Reference: 40-80 %) - **High**
+-   **Lymphocytes:** 1.2 % (Reference: 20-40 %) - **Low**
+-   **Eosinophils:** 0.0 % (Reference: 1-6 %) - **Low**
+-   **Absolute Neutrophil Count:** 16.03 10-9/L (Reference: 2.0-7.0 10-9/L) - **High**
+-   **Absolute Lymphocyte Count:** 0.2 10-9/L (Reference: 1.0-3.0 10-9/L) - **Low**
+
+### Summary
+The patient's blood work indicates anemia, characterized by low Haemoglobin, Packed Cell Volume, and RBC Count. The MCV, MCH, and MCHC are within normal limits, suggesting a normocytic, normochromic presentation, but the RDW is elevated, indicating increased variation in red blood cell size. There is also evidence of leukocytosis due to an elevated Total Leucocyte Count. The differential count shows significant neutrophilia (high Neutrophils and Absolute Neutrophil Count) and lymphopenia (low Lymphocytes and Absolute Lymphocyte Count), along with low Eosinophils.
+
+### Clinical Notes
+The complete blood count reveals a normocytic, normochromic anemia with anisocytosis (elevated RDW). Concurrently, there is a marked leukocytosis primarily driven by an elevated absolute neutrophil count (neutrophilia). This is accompanied by a relative and absolute lymphopenia and low eosinophils. These findings collectively suggest an active inflammatory or infectious process.
+
+### Model Confidence (0-100%)
+100%

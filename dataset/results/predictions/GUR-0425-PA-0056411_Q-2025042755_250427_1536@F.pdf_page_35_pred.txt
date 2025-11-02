@@ -1,0 +1,20 @@
+### Key Findings
+- Elevated BILIRUBIN (DIRECT) at 0.409 mg/dL (Reference Range: 0.0-0.40 mg/dL).
+- Elevated S.G.O.T (AST) at 70 U/L (Reference Range: 14-36 U/L).
+- Elevated G.G.T at 61 U/L (Reference Range: 12-43 U/L).
+- Elevated GLOBULIN at 3.6 gm/dL (Reference Range: 2.5-3.5 gm/dL).
+- Decreased A/G RATIO at 1.14 (Reference Range: 1.5-2.5).
+- Decreased HAEMOGLOBIN at 10.3 g/dL (Reference Range: 12.0-15.0 g/dL).
+- Decreased PACKED CELL VOLUME (PCV) at 33.6% (Reference Range: 36-46%).
+- Decreased R.B.C. Count at 3.33 x10^12/L (Reference Range: 3.8-4.8 x10^12/L).
+
+### Summary
+The laboratory results indicate abnormalities in liver function tests, specifically elevations in direct bilirubin, AST, and GGT. The protein profile shows an elevated globulin level and a reduced albumin/globulin ratio. Additionally, the complete blood count reveals findings consistent with anemia, including decreased hemoglobin, packed cell volume, and red blood cell count.
+
+### Clinical Notes
+- **Liver Function:** The elevated direct bilirubin, S.G.O.T (AST), and G.G.T suggest potential hepatobiliary dysfunction. S.G.P.T (ALT) and Alkaline Phosphatase are within their respective reference ranges.
+- **Protein Profile:** The increased globulin level and decreased A/G ratio may indicate an inflammatory response or other conditions affecting protein metabolism.
+- **Hematology:** The low Haemoglobin, PCV, and R.B.C. Count are indicative of anemia. The MCV (100.9 fL) and MCH (30.9 pg) are within their reference ranges, suggesting a normocytic, normochromic picture for the anemia.
+
+### Model Confidence (0-100%)
+100%

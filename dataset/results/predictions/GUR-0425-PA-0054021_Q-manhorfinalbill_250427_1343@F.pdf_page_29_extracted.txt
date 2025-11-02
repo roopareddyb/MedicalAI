@@ -1,0 +1,56 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN,12.5,g/dL,13.0-18.0
+TOTAL LEUCOCYTE COUNT,18900,/uL,4000-11000
+Neutrophils,88,%,45-75
+Lymphocytes,08,%,20-45
+Eosinophils,02,%,01-06
+Monocytes,02,%,02-08
+Basophils,00,%,00-02
+E.S.R. (Westergren Method),42,mm,0-15
+PLATELET COUNT,2.46,Lakh/cumm,1.5-4.0
+TOTAL R.B.C. COUNT,4.44,Million/Cu mm,4.2-5.4
+P.C.V./ Haematocrit Value,39.7,%,36-48
+MCV,89.41,fL,77-93
+MCH,28.15,pg,27-32
+MCHC,31.49,g/dL,32-36
+C.R.P. (Quantitative),65.1,mg/dL,< 6.0 mg/dL
+BLOOD SUGAR Random,280,mg/dL,70-140
+SERUM BILIRUBIN TOTAL,1.5,mg/dL,0.2-1.2
+SERUM BILIRUBIN DIRECT,0.6,mg/dL,up to 0.2
+SERUM BILIRUBIN INDIRECT,0.9,mg/dL,0.2-0.6
+S.G.O.T.,180,U/L,0-45
+S.G.P.T.,195,U/L,0-49
+SERUM ALKALINE PHOSPHATASE,176,TU/L,100-250
+TOTAL PROTEINS,4.8,g/dL,6.0-8.3
+ALBUMIN,2.2,g/dL,3.2-5.0
+GLOBULIN,2.6,g/dL,2.6-3.3
+A: G RATIO,0.85,N/A,1.5-2.5:1
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN:** 12.5 g/dL (Reference Range: 13.0-18.0 g/dL) - *Low*
+-   **TOTAL LEUCOCYTE COUNT:** 18900 /uL (Reference Range: 4000-11000 /uL) - *High*
+-   **Neutrophils:** 88 % (Reference Range: 45-75 %) - *High*
+-   **Lymphocytes:** 08 % (Reference Range: 20-45 %) - *Low*
+-   **E.S.R. (Westergren Method):** 42 mm (Reference Range: 0-15 mm) - *High*
+-   **MCHC:** 31.49 g/dL (Reference Range: 32-36 g/dL) - *Low*
+-   **C.R.P. (Quantitative):** 65.1 mg/dL (Reference Range: < 6.0 mg/dL) - *High*
+-   **BLOOD SUGAR Random:** 280 mg/dL (Reference Range: 70-140 mg/dL) - *High*
+-   **SERUM BILIRUBIN TOTAL:** 1.5 mg/dL (Reference Range: 0.2-1.2 mg/dL) - *High*
+-   **SERUM BILIRUBIN DIRECT:** 0.6 mg/dL (Reference Range: up to 0.2 mg/dL) - *High*
+-   **SERUM BILIRUBIN INDIRECT:** 0.9 mg/dL (Reference Range: 0.2-0.6 mg/dL) - *High*
+-   **S.G.O.T.:** 180 U/L (Reference Range: 0-45 U/L) - *High*
+-   **S.G.P.T.:** 195 U/L (Reference Range: 0-49 U/L) - *High*
+-   **TOTAL PROTEINS:** 4.8 g/dL (Reference Range: 6.0-8.3 g/dL) - *Low*
+-   **ALBUMIN:** 2.2 g/dL (Reference Range: 3.2-5.0 g/dL) - *Low*
+-   **A: G RATIO:** 0.85 (Reference Range: 1.5-2.5:1) - *Low*
+
+### Summary
+The report indicates several significant abnormalities across hematological, inflammatory, metabolic, and liver function parameters. Hematological findings include mild anemia (low hemoglobin and MCHC) and marked leukocytosis with neutrophilia and lymphopenia. Inflammatory markers (ESR and CRP) are significantly elevated. Random blood sugar is substantially high. Liver function tests show elevated total, direct, and indirect bilirubin, along with elevated SGOT and SGPT. Additionally, there is evidence of hypoproteinemia and hypoalbuminemia, resulting in a low A:G ratio.
+
+### Clinical Notes
+The complete blood count reveals a normocytic, hypochromic anemia (low MCHC) with a significant increase in total white blood cell count, primarily driven by an elevated neutrophil percentage and a decreased lymphocyte percentage. Both ESR and CRP are markedly elevated, suggesting a strong inflammatory response. The random blood sugar level is significantly above the normal range. Liver function tests show a mixed hyperbilirubinemia (elevated total, direct, and indirect bilirubin) alongside elevated transaminases (SGOT and SGPT), indicating hepatocellular injury. Total proteins and albumin are low, contributing to a reduced albumin-to-globulin ratio.
+
+### Model Confidence (0-100%)
+100%

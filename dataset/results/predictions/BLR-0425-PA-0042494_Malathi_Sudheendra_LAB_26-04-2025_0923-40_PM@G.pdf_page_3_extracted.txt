@@ -1,0 +1,51 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+RBC COUNT,4.14,mil/cmm,3.8-4.8 mil/cmm
+RDW,13.0,%,11.6-14.0 %
+TOTAL WBC COUNT,6.97,K/uL,4.0-10.0 K/uL
+ABSOLUTE BASOPHILS,0.03,K/uL,0.02-0.1 K/uL
+ABSOLUTE EOSINOPHILS,0.31,K/uL,0.02-0.5 K/uL
+ABSOLUTE LYMPHOCYTES,2.14,K/uL,1-3 K/uL
+ABSOLUTE MONOCYTES,0.46,K/uL,0.2-1 K/uL
+ABSOLUTE NEUTROPHILS,4.03,K/uL,2-7 K/uL
+BASOPHILS,0.4,%,0-1 %
+HAEMOGLOBIN,11.8,g/dL,11.5-15.0 g/dL
+LYMPHOCYTES,30.7,%,20-40 %
+MCH,28.4,pg,27-32 pg
+MCHC,32.5,g/dL,31.5-34.5 g/dL
+MCV,87.6,fL,83-101 fL
+MONOCYTES,6.6,%,2-10 %
+NEUTROPHILS,57.8,%,40-80 %
+PCV,36.3,%,36-46 %
+PLATELET COUNT,129,K/uL,150-400 K/uL
+RBC COUNT,4.14,mil/cmm,3.8-4.8 mil/cmm
+RDW,13.0,%,11.6-14.0 %
+TOTAL WBC COUNT,6.97,K/uL,4.0-10.0 K/uL
+BICARBONATE,18.6,mmol/L,22-29 mmol/L
+CHLORIDE,103.5,mmol/L,98-107 mmol/L
+CREATININE,3.9,mg/dL,0.6-1.2 mg/dL
+POTASSIUM,5.00,mmol/L,3.5-5.5 mmol/L
+SODIUM,138.0,mmol/L,135-148 mmol/L
+BICARBONATE,18.6,mmol/L,22-29 mmol/L
+CHLORIDE,103.5,mmol/L,98-107 mmol/L
+CREATININE,3.9,mg/dL,0.6-1.2 mg/dL
+POTASSIUM,5.00,mmol/L,3.5-5.5 mmol/L
+SODIUM,138.0,mmol/L,135-148 mmol/L
+
+### Interpretation
+### Key Findings
+-   Platelet Count: 129 K/uL (Low, Reference Range: 150-400 K/uL)
+-   Bicarbonate: 18.6 mmol/L (Low, Reference Range: 22-29 mmol/L)
+-   Creatinine: 3.9 mg/dL (High, Reference Range: 0.6-1.2 mg/dL)
+
+### Summary
+The majority of the reported hematological parameters, including RBC count, RDW, total WBC count, absolute and percentage differentials for basophils, eosinophils, lymphocytes, monocytes, and neutrophils, hemoglobin, MCH, MCHC, MCV, and PCV, are within their respective reference ranges. Electrolyte levels for Chloride, Potassium, and Sodium are also within normal limits. However, the Platelet Count is below the lower limit of the reference range, Bicarbonate is low, and Creatinine is significantly elevated.
+
+### Clinical Notes
+The Platelet Count is reported as 129 K/uL, which is below the established reference range of 150-400 K/uL.
+Bicarbonate level is 18.6 mmol/L, falling below the reference range of 22-29 mmol/L.
+Creatinine level is 3.9 mg/dL, which is notably above the reference range of 0.6-1.2 mg/dL.
+All other tested parameters, including RBC COUNT, RDW, TOTAL WBC COUNT, ABSOLUTE BASOPHILS, ABSOLUTE EOSINOPHILS, ABSOLUTE LYMPHOCYTES, ABSOLUTE MONOCYTES, ABSOLUTE NEUTROPHILS, BASOPHILS, HAEMOGLOBIN, LYMPHOCYTES, MCH, MCHC, MCV, MONOCYTES, NEUTROPHILS, PCV, CHLORIDE, POTASSIUM, and SODIUM, are within their specified reference ranges.
+
+### Model Confidence (0-100%)
+100%

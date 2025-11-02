@@ -1,0 +1,32 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+R.B.C. count,14.3,g/dL,13.5-18
+R.B.C. count,4.71,mil/cmm,4.5-6.5
+Packed Cell Volume,40.9,%,40-54
+Total WBC Count,13900,/uL,4000-10500
+Neutrophil,88,%,40-70
+Lymphocytes,10,%,20-45
+Monocytes,01,%,2-8
+Eosinophil,01,%,1-5
+Basophil,00,%,0-1
+MCV,86.84,fL,82-97
+MCH,30.36,pg,27-32
+MCHC,35.0,%,32-36
+R.D.W.,12.6,%,11-16
+Platelet Count,2.29,Lacs/uL,1.5-4.5
+
+### Interpretation
+### Key Findings
+- **Total WBC Count:** 13900 /uL (Reference Range: 4000-10500 /uL) - Elevated
+- **Neutrophil:** 88 % (Reference Range: 40-70 %) - Elevated
+- **Lymphocytes:** 10 % (Reference Range: 20-45 %) - Decreased
+- **Monocytes:** 01 % (Reference Range: 2-8 %) - Decreased
+
+### Summary
+The laboratory results indicate an elevated Total WBC Count of 13900 /uL. This is primarily driven by an increased Neutrophil percentage of 88 %. Concurrently, Lymphocytes are decreased to 10 % and Monocytes are decreased to 01 %. All other reported parameters, including R.B.C. counts, Packed Cell Volume, Eosinophil, Basophil, MCV, MCH, MCHC, R.D.W., and Platelet Count, are within their respective reference ranges.
+
+### Clinical Notes
+This interpretation is based solely on the provided numerical data and reference ranges. The findings suggest leukocytosis with neutrophilia, accompanied by lymphopenia and monocytopenia. No clinical context or patient history is available to provide further diagnostic insight.
+
+### Model Confidence (0-100%)
+100%

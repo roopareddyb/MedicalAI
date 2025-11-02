@@ -1,0 +1,15 @@
+### Key Findings
+- Lymphocytes: 16.0 % (Reference Range: 20.0-45.0 %) - Low
+- Eosinophils: 8.1 % (Reference Range: 0.0-7.0 %) - High
+- IPF: 20.10 % (Reference Range: 0.70-9.10 %) - High
+- Eosinophil Absolute: 740.3 /cu mm (Reference Range: 40.0-440.0 /cu mm) - High
+- SERUM POTASSIUM (Indirect ISE): 3.48 mmol/L (Reference Range: 3.50-5.10 mmol/L) - Low
+
+### Summary
+The laboratory report indicates a decreased percentage of Lymphocytes (16.0%) and an elevated percentage of Eosinophils (8.1%), with a corresponding elevated Absolute Eosinophil count (740.3 /cu mm). The Immature Platelet Fraction (IPF) is also elevated at 20.10%. Serum Potassium is slightly below the reference range at 3.48 mmol/L. All other measured parameters, including Platelet Count, Neutrophils, Basophils, Monocytes, RDW, Neutrophil Absolute, Lymphocyte Absolute, Monocyte Absolute, Basophil Absolute, SERUM BICARBONATE, SERUM SODIUM, SERUM CHLORIDE, Blood Urea Nitrogen, SERUM CREATININE, GLUCOSE- Random, eGFR, and Prothrombin Time Test, are within their respective reference ranges. INR, PT CONTROL, ISI Value, and two "TEST RESULT" entries do not have reference ranges provided for comparison.
+
+### Clinical Notes
+The patient's laboratory results show a decreased percentage of Lymphocytes (16.0%), an increased percentage of Eosinophils (8.1%), and an increased Absolute Eosinophil count (740.3 /cu mm). The Immature Platelet Fraction (IPF) is elevated at 20.10%. Serum Potassium is slightly below the reference range at 3.48 mmol/L. All other reported values are within normal limits based on the provided reference ranges.
+
+### Model Confidence (0-100%)
+100%

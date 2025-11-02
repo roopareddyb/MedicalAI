@@ -1,0 +1,16 @@
+### Key Findings
+- Platelet Count is low at 129 K/uL (Reference Range: 150-400 K/uL).
+- Bicarbonate is low at 18.6 mmol/L (Reference Range: 22-29 mmol/L).
+- Creatinine is high at 3.9 mg/dl (Reference Range: 0.6-1.2 mg/dl).
+
+### Summary
+The laboratory report indicates three parameters outside their respective reference ranges: Platelet Count is decreased, Bicarbonate is decreased, and Creatinine is significantly elevated. All other reported values are within normal limits.
+
+### Clinical Notes
+The patient's Platelet Count of 129 K/uL is below the lower limit of the reference range, indicating thrombocytopenia.
+Bicarbonate levels are reduced at 18.6 mmol/L, which is below the normal range, suggesting metabolic acidosis.
+Creatinine is markedly elevated at 3.9 mg/dl, significantly exceeding the upper limit of the reference range, which is indicative of impaired renal function.
+All other complete blood count parameters, including RBC Count, Haemoglobin, Total WBC Count and differentials (Absolute Basophils, Absolute Eosinophils, Absolute Lymphocytes, Absolute Monocytes, Absolute Neutrophils, Basophils, Lymphocytes, Monocytes, Neutrophils), and red cell indices (RDW, MCH, MCHC, MCV, PCV), are within their normal reference ranges. Electrolytes such as Sodium, Potassium, and Chloride are also within normal limits.
+
+### Model Confidence (0-100%)
+100%

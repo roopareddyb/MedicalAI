@@ -1,0 +1,53 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 14.1 g/dl 13.00 - 18.00
+Red Cell Count 4.95 10^6/ul 4.50 - 6.50
+Hematocrit 44.7 % 40.00 - 54.00
+MCV 90.3 fl 76.00 - 96.00
+MCH 28.6 pg 27.00 - 32.00
+MCHC 31.6 g/dl 30.00 - 35.00
+RDW 13.9 % 11.50 - 14.50
+WBC Count 9.44 10^3/ul 4.00 - 11.00
+Platelet Count 183 10^3/ul 150.00 - 450.00
+Neutrophils 67 % 40.00 - 70.00
+Lymphocytes 26 % 15.00 - 40.00
+Eosinophils 02 % 2.00 - 6.00
+Monocytes 05 % 2.00 - 8.00
+Basophils 00 % 0.00 - 2.00
+Absolute Neutrophils 6.32 10^3/ul 1.60 - 7.70
+Absolute Lymphocytes 2.45 10^3/ul 0.60 - 4.40
+Absolute Eosinophils 0.19 10^3/ul 0.00 - 0.45
+Absolute Monocytes 0.47 10^3/ul 0.08 - 0.88
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 14.1 g/dl (within normal range)
+- Red Cell Count: 4.95 x10^6/µl (within normal range)
+- Hematocrit: 44.7 % (within normal range)
+- MCV: 90.3 fl (within normal range)
+- MCH: 28.6 pg (within normal range)
+- MCHC: 31.6 g/dl (within normal range)
+- RDW: 13.9 % (within normal range)
+- WBC Count: 9.44 x10^3/µl (within normal range)
+- Platelet Count: 183 x10^3/µl (within normal range)
+- Neutrophils: 67% (within normal range)
+- Lymphocytes: 26% (within normal range)
+- Eosinophils: 2% (lower border of normal range)
+- Monocytes: 5% (within normal range)
+- Basophils: 0% (within normal range)
+- Absolute Neutrophils: 6.32 x10^3/µl (within normal range)
+- Absolute Lymphocytes: 2.45 x10^3/µl (within normal range)
+- Absolute Eosinophils: 0.19 x10^3/µl (within normal range)
+- Absolute Monocytes: 0.47 x10^3/µl (within normal range)
+
+### Summary
+All hematological parameters including red blood cells, white blood cells, platelets, and related indices are within their respective reference ranges. There is no evidence of anemia, leukocytosis, leukopenia, thrombocytopenia, or other hematologic abnormalities. Differential counts of white blood cells are normal, indicating a balanced immune cell distribution.
+
+### Clinical Notes
+- The complete blood count (CBC) indicates a normal, healthy hematologic profile.
+- No signs of infection, inflammation, anemia, or hematologic disorders are apparent from this report.
+- Eosinophil percentage is at the low-normal limit; however, absolute counts are normal and not concerning.
+- Routine monitoring or correlation clinically recommended if symptoms present, but no immediate hematologic concerns.
+
+### Model Confidence (0-100%)
+99%

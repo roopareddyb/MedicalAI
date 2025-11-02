@@ -1,0 +1,29 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN (Hb),12.7,g/dL,11.5-16.5
+TOTAL LEUCOCYTE COUNT (TLC),17200,/uL,4000-11000
+NEUTROPHIL,73,%,40-75
+LYMPHOCYTE,22,%,20-45
+EOSINOPHIL,02,%,01-06
+MONOCYTE,03,%,02-10
+BASOPHIL,00,%,0-0
+PLATELET COUNT,2.31,Lakh/cmm,1.50-4.50
+RBC COUNT,3.95,Millions/cmm,3.8-4.8
+P.C.V/HAEMATOCRIT,38.1,%,35-45
+MCV,96.46,fL,80-100
+MCH,32.15,Picogram,27.0-31.0
+MCHC,33.3,g/dL,30-35
+
+### Interpretation
+### Key Findings
+- TOTAL LEUCOCYTE COUNT (TLC) is elevated at 17200 /uL (Reference Range: 4000-11000 /uL).
+- MCH is elevated at 32.15 Picogram (Reference Range: 27.0-31.0 Picogram).
+
+### Summary
+The laboratory results indicate an elevated Total Leucocyte Count (TLC) and an elevated Mean Corpuscular Hemoglobin (MCH). All other parameters, including Haemoglobin, Neutrophil, Lymphocyte, Eosinophil, Monocyte, Basophil, Platelet Count, RBC Count, P.C.V/Haematocrit, MCV, and MCHC, are within their respective reference ranges.
+
+### Clinical Notes
+Based solely on the provided extracted table, no clinical notes or interpretations can be generated. The table contains only laboratory test results and their reference ranges.
+
+### Model Confidence (0-100%)
+100%

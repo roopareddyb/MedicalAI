@@ -1,0 +1,18 @@
+### Extracted Table
+Test Name  Result  Unit  Reference Range
+ANTI HCV  NEGATIVE  N/A  N/A
+
+### Interpretation
+### Key Findings
+- Anti-HCV test result is negative.
+
+### Summary
+- The patient tested negative for Hepatitis C virus antibodies (Anti-HCV), indicating no evidence of current or past Hepatitis C infection based on this test.
+
+### Clinical Notes
+- A negative Anti-HCV test generally suggests the patient has not been exposed to Hepatitis C virus.
+- If clinically indicated and in cases of recent exposure, follow-up testing or additional diagnostic evaluations may be considered to rule out early infection.
+- Always interpret test results in conjunction with clinical presentation and other laboratory findings.
+
+### Model Confidence (0-100%)
+99%

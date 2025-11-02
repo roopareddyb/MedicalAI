@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN (Hb),13.1,g/dL,13.5-18.0
+TOTAL LEUCOCYTE COUNT (TLC),16,700,/uL,4000-11000
+NEUTROPHIL,84,%,40-75
+LYMPHOCYTE,14,%,20-45
+EOSINOPHIL,01,%,01-06
+MONOCYTE,01,%,02-10
+BASOPHIL,00,%,0-0
+PLATELET COUNT,2.69,Lakh/uL,1.50-4.50
+RBC COUNT,4.53,Millions/uL,4.5-5.5
+PC.V/HAEMATOCRIT,39.3,%,40-54
+MCV,86.75,fL,80-100
+MCH,28.92,Picogram,27.0-31.0
+MCHC,33.3,g/dL,30-35
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN (Hb)**: 13.1 g/dL (Reference Range: 13.5-18.0 g/dL) - **Low**
+-   **TOTAL LEUCOCYTE COUNT (TLC)**: 16,700 /uL (Reference Range: 4000-11000 /uL) - **High**
+-   **NEUTROPHIL**: 84 % (Reference Range: 40-75 %) - **High**
+-   **LYMPHOCYTE**: 14 % (Reference Range: 20-45 %) - **Low**
+-   **MONOCYTE**: 01 % (Reference Range: 02-10 %) - **Low**
+-   **PC.V/HAEMATOCRIT**: 39.3 % (Reference Range: 40-54 %) - **Low**
+
+### Summary
+The complete blood count results indicate a low Haemoglobin (Hb) and PC.V/Haematocrit. The Total Leucocyte Count (TLC) is elevated, primarily due to a high Neutrophil percentage, while Lymphocyte and Monocyte percentages are low. Other parameters such as Eosinophil, Basophil, Platelet Count, RBC Count, MCV, MCH, and MCHC are within their respective reference ranges.
+
+### Clinical Notes
+The provided laboratory results contain several values outside their respective reference ranges, which typically warrant further medical assessment.
+
+### Model Confidence (0-100%)
+100%

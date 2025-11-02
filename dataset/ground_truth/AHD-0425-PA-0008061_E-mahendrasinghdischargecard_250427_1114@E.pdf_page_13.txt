@@ -1,0 +1,43 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin 11.6 gm/dl 13.0-17.0
+Packed Cell Volume (HCT) 45.2 % 40-50
+R.B.C. Count 5.10 mill/cmm 4.5-5.5
+Mean Cell Volume (MCV) 88.6 fl 83-101
+Mean Cell Hemoglobin (MCH) 22.7 pg 27-33
+Mean Cell Hb Conc (MCHC) 25.7 % 32-38
+Total WBC Count 9200 cells/cumm 4000-11000
+Neutrophils 66 % 50-70
+Lymphocytes 24 % 20-40
+Eosinophils 4 % 1-6
+Monocytes 06 % 0-10
+Absolute Neutrophils Count 6072 /cumm 2000-7000
+Absolute Lymphocytes Count 2208 /cumm 1000-3000
+Absolute Monocytes Count 552 /cumm 200-1000
+Absolute Eosinophils Count, AEC 368 /cumm 20-500
+Platelet Count 398000 cells/cumm N/A
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 11.6 gm/dl (Low; reference range 13.0-17.0)
+- Packed Cell Volume (HCT): 45.2% (Normal; 40-50)
+- RBC Count: 5.10 mill/cmm (Normal; 4.5-5.5)
+- Mean Cell Volume (MCV): 88.6 fl (Normal; 83-101)
+- Mean Cell Hemoglobin (MCH): 22.7 pg (Low; 27-33)
+- Mean Cell Hemoglobin Concentration (MCHC): 25.7% (Low; 32-38)
+- Total WBC Count: 9200 cells/cumm (Normal; 4000-11000)
+- Differential WBC counts (Neutrophils, Lymphocytes, Eosinophils, Monocytes): Within normal limits
+- Absolute counts: All within normal limits
+- Platelet Count: 398,000 cells/cumm (Normal)
+
+### Summary
+The lab results reveal a mild anemia characterized by low hemoglobin, MCH, and MCHC with normal RBC count, hematocrit, and MCV. White blood cell counts, including differential and absolute counts, are within normal limits. Platelet count is normal.
+
+### Clinical Notes
+- The anemia is likely hypochromic (low MCH and MCHC), but normocytic (normal MCV).
+- Possible causes include early iron deficiency or chronic disease.
+- Further evaluation may include iron studies, reticulocyte count, and clinical correlation for symptoms of anemia.
+- WBC and platelet counts do not indicate infection or hematologic malignancy at this time.
+
+### Model Confidence (0-100%)
+95%

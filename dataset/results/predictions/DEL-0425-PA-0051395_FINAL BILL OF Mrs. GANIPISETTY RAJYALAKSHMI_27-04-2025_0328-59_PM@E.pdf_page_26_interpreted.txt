@@ -1,0 +1,55 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+CBC (AUTOMATION + STANDARD METHOD),N/A,N/A,N/A
+CBC (HB,PCV,TC,DC)(AUTOMATION +STANDARD METHOD),N/A,N/A,N/A
+ERYTHROCYTE SEDIMENTATION RATE (ESR),N/A,N/A,N/A
+ACTIVATED PARTIAL THROMBOPLASTIN TIME,N/A,N/A,N/A
+FACTOR XIII-SCREENING,N/A,N/A,N/A
+PLATELET COUNT,N/A,N/A,N/A
+PROTHROMBIN TIME,N/A,N/A,N/A
+THROMBIN TIME,N/A,N/A,N/A
+ALKALINE PHOSPHATASE - SERUM/PLASMA,N/A,N/A,N/A
+ALT(SGPT) - SERUM/PLASMA,N/A,N/A,N/A
+AMYLASE - SERUM/PLASMA,N/A,N/A,N/A
+BILIRUBIN, TOTAL - SERUM,N/A,N/A,N/A
+CALCIUM - SERUM,N/A,N/A,N/A
+CARBONDIOXIDE, TOTAL - SERUM/PLASMA,N/A,N/A,N/A
+CBC WITH ESR (AUTOMATION + STANDARD METHOD),N/A,N/A,N/A
+CHLORIDE - SERUM/PLASMA,N/A,N/A,N/A
+CHOLESTEROL - SERUM/PLASMA,N/A,N/A,N/A
+CREATININE - SERUM/PLASMA,N/A,N/A,N/A
+GLUCOSE - SERUM/PLASMA (RANDOM CASUAL),N/A,N/A,N/A
+MAGNESIUM - SERUM,N/A,N/A,N/A
+PHOSPHORUS, INORGANIC - SERUM,N/A,N/A,N/A
+POTASSIUM - SERUM/PLASMA,N/A,N/A,N/A
+PREALBUMIN SERUM,N/A,N/A,N/A
+PROTEIN, TOTAL - SERUM/PLASMA,N/A,N/A,N/A
+SODIUM - SERUM/PLASMA,N/A,N/A,N/A
+UREA - SERUM/PLASMA,N/A,N/A,N/A
+URIC ACID - SERUM,N/A,N/A,N/A
+URINE ROUTINE (CUE),N/A,N/A,N/A
+CHLORIDE - SERUM/PLASMA,N/A,N/A,N/A
+CREATININE - SERUM/PLASMA,N/A,N/A,N/A
+GLUCOSE - SERUM/PLASMA (RANDOM CASUAL),N/A,N/A,N/A
+POTASSIUM - SERUM/PLASMA,N/A,N/A,N/A
+PREALBUMIN SERUM,N/A,N/A,N/A
+SODIUM - SERUM/PLASMA,N/A,N/A,N/A
+UREA - SERUM/PLASMA,N/A,N/A,N/A
+ANTI HCV ELISA,N/A,N/A,N/A
+HBsAg,N/A,N/A,N/A
+HIV-1+2 SCREENING(Ag+Ab),N/A,N/A,N/A
+VDRL (QUALITATIVE)-BLOOD,N/A,N/A,N/A
+
+### Interpretation
+### Key Findings
+- All listed tests (e.g., CBC, ESR, Coagulation tests, Liver function tests, Renal function tests, Electrolytes, Glucose, Lipid profile, Serology for infectious diseases, Urine routine) have "N/A" for their results, units, and reference ranges.
+- No numerical or qualitative results are available for interpretation.
+
+### Summary
+The provided table lists a comprehensive panel of laboratory tests, but no results have been recorded or provided for any of these tests. All result fields are marked as "N/A".
+
+### Clinical Notes
+Without specific test results, no clinical interpretation, assessment of patient status, or recommendations can be made based on this report. Further action would require the actual test results to be provided.
+
+### Model Confidence (0-100%)
+100%

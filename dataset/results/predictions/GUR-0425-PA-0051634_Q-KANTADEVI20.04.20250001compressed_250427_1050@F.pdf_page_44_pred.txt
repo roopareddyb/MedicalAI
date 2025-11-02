@@ -1,0 +1,15 @@
+### Key Findings
+- **TOTAL LEUCOCYTE COUNT (TLC):** Elevated at 17,200 /cumm (Reference Range: 4000-11000 /cumm).
+- **MCH:** Elevated at 32.15 Picogram (Reference Range: 27.0-31.0 Picogram).
+
+### Summary
+The laboratory results indicate an elevated Total Leucocyte Count (TLC) and an elevated Mean Corpuscular Hemoglobin (MCH). All other parameters, including Haemoglobin, Neutrophil, Lymphocyte, Eosinophil, Monocyte, Basophil, Platelet Count, RBC Count, P.C.V/Haematocrit, MCV, and MCHC, are within their respective reference ranges.
+
+### Clinical Notes
+Based solely on the provided laboratory data:
+- The elevated Total Leucocyte Count suggests a possible inflammatory or infectious process.
+- The elevated MCH indicates that the red blood cells contain a higher than normal amount of hemoglobin.
+Further clinical evaluation and correlation with patient history and symptoms are recommended.
+
+### Model Confidence (0-100%)
+100%

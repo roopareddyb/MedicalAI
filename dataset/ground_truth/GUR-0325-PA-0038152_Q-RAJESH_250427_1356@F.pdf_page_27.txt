@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name                        Result    Unit    Reference Range
+TOTAL BILIRUBIN                0.78     mg/dl   0.2--1.2
+DIRECT BILIRUBIN               0.32     mg/dl   0--0.4
+INDIRECT BILIRUBIN             0.46     mg/dl   0.2--0.8
+S.G.O.T                        33.51    U/L     5--34
+S.G.P.T                        39.65    U/L     0--40
+SERUM ALKALINE PHOSPHATASE    83.62    IU/L    28--111
+SERUM PROTEIN                  6.87     gm/dl   6--8.3
+SERUM ALBUMIN                  3.95     gm/dl   3.5--5
+SERUM GLOBULIN                2.92     gm/dl   2.5--3.5
+A/G RATIO                     1.35     --      --
+
+### Interpretation
+### Key Findings
+- Total Bilirubin: 0.78 mg/dl (within normal range 0.2–1.2)
+- Direct Bilirubin: 0.32 mg/dl (within normal range 0–0.4)
+- Indirect Bilirubin: 0.46 mg/dl (within normal range 0.2–0.8)
+- S.G.O.T (AST): 33.51 U/L (within normal range 5–34, upper limit)
+- S.G.P.T (ALT): 39.65 U/L (within normal range 0–40, upper limit)
+- Serum Alkaline Phosphatase: 83.62 IU/L (within normal range 28–111)
+- Serum Protein: 6.87 gm/dl (within normal range 6–8.3)
+- Serum Albumin: 3.95 gm/dl (within normal range 3.5–5)
+- Serum Globulin: 2.92 gm/dl (within normal range 2.5–3.5)
+- A/G Ratio: 1.35 (normal, no reference range provided but typical is around 1.0–2.0)
+
+### Summary
+The liver function test results are generally within normal reference ranges. Both bilirubin fractions (direct and indirect) and total bilirubin are normal, indicating no current evidence of jaundice or significant hepatobiliary obstruction. Liver enzymes AST (S.G.O.T) and ALT (S.G.P.T) are at the upper limit of normal but not elevated, suggesting no active hepatocellular injury. Other liver function parameters including alkaline phosphatase, serum protein, albumin, and globulin levels are normal, indicating preserved liver synthetic function.
+
+### Clinical Notes
+- No biochemical evidence of liver dysfunction or cholestasis.
+- Slightly elevated liver transaminases at the upper limit of normal may warrant monitoring if there are clinical symptoms or risk factors for liver disease.
+- Normal albumin and protein levels suggest adequate nutritional status and liver synthetic capacity.
+- Overall, results indicate stable liver biochemical status without acute pathology.
+
+### Model Confidence (0-100%)
+95%

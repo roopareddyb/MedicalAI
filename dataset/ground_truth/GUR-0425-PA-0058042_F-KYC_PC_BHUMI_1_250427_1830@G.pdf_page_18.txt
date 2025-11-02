@@ -1,0 +1,48 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Blood Urea 22.8 mg/dL 17 - 43
+Serum Creatnine 0.60 mg/dL F 0.5 - 1.1
+Sodium(Na+) 135 mmol/L 135 - 155
+Potassium(K+) 4.50 mmol/L 3.5 - 5.5
+Chloride(CL-) 98.9 mmol/L 96 - 110
+Total Bilirubin 0.397 mg/dl 0.3 - 1.2
+Direct Bilirubin 0.163 mg/dl 0 - 0.25
+Indirect Bilirubin 0.23 mg/dl 0 - 0.6
+SGPT(ALT) 61.1 H u/L 0 - 50
+SGOT(AST) 55.2 H u/L 0 - 50
+Alkaline Phosphate(ALP) 107 u/L 20 - 140
+Total Protein 8.02 gm/dl 6.6 - 8.3
+Albumin 4.17 g/dL 3.5 - 5.2
+Globulin 3.85 H g/dL 2 - 3.5
+A/G Ratio 1.08 N/A N/A
+Hb(Haemoglobin) 11.8 L g/dL F 12 - 15
+TLC 8.34 x10(3)/uL 4.5 - 11
+NEUTROPHILS 66.0 % 40 - 80
+LYMPHOCYTES 22.2 % 20 - 40
+EOSINOPHIL 0.5 L % 1 - 6
+MONOCYTES 11.2 H % 2 - 10
+BASOPHILS 0.1 % 0 - 1
+HCT 34.5 L % 40 - 50
+
+### Interpretation
+### Key Findings
+- Liver enzymes elevated: SGPT (ALT) 61.1 U/L (high), SGOT (AST) 55.2 U/L (high)
+- Globulin elevated: 3.85 g/dL (high)
+- Hemoglobin low: 11.8 g/dL (low for female reference range)
+- Eosinophils low: 0.5% (below reference range)
+- Monocytes elevated: 11.2% (high)
+- Hematocrit low: 34.5% (low)
+- Other parameters including kidney function (urea, creatinine), electrolytes (Na+, K+, Cl-), bilirubin levels, total protein, albumin, WBC total count, neutrophils, lymphocytes, basophils are within normal limits or close to normal.
+
+### Summary
+The patient shows mild anemia indicated by low hemoglobin and hematocrit. Liver function tests suggest mild hepatocellular injury or inflammation given elevated ALT and AST levels. Elevated globulin and monocytes might indicate chronic inflammation or immune activation. Electrolytes, renal function, bilirubin, and most hematologic parameters are within normal limits.
+
+### Clinical Notes
+- Elevated liver enzymes warrant investigating possible liver pathology such as viral hepatitis, fatty liver disease, or drug-induced liver injury.
+- Mild anemia with low hematocrit and hemoglobin may require further evaluation for causes such as nutritional deficiencies, chronic disease, or blood loss.
+- Elevated globulin and monocytes could reflect chronic inflammatory or infectious processes.
+- Low eosinophil count is less clinically significant but should be correlated clinically.
+- Recommend correlating these findings with clinical history, physical examination, and possibly further imaging or serologic tests to identify liver pathology and anemia cause.
+
+### Model Confidence (0-100%)
+95%

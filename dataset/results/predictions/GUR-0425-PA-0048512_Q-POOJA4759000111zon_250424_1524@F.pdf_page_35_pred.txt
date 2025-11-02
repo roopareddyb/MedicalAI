@@ -1,0 +1,11 @@
+### Key Findings
+- ANTI HCV test result is NEGATIVE.
+
+### Summary
+- The ANTI HCV test performed on the patient returned a negative result.
+
+### Clinical Notes
+- No additional clinical notes are available in the provided table.
+
+### Model Confidence (0-100%)
+100%

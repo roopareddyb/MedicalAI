@@ -1,0 +1,64 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Specific Gravity 1.015 N/A N/A
+pH 6.0 N/A N/A
+Bilirubin NIL N/A N/A
+Blood 2+ N/A N/A
+Protein 2+ N/A N/A
+Urobilinogen NORMAL N/A N/A
+Pus Cells 2-4 N/A N/A
+Crystals NIL N/A N/A
+Sodium 130 mEq/L N/A
+Potassium 4.6 mEq/L N/A
+Chloride 100 mEq/L N/A
+Ammonia 57.3 µmol/L N/A
+TLC (Total Leucocyte Count) 7.39 10^3/µL N/A
+Creatinine 4.60 mg/dL N/A
+Sodium 130 mEq/L N/A
+Potassium 4.7 mEq/L N/A
+Chloride 99 mEq/L N/A
+Prothrombin Time Patient Value 12.9 Sec N/A
+Prothrombin Time (MNPT) 11.0 Sec N/A
+Prothrombin Ratio 1.17 N/A
+International Normalized Ratio 1.18 N/A
+Hemoglobin 8.2 g/dL N/A
+Hematocrit 25.30 % N/A
+RDW-CV 15.6 % N/A
+TLC 3.89 10^3/µL N/A
+Platelet Count 114.0 10^3/µL N/A
+ESR 55 mm/1 hr N/A
+Neutrophil 2.65 10^3/µL N/A
+Lymphocyte 0.54 10^3/µL N/A
+Monocyte 0.58 10^3/µL N/A
+Eosinophil 0.09 10^3/µL N/A
+Basophils 0.03 10^3/µL N/A
+
+### Interpretation
+### Key Findings
+- Urine analysis shows presence of blood (2+) and protein (2+), suggesting hematuria and proteinuria.
+- Urine pH is 6.0 with specific gravity 1.015, which is within a typical range.
+- Pus cells in urine are 2-4 per HPF, a slight increase but not marked.
+- Blood ammonia level is elevated at 57.3 µmol/L (normal usually up to ~35-45 µmol/L depending on lab).
+- Serum creatinine is significantly elevated at 4.60 mg/dL, indicating impaired kidney function.
+- Electrolytes show sodium at 130 mEq/L (mild hyponatremia), potassium at ~4.6-4.7 mEq/L (normal), and chloride at ~99-100 mEq/L (normal).
+- Hemoglobin is low at 8.2 g/dL, indicating anemia.
+- Hematocrit is low at 25.3%, confirming anemia.
+- Platelet count is slightly low at 114 x10^3/µL (normal usually 150-400 x10^3/µL).
+- Total leukocyte count varies (7.39 and 3.89 x10^3/µL) — possibly different samples or times; values are within or mildly low limits.
+- ESR is elevated at 55 mm/hr, indicating inflammation or chronic disease.
+- Coagulation profile (PT, INR) is within normal limits.
+
+### Summary
+The laboratory results suggest a patient with significant renal impairment, demonstrated by elevated serum creatinine and electrolyte abnormalities (mild hyponatremia). Urinalysis shows proteinuria and hematuria, raising concern for possible glomerular pathology or urinary tract issues. The low hemoglobin and hematocrit point to anemia, which is common in chronic kidney disease. Elevated ESR indicates an inflammatory or chronic disease state. The ammonia elevation may relate to renal dysfunction or possible hepatic or metabolic disturbances. Coagulation parameters are normal.
+
+### Clinical Notes
+- Renal function is impaired, requiring further assessment for acute or chronic kidney disease.
+- Proteinuria and hematuria warrant nephrology evaluation including possible imaging and further urine studies.
+- Anemia management is necessary; etiology likely multifactorial including renal disease.
+- Elevated ESR suggests an underlying inflammatory process; clinical correlation is needed.
+- Mild hyponatremia should be monitored and addressed.
+- Blood ammonia elevation requires clinical correlation to rule out hepatic dysfunction or metabolic cause.
+- Overall, these findings emphasize the need for comprehensive clinical and diagnostic evaluation to determine the underlying cause and appropriate management of kidney disease and associated anemia.
+
+### Model Confidence (0-100%)
+95%

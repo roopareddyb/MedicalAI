@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name, Result, Unit, Reference Range
+HB (HAEMOGLOBIN),9.7,g/dL,12-16
+TOTAL LEUCOCYTE COUNT (TLC),3700,cuum,4000-11000
+NEUTROPHILS,51,%,40-80
+LYMPHOCYTES,41,%,20-40
+MONOCYTES,07,%,02-10
+EOSINOPHILS,01,%,01-06
+BASOPHILS,00,%,<2
+R.B.C,3.1,mill/cumm,4.5-5.5
+PCV,30,%,40-50
+MCV,97,f,80-100
+MCH,30,picogram,27-32
+MCHC,31,g/dL,32-36
+PLATELET COUNT,1.55,lacs/cumm,1.5-4.5
+
+### Interpretation
+### Key Findings
+- **HB (HAEMOGLOBIN):** 9.7 g/dL (Low; Reference Range: 12-16 g/dL)
+- **TOTAL LEUCOCYTE COUNT (TLC):** 3700 cuum (Low; Reference Range: 4000-11000 cuum)
+- **LYMPHOCYTES:** 41 % (High; Reference Range: 20-40 %)
+- **R.B.C:** 3.1 mill/cumm (Low; Reference Range: 4.5-5.5 mill/cumm)
+- **PCV:** 30 % (Low; Reference Range: 40-50 %)
+- **MCHC:** 31 g/dL (Low; Reference Range: 32-36 g/dL)
+
+### Summary
+The blood report indicates anemia, characterized by low hemoglobin, red blood cell count, packed cell volume (PCV), and mean corpuscular hemoglobin concentration (MCHC). Additionally, there is a low total leucocyte count (leukopenia) with a relatively high percentage of lymphocytes.
+
+### Clinical Notes
+The patient's complete blood count shows a pattern consistent with anemia, specifically normocytic (normal MCV) but hypochromic (low MCHC). The red blood cell count, hemoglobin, and PCV are all below their respective reference ranges. The white blood cell profile reveals a reduced total leucocyte count, with lymphocytes showing a relative increase in percentage, while neutrophils, monocytes, eosinophils, and basophils are within their normal percentage ranges. Platelet count is within the normal range, at the lower end.
+
+### Model Confidence (0-100%)
+100%

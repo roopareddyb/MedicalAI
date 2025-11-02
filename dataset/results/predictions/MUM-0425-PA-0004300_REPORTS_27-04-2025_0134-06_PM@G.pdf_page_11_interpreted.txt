@@ -1,0 +1,31 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN,11.8,g/dL,13.5 to 18.0
+TOTAL ERYTHROCYTE (RBC) COUNT,4.02,X 10^6/uL,4.2 to 5.6
+PACKED CELLS VOLUME,33.5,%,42 to 52
+MCV (CBC),83.33,fL,81.2 to 94.0
+MCH (CBC),29.35,pg,27 to 31
+MCHC(MEAN CELL HB CONCENTRATION),35.22,g/dL,30 to 36
+TOTAL WBC COUNT,7510,/cu mm,4000 to 11000
+NEUTROPHILS,60,%,40 to 75
+LYMPHOCYTES,32,%,N/A
+EOSINOPHILS,03,%,N/A
+MONOCYTES,05,%,N/A
+BASOPHILS,00,%,0 to 2
+PLATELET COUNT,353000,/cu mm,150000 to 500000
+RDW(RED CELL DISTRIBUTION WIDTH),12.8,%,11.5 to 14.0
+
+### Interpretation
+### Key Findings
+- HAEMOGLOBIN: 11.8 g/dL (Reference: 13.5 to 18.0 g/dL) - Low
+- TOTAL ERYTHROCYTE (RBC) COUNT: 4.02 X 10^6/uL (Reference: 4.2 to 5.6 X 10^6/uL) - Low
+- PACKED CELLS VOLUME: 33.5 % (Reference: 42 to 52 %) - Low
+
+### Summary
+The patient's HAEMOGLOBIN, TOTAL ERYTHROCYTE (RBC) COUNT, and PACKED CELLS VOLUME are below their respective reference ranges. All other measured parameters with provided reference ranges (MCV, MCH, MCHC, TOTAL WBC COUNT, NEUTROPHILS, BASOPHILS, PLATELET COUNT, and RDW) are within their normal limits. Reference ranges were not available for LYMPHOCYTES, EOSINOPHILS, and MONOCYTES.
+
+### Clinical Notes
+The observed low HAEMOGLOBIN, TOTAL ERYTHROCYTE (RBC) COUNT, and PACKED CELLS VOLUME indicate a reduction in the red blood cell mass. The MCV, MCH, MCHC, and RDW are within normal limits, suggesting that the existing red blood cells are normocytic, normochromic, and uniform in size.
+
+### Model Confidence (0-100%)
+100%

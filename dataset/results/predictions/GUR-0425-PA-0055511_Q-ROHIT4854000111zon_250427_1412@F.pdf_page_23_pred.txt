@@ -1,0 +1,25 @@
+### Key Findings
+- **Elevated WBC/Pus Cells**: 10-12 HPF (Reference Range: 0-4 HPF).
+- **Appearance**: Yellowish.
+- **pH**: 7.5 (Reference Range: 5-8), which is within the normal range.
+- **Specific Gravity**: 1.025 (Reference Range: 1.003-1.03), which is within the normal range.
+- **Urobilinogen**: NIL.
+- **Protein**: NIL.
+- **Blood**: NIL.
+- **Ketone**: NIL.
+- **Glucose**: NIL.
+- **RBC (PER HPF)**: NIL.
+- **Epithelial Cells (PER HPF)**: 7-8.
+- **Casts (PER HPF)**: NIL.
+- **Crystals (PER HP)**: NIL.
+- **Amorphous (PE HPF)**: NIL.
+- **Other**: NIL.
+
+### Summary
+The urinalysis report shows an elevated count of WBC/Pus Cells at 10-12 HPF, which is above the reference range of 0-4 HPF. The sample's appearance is yellowish. Both pH (7.5) and Specific Gravity (1.025) are within their respective normal reference ranges. All other tested parameters, including Urobilinogen, Protein, Blood, Ketone, Glucose, RBC, Casts, Crystals, Amorphous, and Other, are reported as NIL. Epithelial cells are present at 7-8 per HPF.
+
+### Clinical Notes
+The most significant finding from the provided table is the elevated WBC/Pus Cells, which typically suggests inflammation or infection in the urinary tract. The pH and specific gravity are within normal limits. The absence of protein, blood, ketone, glucose, RBC, casts, crystals, and amorphous material is generally a normal finding. The presence of epithelial cells at 7-8 per HPF is noted, but without a reference range, its clinical interpretation cannot be fully assessed from this data alone.
+
+### Model Confidence (0-100%)
+100%

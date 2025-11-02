@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN (Hb) 12.7 gm/dl 11.5 - 16.5
+TOTAL LEUCOCYTE COUNT (TLC) 17,200 /cumm 4000 - 11000
+NEUTROPHIL 73 % 40 - 75
+LYMPHOCYTE 22 % 20 - 45
+EOSINOPHIL 02 % 01 - 06
+MONOCYTE 03 % 02 - 10
+BASOPHIL 00 % 0 - 0
+PLATELET COUNT 2.31 Lakh/cmm 1.50 - 4.50
+R B C COUNT 3.95 Millions/cmm 3.8 - 4.8
+P.C.V / HAEMATOCRIT 38.1 % 35 - 45
+M C V 96.46 fl. 80 - 100
+M C H 32.15 Picogram 27.0 - 31.0
+M C H C 33.3 gm/dl 30 - 35
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 12.7 gm/dl (within reference range 11.5 - 16.5)
+- Total Leucocyte Count (TLC): 17,200 /cumm (elevated; normal 4000 - 11000)
+- Neutrophils: 73% (upper normal limit 40 - 75%)
+- Lymphocytes: 22% (normal 20 - 45%)
+- Eosinophils: 2% (normal 1 - 6%)
+- Monocytes: 3% (normal 2 - 10%)
+- Basophils: 0% (normal 0%)
+- Platelet Count: 2.31 Lakh/cmm (normal 1.50 - 4.50 Lakh/cmm)
+- RBC Count: 3.95 Millions/cmm (normal 3.8 - 4.8)
+- PCV / Hematocrit: 38.1% (normal 35 - 45%)
+- MCV: 96.46 fl (normal 80 - 100)
+- MCH: 32.15 pg (slightly elevated; normal 27.0 - 31.0)
+- MCHC: 33.3 gm/dl (normal 30 - 35)
+
+### Summary
+The patient’s hemoglobin and red cell indices are mostly within normal ranges, with a slightly elevated Mean Corpuscular Hemoglobin (MCH). Platelet count is normal. There is a significant leukocytosis (elevated total white blood cell count), predominantly neutrophilia, which could suggest an ongoing infection, inflammation, or other causes of increased neutrophils.
+
+### Clinical Notes
+- Elevated TLC with neutrophilia may indicate an acute bacterial infection or inflammatory process.
+- Other differential counts are within normal limits.
+- Slightly increased MCH may be incidental or related to red blood cell changes; no significant anemia is noted given normal Hb and hematocrit.
+- Platelets and RBC counts are normal, reducing concern for thrombocytopenia or anemia.
+- Correlation with clinical presentation and possibly further investigations (e.g., differential diagnosis of infection/inflammation) is recommended.
+
+### Model Confidence (0-100%)
+95%

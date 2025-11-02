@@ -1,0 +1,38 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Blood Group & Rh,O Positive,N/A,N/A
+Haemoglobin(Hb),12.4,g/dL,13-17
+Haematocrit (PCV),37.0,%,40-50
+Total WBC Count (WBC),8900,cells/cumm,4000-10000
+Platelet Count,198,thous/cumm,150-410
+ESR,70,mm/hr,0-15
+Total RBC Count,4.18,mill/cumm,4.5-5.5
+MCV,88.6,fL,83-101
+MCH,29.6,pg,27-32
+MCHC,33.5,%,31.5-34.5
+Polymorphs,73,%,40-80
+Lymphocytes,20,%,20-40
+Eosinophils,01,%,1-6
+Monocytes,06,%,02-10
+Basophilis,00,%,0-2
+aPTT (Test),31.8,sec,26.8-30.7
+aPTT (Control),28.0,sec,N/A
+Test,14.4,seconds,11-15
+Control,14.0,seconds,N/A
+
+### Interpretation
+### Key Findings
+-   **Haemoglobin(Hb):** 12.4 g/dL (Reference Range: 13-17 g/dL) - **Low**
+-   **Haematocrit (PCV):** 37.0 % (Reference Range: 40-50 %) - **Low**
+-   **ESR:** 70 mm/hr (Reference Range: 0-15 mm/hr) - **High**
+-   **Total RBC Count:** 4.18 mill/cumm (Reference Range: 4.5-5.5 mill/cumm) - **Low**
+-   **aPTT (Test):** 31.8 sec (Reference Range: 26.8-30.7 sec) - **High**
+
+### Summary
+The patient's blood group is O Positive. Several parameters are outside their reference ranges: Haemoglobin (12.4 g/dL), Haematocrit (37.0 %), and Total RBC Count (4.18 mill/cumm) are below the lower limit. ESR (70 mm/hr) and aPTT (Test) (31.8 sec) are above the upper limit. All other reported parameters, including Total WBC Count (8900 cells/cumm), Platelet Count (198 thous/cumm), MCV (88.6 fL), MCH (29.6 pg), MCHC (33.5 %), Polymorphs (73 %), Lymphocytes (20 %), Eosinophils (01 %), Monocytes (06 %), Basophilis (00 %), and PT (Test) (14.4 seconds), are within their respective reference ranges.
+
+### Clinical Notes
+The report indicates reduced red blood cell parameters (Haemoglobin, Haematocrit, Total RBC Count). There is an elevated Erythrocyte Sedimentation Rate (ESR) and a prolonged activated Partial Thromboplastin Time (aPTT). Other blood cell counts and indices, including Total WBC Count, Platelet Count, MCV, MCH, MCHC, and differential WBC counts, are within normal limits. Prothrombin Time (PT) is also within normal limits.
+
+### Model Confidence (0-100%)
+100%

@@ -1,0 +1,17 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Erythrocytes Sedimentation Rate ESR 03 mm/1hr 0 - 10
+
+### Interpretation
+### Key Findings
+- Erythrocyte Sedimentation Rate (ESR) is 3 mm/hr, which is within the normal reference range of 0-10 mm/hr.
+
+### Summary
+- The ESR value is normal, indicating no current significant inflammation or infection detectable by this test.
+
+### Clinical Notes
+- ESR is a nonspecific marker that may be elevated in inflammatory, infectious, or neoplastic conditions. A normal value suggests the absence of acute or chronic inflammatory processes at the time of testing.
+- Correlation with clinical findings and other laboratory tests is necessary for comprehensive evaluation.
+
+### Model Confidence (0-100%)
+95%

@@ -1,0 +1,34 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN,11.8,g/dL,12.0-18.0
+TOTAL LEUCOCYTE COUNT,20500,/uL,4000-11000
+Neutrophils,84,%,40-75
+Lymphocytes,12,%,20-45
+Monocytes,02,%,00-08
+Eosinophils,02,%,00-06
+Basophils,00,%,00-01
+TOTAL R.B.C. COUNT,4.60,million/uL,3.5-6.5
+P.C.V./Haematocrit value,38.6,%,35-54
+MCV,78.6,fL,76-96
+MCH,25.7,pg,27.00-32.00
+MCHC,32.8,g/dL,30.50-34.50
+RDW,15.2,%,11.5-14.5
+PLATELET COUNT,1.99,lacs/mm3,1.50-4.50
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN**: Low at 11.8 g/dL (Reference Range: 12.0-18.0 g/dL).
+-   **TOTAL LEUCOCYTE COUNT**: High at 20500 /uL (Reference Range: 4000-11000 /uL).
+-   **Neutrophils**: High at 84 % (Reference Range: 40-75 %).
+-   **Lymphocytes**: Low at 12 % (Reference Range: 20-45 %).
+-   **MCH**: Low at 25.7 pg (Reference Range: 27.00-32.00 pg).
+-   **RDW**: High at 15.2 % (Reference Range: 11.5-14.5 %).
+
+### Summary
+The report indicates a low HAEMOGLOBIN level, accompanied by a low MCH and an elevated RDW. The TOTAL LEUCOCYTE COUNT is significantly elevated, primarily due to an increase in Neutrophils and a decrease in Lymphocytes. Other parameters like TOTAL R.B.C. COUNT, P.C.V./Haematocrit value, MCV, MCHC, Monocytes, Eosinophils, Basophils, and PLATELET COUNT are within their respective reference ranges.
+
+### Clinical Notes
+The observed low HAEMOGLOBIN and MCH suggest a hypochromic state. The elevated RDW indicates increased variation in red blood cell size. The high TOTAL LEUCOCYTE COUNT, specifically with elevated Neutrophils and reduced Lymphocytes, points towards a neutrophilic leukocytosis with lymphopenia.
+
+### Model Confidence (0-100%)
+100%

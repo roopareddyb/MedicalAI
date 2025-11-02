@@ -1,0 +1,16 @@
+### Key Findings
+-   **HB (HAEMOGLOBIN)**: 9.7 g/dL (Low, Reference Range: 12-16 g/dL)
+-   **TOTAL LEUCOCYTE COUNT (TLC)**: 3700 cuum (Low, Reference Range: 4000-11000 cuum)
+-   **LYMPHOCYTES**: 41 % (High, Reference Range: 20-40 %)
+-   **R.B.C**: 3.1 mill/cumm (Low, Reference Range: 4.5-5.5 mill/cumm)
+-   **PCV**: 30 % (Low, Reference Range: 40-50 %)
+-   **MCHC**: 31 g/dL (Low, Reference Range: 32-36 g/dL)
+
+### Summary
+The report indicates several abnormal findings. Hemoglobin, Total Leukocyte Count (TLC), Red Blood Cell (RBC) count, PCV, and MCHC are below their respective reference ranges. Lymphocytes are elevated above the reference range. Other parameters such as Neutrophils, Monocytes, Eosinophils, Basophils, MCV, MCH, and Platelet Count are within their normal reference ranges.
+
+### Clinical Notes
+The patient's blood work shows low levels for HB (9.7 g/dL), R.B.C (3.1 mill/cumm), PCV (30%), and MCHC (31 g/dL). The MCV (97 f) and MCH (30 picogram) are within normal limits. The Total Leukocyte Count (TLC) is low at 3700 cuum. Within the differential count, Lymphocytes are elevated at 41%, while Neutrophils (51%), Monocytes (07%), Eosinophils (01%), and Basophils (00%) are within their normal ranges. Platelet Count is normal at 1.55 lacs/cumm.
+
+### Model Confidence
+100%

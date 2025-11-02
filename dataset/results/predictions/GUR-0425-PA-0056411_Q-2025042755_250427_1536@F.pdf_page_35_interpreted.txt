@@ -1,0 +1,39 @@
+### Extracted Table
+Test Name, Result, Unit, Reference Range
+BILIRUBIN (TOTAL),0.601,mg/dL,0.2 - 1.3
+BILIRUBIN (DIRECT),0.409,mg/dL,0.0 - 0.40
+BILIRUBIN (INDIRECT),0.19,mg/dL,0.0 - 1.1
+S.G.O.T (AST),70,U/L,14-36
+S.G.P.T (ALT),32,U/L,<35
+G.G.T,61,U/L,12-43
+ALKALINE PHOSPHATASE,126,U/L,38-126
+TOTAL PROTEINS,7.7,gm/dL,6.3 - 8.2
+ALBUMIN,4.1,gm/dL,3.5-5.0
+GLOBULIN,3.6,gm/dL,2.5 - 3.5
+A/G RATIO,1.14,N/A,1.5-2.5
+HAEMOGLOBIN,10.3,g/dL,12.0 - 15.0
+PACKED CELL VOLUME (PCV),33.6,%,36 - 46
+R.B.C. Count,3.33,x10^12/L,3.8 - 4.8
+MCV,100.9,fL,83 -101
+MCH,30.9,pg,27 - 32
+
+### Interpretation
+### Key Findings
+- BILIRUBIN (DIRECT): 0.409 mg/dL (Reference Range: 0.0 - 0.40 mg/dL) - Elevated
+- S.G.O.T (AST): 70 U/L (Reference Range: 14-36 U/L) - Elevated
+- G.G.T: 61 U/L (Reference Range: 12-43 U/L) - Elevated
+- GLOBULIN: 3.6 gm/dL (Reference Range: 2.5 - 3.5 gm/dL) - Elevated
+- A/G RATIO: 1.14 (Reference Range: 1.5-2.5) - Low
+- HAEMOGLOBIN: 10.3 g/dL (Reference Range: 12.0 - 15.0 g/dL) - Low
+- PACKED CELL VOLUME (PCV): 33.6 % (Reference Range: 36 - 46 %) - Low
+- R.B.C. Count: 3.33 x10^12/L (Reference Range: 3.8 - 4.8 x10^12/L) - Low
+- MCV: 100.9 fL (Reference Range: 83 -101 fL) - Elevated
+
+### Summary
+The report indicates elevated direct bilirubin, S.G.O.T (AST), and G.G.T. Globulin levels are elevated, resulting in a low A/G ratio. Additionally, there are findings consistent with anemia, including low haemoglobin, packed cell volume (PCV), and R.B.C. count, with an elevated MCV.
+
+### Clinical Notes
+Liver function tests show elevated direct bilirubin, S.G.O.T (AST), and G.G.T. Total bilirubin, S.G.P.T (ALT), and alkaline phosphatase are within or at the upper limit of their respective reference ranges. Protein levels show elevated globulin and a decreased A/G ratio, while total proteins and albumin are within normal limits. Hematology results indicate low haemoglobin, packed cell volume (PCV), and R.B.C. count. The MCV is slightly elevated, and MCH is within the normal range.
+
+### Model Confidence (0-100%)
+100%

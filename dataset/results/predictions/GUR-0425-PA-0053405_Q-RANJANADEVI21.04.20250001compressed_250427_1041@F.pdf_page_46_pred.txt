@@ -1,0 +1,15 @@
+### Key Findings
+-   **HAEMOGLOBIN (Hb)**: 11.2 gm/dL (Low, Reference Range: 11.5-16.5 gm/dL)
+-   **TOTAL LEUCOCYTE COUNT (TLC)**: 16,800 /cumm (High, Reference Range: 4000-11000 /cumm)
+-   **NEUTROPHIL**: 77 % (High, Reference Range: 40-75 %)
+-   **PLATELET COUNT**: 0.82 Lakh/cmm (Low, Reference Range: 1.50-4.50 Lakh/cmm)
+-   **PCV/HAEMATOCRIT**: 33.6 % (Low, Reference Range: 35-45 %)
+
+### Summary
+The report indicates low hemoglobin (11.2 gm/dL), low PCV/hematocrit (33.6%), and low platelet count (0.82 Lakh/cmm). The total leukocyte count is elevated at 16,800 /cumm, primarily due to an increased neutrophil percentage of 77%.
+
+### Clinical Notes
+The complete blood count (CBC) results show a pattern of anemia with low hemoglobin and PCV/hematocrit. Thrombocytopenia is noted with a low platelet count. Leukocytosis is present, characterized by an elevated total leukocyte count and neutrophilia. Other parameters such as RBC count, MCV, MCH, MCHC, lymphocyte, eosinophil, monocyte, and basophil percentages are within their respective reference ranges.
+
+### Model Confidence (0-100%)
+100%

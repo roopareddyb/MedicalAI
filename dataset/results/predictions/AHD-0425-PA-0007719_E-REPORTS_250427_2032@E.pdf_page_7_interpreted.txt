@@ -1,0 +1,50 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Haemoglobin,9.10,g/dL,13.0-17.0 g/dL
+Total R.B.C. Count,3.19,mill/cmm,4.5-5.5 mill/cmm
+Haematocrit (PCV/HCT),27.20,%,40.0-50.0%
+Mean Corpuscular Volume (M.C.V.),85.30,fL,83.0-95.0 fL
+Mean Corpuscular Hb (M.C.H.),28.50,pg,27.0-32.0 pg
+Mean Corpuscular Hb Conc (M.C.H.C.),33.50,g/dL,31.5-34.5 g/dL
+Red cell Distribution Width (R.D.W.-CV),16.5,%,11.6-14.6%
+Total W.B.C. Count,10560,/uL,4000-10000 /uL
+Neutrophils,87.7,%,40-70%
+Lymphocytes,5.9,%,20-40%
+Eosinophils,0.7,%,1-6%
+Monocytes,5.5,%,2-10%
+Basophils,0.2,%,0-1%
+Platelet Count,370,/uL,150-450 /uL
+MPV,9.4,fL,6.78-13.46 fL
+IMMATURE PLATELET FRACTION,2.90,%,0-5%
+Neutrophils (abs),9261.12,/uL,1575-6800 /uL
+Lymphocytes (abs),623.04,/uL,1125-4950 /uL
+Eosinophils (abs),73.92,/uL,0-400 /uL
+Monocytes (abs),580.80,/uL,0-1000 /uL
+Basophils (abs),21.12,/uL,0-100 /uL
+
+### Interpretation
+### Key Findings
+- **Haemoglobin:** 9.10 g/dL (Reference Range: 13.0-17.0 g/dL) - Low
+- **Total R.B.C. Count:** 3.19 mill/cmm (Reference Range: 4.5-5.5 mill/cmm) - Low
+- **Haematocrit (PCV/HCT):** 27.20 % (Reference Range: 40.0-50.0%) - Low
+- **Red cell Distribution Width (R.D.W.-CV):** 16.5 % (Reference Range: 11.6-14.6%) - High
+- **Total W.B.C. Count:** 10560 /uL (Reference Range: 4000-10000 /uL) - High
+- **Neutrophils:** 87.7 % (Reference Range: 40-70%) - High
+- **Lymphocytes:** 5.9 % (Reference Range: 20-40%) - Low
+- **Eosinophils:** 0.7 % (Reference Range: 1-6%) - Low
+- **Neutrophils (abs):** 9261.12 /uL (Reference Range: 1575-6800 /uL) - High
+- **Lymphocytes (abs):** 623.04 /uL (Reference Range: 1125-4950 /uL) - Low
+
+### Summary
+The report indicates several values outside their respective reference ranges. Red blood cell parameters including Haemoglobin (9.10 g/dL), Total R.B.C. Count (3.19 mill/cmm), and Haematocrit (27.20 %) are below the lower limit of their reference ranges. The Red cell Distribution Width (R.D.W.-CV) is elevated at 16.5 %. The Total W.B.C. Count is high at 10560 /uL. This is primarily driven by an elevated Neutrophil percentage (87.7 %) and absolute count (9261.12 /uL). Conversely, Lymphocyte percentage (5.9 %) and absolute count (623.04 /uL), and Eosinophil percentage (0.7 %) are below their respective reference ranges. All other measured parameters are within their specified reference ranges.
+
+### Clinical Notes
+Based solely on the provided table, the following observations are noted:
+- Red blood cell indices show decreased Haemoglobin, Total R.B.C. Count, and Haematocrit.
+- Red cell Distribution Width (R.D.W.-CV) is increased.
+- White blood cell count is elevated, with an increase in Neutrophils (both percentage and absolute count).
+- There is a decrease in Lymphocytes (both percentage and absolute count) and Eosinophils (percentage).
+No further clinical interpretation or diagnostic statements are provided as per instructions to use only the extracted table and not invent values.
+
+### Model Confidence (0-100%)
+100%

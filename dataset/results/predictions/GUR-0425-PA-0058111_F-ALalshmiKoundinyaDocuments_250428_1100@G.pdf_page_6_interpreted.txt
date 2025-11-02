@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Complete Blood Picture (CBP), EDTA Whole Blood,N/A,N/A,N/A
+Haemoglobin,13.1,g/dL,12-15
+Packed Cell Volume(PCV),37.2,%,36-46
+Total RBC Count,4.20,million/cumm,3.8-4.8
+MCV,88.5,fL,83-101
+MCH,31.2,pg,27-32
+MCHC,35.2,g/dL,31.5-34.5
+RDW-CV,12.6,%,11.6-14.0
+Platelet Count,1.72,Lakhs/Cumm,1.5-4.1
+MPV,8.9,fL,7.0-10.0
+Total WBC Count,6980,cells/cumm,4000-10000
+Neutrophils,65.7,%,40-80
+Lymphocytes,27.6,%,20-40
+Eosinophils,2.4,%,01-06
+Monocytes,3.3,%,02-10
+Basophils,1.0,%,0.0-2.0
+
+### Interpretation
+### Key Findings
+- MCHC: 35.2 g/dL (Reference Range: 31.5-34.5 g/dL) - Elevated.
+
+### Summary
+The Complete Blood Picture (CBP) report indicates that the majority of the tested parameters are within their respective reference ranges. The MCHC (Mean Corpuscular Hemoglobin Concentration) value is slightly elevated. All other red blood cell indices, platelet count, and white blood cell count and differentials are within normal limits.
+
+### Clinical Notes
+Based solely on the provided table:
+- The MCHC is 35.2 g/dL, which is above the reference range of 31.5-34.5 g/dL.
+- All other parameters, including Haemoglobin (13.1 g/dL), Packed Cell Volume (37.2 %), Total RBC Count (4.20 million/cumm), MCV (88.5 fL), MCH (31.2 pg), RDW-CV (12.6 %), Platelet Count (1.72 Lakhs/Cumm), MPV (8.9 fL), Total WBC Count (6980 cells/cumm), Neutrophils (65.7 %), Lymphocytes (27.6 %), Eosinophils (2.4 %), Monocytes (3.3 %), and Basophils (1.0 %), are within their specified reference ranges.
+
+### Model Confidence (0-100%)
+100%

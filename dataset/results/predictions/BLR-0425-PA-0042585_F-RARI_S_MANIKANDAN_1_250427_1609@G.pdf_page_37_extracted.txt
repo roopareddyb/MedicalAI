@@ -1,0 +1,27 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+RDW (sheath flow DC detection),13.7,%,11.60-13.70
+Platelet Count (sheath flow DC detection/ Optical),299,thousand/cu.mm,150-400
+MPV (sheath flow DC detection),9.2,fL,7.80-11
+Glucose Random (Hexokinase method),99,mg/dL,Normal range 70 -140mg/dL
+Beta HCG (ECLIA),<0.2,mIU/ml,Non pregnant :0.1-5.7 mIU/ml
+CRP (Immunoturbidimetric method),14.5,mg/L,0-5
+
+### Interpretation
+### Key Findings
+- Elevated CRP: 14.5 mg/L (Reference Range: 0-5 mg/L).
+- RDW at upper limit of reference range: 13.7% (Reference Range: 11.60-13.70%).
+
+### Summary
+The report indicates an elevated C-Reactive Protein (CRP) level of 14.5 mg/L, which is above the reference range of 0-5 mg/L. Red Cell Distribution Width (RDW) is at the upper limit of its reference range at 13.7%. Platelet Count (299 thousand/cu.mm), Mean Platelet Volume (MPV) (9.2 fL), and Glucose Random (99 mg/dL) are all within their respective reference ranges. Beta HCG is <0.2 mIU/ml, consistent with a non-pregnant state.
+
+### Clinical Notes
+- RDW (sheath flow DC detection) result is 13.7%, which is at the upper limit of the reference range (11.60-13.70%).
+- Platelet Count (sheath flow DC detection/ Optical) result is 299 thousand/cu.mm, which is within the reference range (150-400 thousand/cu.mm).
+- MPV (sheath flow DC detection) result is 9.2 fL, which is within the reference range (7.80-11 fL).
+- Glucose Random (Hexokinase method) result is 99 mg/dL, which is within the normal range (70 -140 mg/dL).
+- Beta HCG (ECLIA) result is <0.2 mIU/ml, which is within the non-pregnant reference range (0.1-5.7 mIU/ml).
+- CRP (Immunoturbidimetric method) result is 14.5 mg/L, which is elevated above the reference range (0-5 mg/L).
+
+### Model Confidence (0-100%)
+100%

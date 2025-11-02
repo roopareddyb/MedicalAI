@@ -1,0 +1,27 @@
+### Key Findings
+-   **Total WBC Count:** Elevated at 13900 /cumm (Reference Range: 4000-10500).
+-   **Neutrophil:** Elevated at 88% (Reference Range: 40-70%).
+-   **Lymphocytes:** Decreased at 10% (Reference Range: 20-45%).
+-   **Monocytes:** Decreased at 01% (Reference Range: 2-8%).
+
+### Summary
+The complete blood count indicates an elevated total white blood cell count (leukocytosis) primarily driven by an increased neutrophil percentage (neutrophilia). Concurrently, there is a decreased percentage of lymphocytes and monocytes. All red blood cell parameters (R.B.C. count, Packed Cell Volume, MCV, MCH, MCHC, R.D.W.) and platelet count are within their respective reference ranges.
+
+### Clinical Notes
+-   R.B.C. count (gm%): 14.3 gm% (Reference Range: 13.5-18) - Normal
+-   R.B.C. count (mil/cmm): 4.71 mil/cmm (Reference Range: 4.5-6.5) - Normal
+-   Packed Cell Volume: 40.9 % (Reference Range: 40-54) - Normal
+-   Total WBC Count: 13900 /cumm (Reference Range: 4000-10500) - High
+-   Neutrophil: 88 % (Reference Range: 40-70) - High
+-   Lymphocytes: 10 % (Reference Range: 20-45) - Low
+-   Monocytes: 01 % (Reference Range: 2-8) - Low
+-   Eosinophil: 01 % (Reference Range: 1-5) - Normal
+-   Basophil: 00 % (Reference Range: 0-1) - Normal
+-   MCV: 86.84 fL (Reference Range: 82-97) - Normal
+-   MCH: 30.36 pg (Reference Range: 27-32) - Normal
+-   MCHC: 35.0 % (Reference Range: 32-36) - Normal
+-   R.D.W.: 12.6 % (Reference Range: 11-16) - Normal
+-   Platelet Count: 2.29 Lacs/cumm (Reference Range: 1.5-4.5) - Normal
+
+### Model Confidence (0-100%)
+100%

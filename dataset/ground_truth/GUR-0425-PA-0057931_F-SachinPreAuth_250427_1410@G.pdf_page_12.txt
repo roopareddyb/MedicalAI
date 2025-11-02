@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN 11.8 gm/dl 12.0-18.0
+TOTAL LEUCOCYTE COUNT 20500 /cumm 4000-11000
+Neutrophils 84 % 40-75
+Lymphocytes 12 % 20-45
+Monocytes 02 % 00-08
+Eosinophils 02 % 00-06
+Basophils 00 % 00-01
+TOTAL R.B.C. COUNT 4.60 million/cumm 3.5-6.5
+P.C.V./Haematocrit value 38.6 % 35-54
+MCV 78.6 fL 76-96
+MCH 25.7 pg 27.00-32.00
+MCHC 32.8 g/dl 30.50-34.50
+RDW 15.2 % 11.5-14.5
+PLATELET COUNT 1.99 lacs/mm3 1.50-4.50
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 11.8 gm/dl (slightly low; reference 12.0-18.0)
+- Total Leucocyte Count: 20,500 /cumm (elevated; reference 4,000-11,000)
+- Neutrophils: 84% (elevated; reference 40-75%)
+- Lymphocytes: 12% (low; reference 20-45%)
+- Monocytes, Eosinophils, Basophils: within normal ranges
+- Total RBC Count: 4.60 million/cumm (normal)
+- PCV/Haematocrit: 38.6% (normal)
+- MCV: 78.6 fL (normal, on the lower end)
+- MCH: 25.7 pg (slightly low; reference 27-32 pg)
+- MCHC: 32.8 g/dl (normal)
+- RDW: 15.2% (elevated; reference 11.5-14.5%)
+- Platelet Count: 1.99 lacs/mm3 (normal)
+
+### Summary
+The patient demonstrates mild anemia indicated by low hemoglobin and slightly decreased MCH, suggestive of a hypochromic, possibly microcytic anemia (MCV borderline low). The elevated RDW indicates variation in red cell size, supporting a mixed or developing anemia. There is marked leukocytosis driven by neutrophilia and lymphopenia, suggestive of an acute bacterial infection or inflammatory process. Platelets and other hematological indices are within normal limits.
+
+### Clinical Notes
+- Low hemoglobin and related red cell indices imply anemia, potentially iron deficiency or anemia of inflammation. Further iron studies may help clarify.
+- Elevated total leukocyte count with neutrophilia strongly suggests an ongoing bacterial infection or inflammatory condition.
+- Lymphopenia may be reactive or related to stress response.
+- No evidence of thrombocytopenia or other hematologic abnormalities.
+- Correlation with clinical findings and possible further investigations (e.g., infection markers, iron studies) are recommended.
+
+### Model Confidence (0-100%)
+95%

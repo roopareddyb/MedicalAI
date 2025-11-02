@@ -1,0 +1,15 @@
+### Key Findings
+- **Elevated Total WBC Count**: 14.63 10^3/µL (Reference Range: 4-11)
+- **Neutrophilia**: Neutrophil percentage is 83.6% (Reference Range: 40-75) and Absolute Neutrophil Count (ANC) is 12.23 10^3/µL (Reference Range: 2-7).
+- **Lymphopenia**: Lymphocyte percentage is 11.4% (Reference Range: 20-40).
+- **Eosinopenia**: Eosinophil percentage is 0.0% (Reference Range: 1-6) and Absolute Eosinophil Count (AEC) is 0.00 10^3/µL (Reference Range: 0.02-0.5).
+- **Slightly Low Mean Corpuscular Volume (MCV)**: 82.8 fL (Reference Range: 83-101).
+
+### Summary
+The complete blood count indicates an elevated total white blood cell count, primarily driven by an increase in neutrophils (neutrophilia). Concurrently, there is a decrease in both lymphocyte and eosinophil percentages, as well as their absolute counts (lymphopenia and eosinopenia). Red blood cell parameters are largely within their respective reference ranges, with the exception of a slightly low Mean Corpuscular Volume (MCV). Haemoglobin, Haematocrit, Total RBC Count, MCH, MCHC, RDW-CV, and Platelet Count are within their specified reference ranges.
+
+### Clinical Notes
+This report provides an interpretation of the provided laboratory values against their respective reference ranges. It does not constitute medical advice, diagnosis, or treatment recommendations. The identified deviations from reference ranges should be evaluated by a qualified healthcare professional in conjunction with the patient's clinical history, physical examination, and other relevant diagnostic information.
+
+### Model Confidence (0-100%)
+100%

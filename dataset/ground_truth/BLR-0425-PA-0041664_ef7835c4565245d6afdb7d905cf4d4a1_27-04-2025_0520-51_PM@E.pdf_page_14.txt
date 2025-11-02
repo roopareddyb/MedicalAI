@@ -1,0 +1,40 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin 11.7 g/dL 12.0 - 15.0
+WBC Count 7220 /µL 4000 - 11000
+Platelet count 218000 /µL 150000 - 450000
+RBC Count 4.06 Millions/cumm 3.8 - 4.8
+Haematocrit(PCV) 36.2 % 36.0 - 46.0
+MCV 89.2 fl 80 - 97
+MCH 28.8 pg 26.5 - 33.5
+MCHC 32.3 g/dL 31.5 - 35.0
+RDW-CV 11.3 % 11.6 - 15
+MPV 8.9 fL 6.5 - 12.0
+P-LCR 16.5 % 15 - 35
+Neutrophils 74.5 % 40 - 70
+Lymphocytes 16.2 % 20 - 40
+Eosinophils 3.7 % 1 - 6
+Monocytes 5.3 % 2 - 10
+Basophils 0.3 % 0 - 1
+IG (Immature Granulocytes) 0.3 % 0 - 0.5
+NRBC 0.0 /WBCs 0 - 0
+
+### Interpretation
+### Key Findings
+- Haemoglobin is slightly low at 11.7 g/dL (reference: 12.0 - 15.0 g/dL).
+- Neutrophils are elevated at 74.5% (reference: 40 - 70%).
+- Lymphocytes are low at 16.2% (reference: 20 - 40%).
+- RDW-CV is slightly low at 11.3% (reference: 11.6 - 15%).
+- All other parameters including WBC, platelet count, RBC, hematocrit, and other indices are within their respective reference ranges.
+
+### Summary
+The patient exhibits mild anemia with a hemoglobin level just below the normal range. The differential count shows neutrophilia and lymphopenia, which may indicate an ongoing inflammatory or infectious process. Other red blood cell indices and platelet counts are normal, suggesting no major abnormalities in red cell size, concentration, or platelet production. The low RDW-CV is likely of limited clinical significance in this context.
+
+### Clinical Notes
+- Mild anemia should be clinically correlated; potential causes include nutritional deficiency, chronic disease, or mild blood loss.
+- Elevated neutrophils with decreased lymphocytes are often seen in acute bacterial infections or stress responses; consideration of clinical signs and symptoms is important.
+- Normal platelet count and other red cell indices suggest stable hematopoiesis.
+- No immature granulocytes or nucleated red blood cells detected, indicating no marked bone marrow activation or severe stress.
+
+### Model Confidence (0-100%)
+95%

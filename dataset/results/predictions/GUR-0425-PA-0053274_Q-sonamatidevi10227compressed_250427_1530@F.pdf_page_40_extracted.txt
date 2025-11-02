@@ -1,0 +1,37 @@
+### Extracted Table
+Test Name, Result, Unit, Reference Range
+Haemoglobin, 11.8, g/dL, M:13-18 F: 11.5-16.5
+Total Leucocyte Count, 11900, /uL, 4000-11000
+Polymorphs, 87, %, 45-75
+Lymphocytes, 11, %, 25-45
+Monocytes, 01, %, 0-7
+Eosinophils, 01, %, 0-4
+Basophils, 00, %, 0-1
+RBC, 4.13, millions/uL, 4.5-6.5
+PCV, 33.8, %, 37-47
+MCV, 87.9, fL, 82-92
+MCH, 29.4, pg, 28-32
+MCHC, 33.0, g/dL, 32-37
+Platelet Count, 3.15, lac/uL, 1.5-4.5
+R.D.W, 41.4, fL, 39-46
+B.Sugar (R), 113.5, mg/dL, 80-140
+C. Reactive Protein, 12.1, mg/L, Less than 6.0
+
+### Interpretation
+### Key Findings
+-   **Haemoglobin:** 11.8 g/dL (Reference Range: M:13-18 F: 11.5-16.5). This value is within the female reference range but below the male reference range.
+-   **Total Leucocyte Count:** 11900 /uL (High, Reference Range: 4000-11000)
+-   **Polymorphs:** 87 % (High, Reference Range: 45-75)
+-   **Lymphocytes:** 11 % (Low, Reference Range: 25-45)
+-   **RBC:** 4.13 millions/uL (Low, Reference Range: 4.5-6.5)
+-   **PCV:** 33.8 % (Low, Reference Range: 37-47)
+-   **C. Reactive Protein:** 12.1 mg/L (High, Reference Range: Less than 6.0)
+
+### Summary
+The report indicates several abnormalities. There is evidence of an inflammatory or infectious process, characterized by an elevated Total Leucocyte Count, increased Polymorphs, decreased Lymphocytes, and a significantly elevated C. Reactive Protein. Additionally, red blood cell parameters show a decrease in RBC count and PCV, suggesting anemia. Haemoglobin levels are within the female reference range but below the male reference range. Other parameters like Monocytes, Eosinophils, Basophils, MCV, MCH, MCHC, Platelet Count, R.D.W, and B.Sugar (R) are within their respective reference ranges.
+
+### Clinical Notes
+The elevated Total Leucocyte Count, particularly with increased Polymorphs and decreased Lymphocytes, along with a high C. Reactive Protein, is consistent with an acute inflammatory or infectious process. The low RBC and PCV suggest the presence of anemia. Given that MCV, MCH, and MCHC are within normal limits, the anemia, if present, appears to be normocytic and normochromic. The Haemoglobin level is borderline, being within the female range but low for males. Further clinical correlation and patient history are necessary for a definitive diagnosis and management.
+
+### Model Confidence (0-100%)
+100%

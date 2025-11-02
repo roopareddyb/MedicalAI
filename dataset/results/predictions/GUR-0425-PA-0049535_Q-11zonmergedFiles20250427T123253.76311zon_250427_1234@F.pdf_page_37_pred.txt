@@ -1,0 +1,11 @@
+### Key Findings
+- C.R.P (QUANTITATIVE) C.R.P is elevated at 18.9 uL (Reference Range: 0-6 uL).
+
+### Summary
+- The C.R.P (QUANTITATIVE) C.R.P level is 18.9 uL, which is above the normal reference range of 0-6 uL.
+
+### Clinical Notes
+- Based on the provided lab results, the C.R.P level is elevated.
+
+### Model Confidence (0-100%)
+100%

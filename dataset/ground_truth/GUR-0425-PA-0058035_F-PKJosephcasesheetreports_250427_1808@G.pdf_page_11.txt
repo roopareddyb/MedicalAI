@@ -1,0 +1,48 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Blood Group & Rh O Positive N/A N/A
+Haemoglobin(Hb) 12.4 g% 13-17
+Haematocrit (PCV) 37.0 % 40-50
+Total WBC Count (WBC) 8900 cells/cumm 4000-10000
+Platelet Count 198 thous/cumm 150-410
+ESR 70 mm/hr 0-15
+Total RBC Count 4.18 mill/cumm 4.5-5.5
+MCV 88.6 fl 83-101
+MCH 29.6 pg 27-32
+MCHC 33.5 % 31.5-34.5
+Polymorphs 73 % 40-80
+Lymphocytes 20 % 20-40
+Eosinophils 01 % 1-6
+Monocytes 06 % 02-10
+Basophilis 00 % 0-2
+aPTT (Test) 31.8 sec 26.8-30.7
+aPTT (Control) 28.0 sec N/A
+Prothrombin Time (PT) Test 14.4 Seconds 11-15
+Prothrombin Time (PT) Control 14.0 Seconds 11-15
+
+### Interpretation
+### Key Findings
+- Blood Group & Rh: O Positive
+- Haemoglobin: 12.4 g% (low; reference: 13-17 g%)
+- Haematocrit: 37.0% (low; reference: 40-50%)
+- Total WBC Count: 8900 cells/cumm (normal; reference: 4000-10000)
+- Platelet Count: 198 thous/cumm (normal; reference: 150-410)
+- ESR: 70 mm/hr (markedly elevated; reference: 0-15)
+- Total RBC Count: 4.18 mill/cumm (slightly low; reference: 4.5-5.5)
+- MCV, MCH, MCHC: all within normal limits
+- Differential Count: Polymorphs 73%, Lymphocytes 20% (lower limit), Eosinophils 1%, Monocytes 6%, Basophils 0%
+- aPTT: 31.8 seconds (slightly prolonged; reference: 26.8-30.7)
+- PT: 14.4 seconds (normal; reference: 11-15)
+
+### Summary
+The patient is blood group O positive with mild anemia (low hemoglobin, hematocrit, and RBC count) and a significantly elevated ESR, indicating ongoing inflammation or infection. White blood cell and platelet counts are normal, and red cell indices (MCV, MCH, MCHC) suggest normocytic, normochromic anemia. Differential counts are within reference ranges except lymphocytes at the lower limit and a predominance of polymorphs. Coagulation parameters show a slightly prolonged aPTT with normal prothrombin time.
+
+### Clinical Notes
+- The mild anemia with normocytic indices could be due to chronic disease or inflammation.
+- Elevated ESR strongly suggests an active inflammatory or infectious process.
+- The slight aPTT prolongation should be correlated clinically but is only minimally outside normal limits; PT is normal.
+- No thrombocytopenia or leukocytosis observed.
+- Further clinical correlation and possibly additional investigations are advised to identify the cause of raised ESR and anemia.
+
+### Model Confidence (0-100%)
+95%

@@ -1,0 +1,19 @@
+### Key Findings
+*   **Haemoglobin (HB)**: 9.9 gm/dL (Low, Reference: 11.5-15.5 gm/dL)
+*   **Neutrophils**: 68 % (High, Reference: 45-65 %)
+*   **Lymphocytes**: 24 % (Low, Reference: 35-45 %)
+*   **PCV (Haematocrit)**: 29.9 % (Low, Reference: 40-50 %)
+*   **MCV**: 72.4 fL (Low, Reference: 77-95 fL)
+*   **MCH**: 23.2 pg (Low, Reference: 27-31 pg)
+*   **MCHC**: 32.1 % (Low, Reference: 33-37 %)
+*   **RDW**: 15.7 % (High, Reference: 11.5-14.5 %)
+
+### Summary
+The patient's lab results indicate anemia, characterized by low Haemoglobin, PCV, MCV, MCH, and MCHC, along with an elevated RDW. Additionally, there is an altered white blood cell differential with elevated Neutrophils and decreased Lymphocytes.
+
+### Clinical Notes
+The complete blood count reveals a pattern consistent with microcytic hypochromic anemia, indicated by reduced Haemoglobin (9.9 gm/dL), PCV (29.9%), MCV (72.4 fL), MCH (23.2 pg), and MCHC (32.1%). The elevated Red Cell Distribution Width (RDW) of 15.7% suggests increased variability in red blood cell size.
+In the white blood cell differential, Neutrophils are elevated at 68%, while Lymphocytes are decreased at 24%. The Total Leucocyte Count (5310 10^3/µL) and other differential counts (Monocytes, Eosinophils, Basophils) are within their respective reference ranges. RBC Count (4.1 million/µL) and Platelet Count (2.15 10^3/µL) are also within normal limits.
+
+### Model Confidence (0-100%)
+100%

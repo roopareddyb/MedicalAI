@@ -1,0 +1,33 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN 10.000 g% N/A
+TOTAL LEUCOCYTE COUNT 16700 cells/cmm 4000 - 11000
+NEUTROPHILS 79.3 % 50 - 70
+LYMPHOCYTES 11.6 % 20 - 40%
+EOSINOPHILS 1.3 % 01 - 06%
+MONOCYTES 7.3 % 2 - 10
+BASOPHILS 0.5 % 0 - 1
+PLATELET COUNT 4.78 Lakhs/Cumm 1.50 - 4
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 10.0 g% (Low; normal range not specified but typically ~12-15 g/dL for adults)
+- Total Leucocyte Count: 16,700 cells/cmm (High; normal 4,000 - 11,000)
+- Neutrophils: 79.3% (High; normal 50 - 70%)
+- Lymphocytes: 11.6% (Low; normal 20 - 40%)
+- Eosinophils: 1.3% (Within normal range 1 - 6%)
+- Monocytes: 7.3% (Within normal range 2 - 10%)
+- Basophils: 0.5% (Within normal range 0 - 1%)
+- Platelet Count: 478,000 /cmm (High; normal 150,000 - 400,000)
+
+### Summary
+The report reveals anemia (low hemoglobin), leukocytosis with neutrophilia, lymphopenia, and thrombocytosis. Elevated white blood cell count with high neutrophils suggests an acute bacterial infection or inflammatory response. The low lymphocytes could indicate a relative lymphopenia due to the infection or other causes. Platelet count is elevated, which can be reactive to inflammation or infection.
+
+### Clinical Notes
+- The findings indicate a possible acute bacterial infection or inflammatory state.
+- Anemia is present and should be correlated clinically and possibly investigated further.
+- Further clinical correlation, history, physical examination, and possibly additional tests (e.g., infection markers, cultures) are recommended to identify the underlying cause.
+- Monitoring complete blood count trends and treating the underlying cause are advised.
+
+### Model Confidence (0-100%)
+95%

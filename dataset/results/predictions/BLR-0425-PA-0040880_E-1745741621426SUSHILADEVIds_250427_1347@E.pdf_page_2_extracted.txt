@@ -1,0 +1,51 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Platelet Count,197000,/uL,150000-400000
+Neutrophils,68.8,%,40.0-75.0
+Lymphocytes,16.0,%,20.0-45.0
+Eosinophils,8.1,%,0.0-7.0
+Basophils,0.4,%,0.0-1.0
+Monocytes,6.7,%,2.0-10.0
+RDW,13.9,%,11.6-14.0
+IPF,20.10,%,0.70-9.10
+Neutrophil Absolute,6288.3,/uL,2000.0-7000.0
+Lymphocyte Absolute,1462.4,/uL,1000.0-3000.0
+Monocyte Absolute,612.4,/uL,200.0-1000.0
+Eosinophil Absolute,740.3,/uL,40.0-440.0
+Basophil Absolute,36.6,/uL,20.0-100.0
+SERUM BICARBONATE(Enzymatic),23.0,mmol/L,22.0-29.0
+SERUM SODIUM (Indirect ISE),143.0,mmol/L,135.0-145.0
+SERUM POTASSIUM (Indirect ISE),3.48,mmol/L,3.50-5.10
+SERUM CHLORIDE (ISE/IMT),103.2,mmol/L,98.0-107.0
+Blood Urea Nitrogen (Urease/GLDH),9.10,mg/dL,6.00-20.00
+SERUM CREATININE (mod.Jaffe),0.72,mg/dL,0.60-1.40
+GLUCOSE- Random (Hexokinase),131,mg/dL,70-140
+eGFR,92.0,mL/min/1.73sq.m,>60.0
+INR,0.94,N/A,N/A
+Prothrombin Time Test,12.2,sec,11.4-15.2
+PT CONTROL,13,sec,N/A
+ISI Value,1.08,sec,N/A
+TEST RESULT,Negative,N/A,N/A
+TEST RESULT,Negative,N/A,N/A
+
+### Interpretation
+### Key Findings
+-   **Lymphocytes:** 16.0% (Low; Reference Range: 20.0-45.0%)
+-   **Eosinophils:** 8.1% (High; Reference Range: 0.0-7.0%)
+-   **IPF:** 20.10% (High; Reference Range: 0.70-9.10%)
+-   **Eosinophil Absolute:** 740.3 /uL (High; Reference Range: 40.0-440.0 /uL)
+-   **SERUM POTASSIUM (Indirect ISE):** 3.48 mmol/L (Low; Reference Range: 3.50-5.10 mmol/L)
+
+### Summary
+The report indicates several values outside their respective reference ranges. Lymphocytes (16.0%) are below the normal range (20.0-45.0%). Eosinophils (8.1%) and Absolute Eosinophil count (740.3 /uL) are elevated above their respective ranges (0.0-7.0% and 40.0-440.0 /uL). IPF is also elevated at 20.10% (reference range: 0.70-9.10%). Serum Potassium is slightly low at 3.48 mmol/L (reference range: 3.50-5.10 mmol/L). All other tested parameters, including Platelet Count, Neutrophils, Basophils, Monocytes, RDW, absolute counts for Neutrophils, Lymphocytes, Monocytes, and Basophils, SERUM BICARBONATE, SERUM SODIUM, SERUM CHLORIDE, Blood Urea Nitrogen, SERUM CREATININE, GLUCOSE- Random, eGFR, and Prothrombin Time Test, are within their normal reference ranges. INR, PT CONTROL, and ISI Value are provided without reference ranges, and two "TEST RESULT"s are negative.
+
+### Clinical Notes
+Based solely on the provided extracted table, the following laboratory results are outside their specified reference ranges:
+-   Lymphocytes (percentage) are decreased.
+-   Eosinophils (percentage and absolute count) are increased.
+-   IPF is increased.
+-   Serum Potassium is decreased.
+No further clinical interpretation or contextual notes can be generated from the extracted table.
+
+### Model Confidence (0-100%)
+100%

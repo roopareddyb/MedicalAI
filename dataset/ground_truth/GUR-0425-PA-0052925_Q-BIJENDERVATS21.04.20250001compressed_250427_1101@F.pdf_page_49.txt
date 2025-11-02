@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN (Hb) 13.1 gm/dl 13.5 - 18.0
+TOTAL LEUCOCYTE COUNT (TLC) 16,700 /cumm 4000 - 11000
+NEUTROPHIL 84 % 40 - 75
+LYMPHOCYTE 14 % 20 - 45
+EOSINOPHIL 01 % 01 - 06
+MONOCYTE 01 % 02 - 10
+BASOPHIL 00 % 0 - 0
+PLATELET COUNT 2.69 Lakh/cmm 1.50 - 4.50
+R B C COUNT 4.53 Millions/cmm 4.5 - 5.5
+P.C.V / HAEMATOCRIT 39.3 % 40 - 54
+M C V 86.75 fl. 80 - 100
+M C H 28.92 Picogram 27.0 - 31.0
+M C H C 33.3 gm/dl 30 - 35
+
+### Interpretation
+### Key Findings
+- Hemoglobin (Hb): 13.1 gm/dl (Slightly below normal range 13.5 - 18.0)
+- Total Leucocyte Count (TLC): 16,700 /cumm (Elevated; normal 4000 - 11000)
+- Neutrophils: 84% (Elevated; normal 40 - 75%)
+- Lymphocytes: 14% (Low; normal 20 - 45%)
+- Eosinophils: 1% (Normal; 1 - 6%)
+- Monocytes: 1% (Low; normal 2 - 10%)
+- Basophils: 0% (Normal; 0%)
+- Platelet Count: 2.69 Lakh/cmm (Normal; 1.50 - 4.50)
+- RBC Count: 4.53 million/cmm (Normal; 4.5 - 5.5)
+- Packed Cell Volume (PCV)/Hematocrit: 39.3% (Slightly below normal range 40 - 54)
+- Mean Corpuscular Volume (MCV): 86.75 fl (Normal; 80 - 100)
+- Mean Corpuscular Hemoglobin (MCH): 28.92 pg (Normal; 27.0 - 31.0)
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 33.3 gm/dl (Normal; 30 - 35)
+
+### Summary
+The lab results indicate mild anemia with a hemoglobin slightly below the reference range and a borderline low hematocrit. There is a marked leukocytosis primarily due to neutrophilia, with reduced lymphocytes and monocytes. Other red blood cell indices are within normal limits, and platelet count is normal. The findings suggest an ongoing acute inflammatory or infectious process.
+
+### Clinical Notes
+- The elevated total leukocyte count and neutrophilia often suggest bacterial infection or acute inflammation.
+- Lymphopenia and monocytopenia may be reactive or due to redistribution in the context of infection.
+- Slightly reduced hemoglobin and hematocrit might reflect anemia of inflammation or early anemia; further evaluation may be needed.
+- Normal RBC indices indicate no significant microcytic or macrocytic anemia at present.
+- Correlation with clinical findings and further investigations (e.g., infection markers, clinical history) are recommended to determine the cause of leukocytosis and anemia.
+
+### Model Confidence (0-100%)
+95%

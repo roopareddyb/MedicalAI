@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Blood Urea,22.8,mg/dL,17-43
+Serum Creatnine,0.60,mg/dL,F 0.5-1.1
+Sodium(Na+),135,mmol/L,135-155
+Potassium(K+),4.50,mmol/L,3.5-5.5
+Chloride (CL-),98.9,mmol/L,96-110
+Total Bilirubin,0.397,mg/dL,0.3-1.2
+Direct Bilirubin,0.163,mg/dL,0-0.25
+Indirect Bilirubin,0.23,mg/dL,0-0.6
+SGPT(ALT),61.1,u/L,0-50
+SGOT(AST),55.2,u/L,0-50
+Alkaline Phosphate(ALP),107,u/L,20-140
+Total Protein,8.02,g/dL,6.6-8.3
+Albumin,4.17,g/dL,3.5-5.2
+Globulin,3.85,g/dL,2-3.5
+A/G Ratio,1.08,N/A,N/A
+Hb(Haemoglobin),11.8,g/dL,F 12-15
+TLC,8.34,x10(3)/uL,4.5-11
+NEUTROPHILS,66.0,%,40-80
+LYMPHOCYTES,22.2,%,20-40
+EOSINOPHIL,0.5,%,1-6
+MONOCYTES,11.2,%,2-10
+BASOPHILS,0.1,%,0-1
+HCT,34.5,%,40-50
+
+### Interpretation
+### Key Findings
+-   **SGPT(ALT)**: 61.1 u/L (High, Reference Range: 0-50 u/L)
+-   **SGOT(AST)**: 55.2 u/L (High, Reference Range: 0-50 u/L)
+-   **Globulin**: 3.85 g/dL (High, Reference Range: 2-3.5 g/dL)
+-   **Hb(Haemoglobin)**: 11.8 g/dL (Low, Reference Range for F: 12-15 g/dL)
+-   **EOSINOPHIL**: 0.5 % (Low, Reference Range: 1-6 %)
+-   **MONOCYTES**: 11.2 % (High, Reference Range: 2-10 %)
+-   **HCT**: 34.5 % (Low, Reference Range: 40-50 %)
+
+### Summary
+The blood test results indicate several values outside the established reference ranges. Liver enzymes SGPT(ALT) and SGOT(AST) are elevated. Globulin levels are also elevated. Haemoglobin (Hb) and Hematocrit (HCT) are below the lower limit of their respective reference ranges (for female). Eosinophil count is low, while Monocyte count is elevated. All other tested parameters, including Blood Urea, Serum Creatnine, Sodium, Potassium, Chloride, Bilirubin (Total, Direct, Indirect), Alkaline Phosphate (ALP), Total Protein, Albumin, TLC, Neutrophils, Lymphocytes, and Basophils, fall within their respective reference ranges.
+
+### Clinical Notes
+No clinical notes can be generated from the provided table alone, as per the instruction to not invent values.
+
+### Model Confidence (0-100%)
+100%

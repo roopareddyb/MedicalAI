@@ -1,0 +1,13 @@
+### Key Findings
+-   **PLATELET COUNT**: 1.41 lac/cumm (Low; Reference Range: 1.5-4.1 lac/cumm)
+-   **RDW-CV**: 14.9 % (High; Reference Range: 11.6-14 %)
+-   **LYMPHOCYTES**: 11.2 % (Low; Reference Range: 20-40 %)
+
+### Summary
+The laboratory report indicates a low platelet count, an elevated RDW-CV, and a decreased lymphocyte percentage. All other measured parameters, including HAEMOGLOBIN, WBC COUNT, RBC COUNT, HCT, MCV, MCH, MCHC, CHCM, CH, HDW, MPV, NEUTROPHILLS, EOSINOPHILLS, MONOCYTES, BASOPHILLS, and LUC, are within their respective reference ranges.
+
+### Clinical Notes
+The patient's blood work reveals a platelet count below the lower limit of the reference range. The red cell distribution width (RDW-CV) is elevated, suggesting increased variability in red blood cell size. Furthermore, the percentage of lymphocytes is reduced, falling below the expected normal range. All other complete blood count components are within normal limits.
+
+### Model Confidence (0-100%)
+100%

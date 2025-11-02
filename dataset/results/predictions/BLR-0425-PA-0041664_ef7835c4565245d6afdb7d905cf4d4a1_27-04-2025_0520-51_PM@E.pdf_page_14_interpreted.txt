@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+Haemoglobin,*11.7,g/dL,12.0-15.0
+WBC Count,7,220,/uL,4000-11000
+Platelet count,2,18,000,/uL,1,50,000-4,50,000
+RBC Count,4.06,Millions/cumm,3.8-4.8
+Haematocrit(PCV),36.2,%,36.0-46.0
+MCV,89.2,fL,80-97
+MCH,28.8,pg,26.5-33.5
+MCHC,32.3,g/dL,31.5-35.0
+RDW-CV,*11.3,%,11.6-15
+MPV,8.9,fL,6.5-12.0
+P-LCR,16.5,%,15-35
+Neutrophils,*74.5,%,40-70
+Lymphocytes,*16.2,%,20-40
+Eosinophils,3.7,%,1-6
+Monocytes,5.3,%,2-10
+Basophils,0.3,%,0-1
+IG (Immature Granulocytes),0.3,%,0-0.5
+NRBC,0.0,/WBCs,0-0
+RBC Morphology,Normocytic & Normochromic.,N/A,N/A
+WBC Morphology,Neutrophilia.,N/A,N/A
+Platelets,Adequate,N/A,N/A
+Malarial Parasite,Malarial parasites are not seen,N/A,N/A
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 11.7 g/dL (Reference Range: 12.0-15.0 g/dL) - *Low*
+- RDW-CV: 11.3 % (Reference Range: 11.6-15 %) - *Low*
+- Neutrophils: 74.5 % (Reference Range: 40-70 %) - *High*
+- Lymphocytes: 16.2 % (Reference Range: 20-40 %) - *Low*
+- WBC Morphology: Neutrophilia.
+
+### Summary
+The report shows a low Haemoglobin level and a low RDW-CV. There is an elevated neutrophil count (Neutrophilia) and a decreased lymphocyte count.
+
+### Clinical Notes
+- RBC Morphology: Normocytic & Normochromic.
+- WBC Morphology: Neutrophilia.
+- Platelets: Adequate.
+- Malarial Parasite: Malarial parasites are not seen.
+
+### Model Confidence (0-100%)
+100%

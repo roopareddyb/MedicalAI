@@ -1,0 +1,50 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+CAST PATHOLOGIAL 0.0 /HPF 0 - 0.3
+NON SQUAMOUS EPITHELIAL CELLS 0.0 /HPF 0 - 0.5
+SQUAMOUS EPITHELIAL CELLS 0.0 /HPF 0 - 1.1
+YEAST 0.0 /HPF 0 - 0.7
+BACTERIA 10.7 /HPF 0 - 29.5
+BACTERIA COCCI 10.7 /HPF 0 - 29.5
+BACTERIA RODS 0.0 /HPF 0 - 29.5
+MUCUS 0.5 /HPF 0 - 60
+COLOUR Yellow N/A
+APPEARANCE Clear N/A
+HAEMOGLOBIN 11.9 g/dl 11.5 - 15.5
+HAEMATOCRIT 34 % 46 - 51
+TOTAL WBC COUNT 5830 cells/cumm 4000 - 10000
+RBC COUNT 3.94 million/cumm 3.8 - 4.8
+MCV 87 fl 83 - 101
+MCH 30 pg 27 - 32
+MCHC 35 g/dl 31.5 - 34.5
+
+### Interpretation
+### Key Findings
+- Cast Pathological: 0.0 /HPF (within normal range 0 - 0.3)
+- Non Squamous Epithelial Cells: 0.0 /HPF (normal 0 - 0.5)
+- Squamous Epithelial Cells: 0.0 /HPF (normal 0 - 1.1)
+- Yeast: 0.0 /HPF (normal 0 - 0.7)
+- Bacteria (Cocci): 10.7 /HPF (normal 0 - 29.5)
+- Bacteria (Rods): 0.0 /HPF (normal 0 - 29.5)
+- Mucus: 0.5 /HPF (normal 0 - 60)
+- Colour: Yellow (normal)
+- Appearance: Clear (normal)
+- Haemoglobin: 11.9 g/dl (slightly low; reference 11.5 - 15.5)
+- Haematocrit: 34% (low; reference 46 - 51%)
+- Total WBC Count: 5830 cells/cumm (normal 4000 - 10000)
+- RBC Count: 3.94 million/cumm (normal 3.8 - 4.8)
+- MCV: 87 fl (normal 83 - 101)
+- MCH: 30 pg (normal 27 - 32)
+- MCHC: 35 g/dl (slightly elevated; reference 31.5 - 34.5)
+
+### Summary
+The urine microscopic examination shows no pathological casts, epithelial cells, or yeast detected. Bacterial cocci are present but within the normal range, with no bacterial rods found. The urine is yellow and clear with minimal mucus. Hematological parameters reveal a normal hemoglobin level, but hematocrit is significantly low. White blood cell and red blood cell counts are within the expected range, and red cell indices (MCV, MCH) are normal. MCHC is slightly elevated, which may warrant clinical correlation.
+
+### Clinical Notes
+- The urine analysis does not suggest infection or inflammation.
+- Low hematocrit with near-normal hemoglobin might suggest mild anemia; further evaluation including reticulocyte count, iron studies, and clinical correlation is recommended.
+- Slightly elevated MCHC may be due to concentration effect or lab variation; consider rechecking or additional tests if symptomatic anemia is present.
+- Overall, no acute urinary tract pathology is evident.
+
+### Model Confidence (0-100%)
+95%

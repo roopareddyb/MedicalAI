@@ -1,0 +1,12 @@
+### Key Findings
+- The Erythrocytes Sedimentation Rate (ESR) is 03 mm/1hr.
+- This value is within the reference range of 0-10 mm/1hr.
+
+### Summary
+- The Erythrocytes Sedimentation Rate (ESR) result is 03 mm/1hr, which falls within the normal reference range of 0-10 mm/1hr.
+
+### Clinical Notes
+- Based on the provided lab value, the Erythrocytes Sedimentation Rate (ESR) is within the expected reference range.
+
+### Model Confidence (0-100%)
+100%

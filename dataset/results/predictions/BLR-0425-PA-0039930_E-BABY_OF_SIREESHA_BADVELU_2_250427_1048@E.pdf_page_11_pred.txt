@@ -1,0 +1,15 @@
+### Key Findings
+- RDW: Elevated (16.0 %)
+- Neutrophils: Elevated (58 %)
+- Lymphocytes: Decreased (26 %)
+- Eosinophils: Elevated (07 %)
+- Monocytes: Elevated (09 %)
+
+### Summary
+The report indicates several abnormalities in the complete blood count differentials. The Red Cell Distribution Width (RDW) is elevated. Among the white blood cell differentials, neutrophils, eosinophils, and monocytes are elevated, while lymphocytes are decreased. Platelet count and other red cell indices (Mean Cell Volume, Mean Cell Haemoglobin, Mean Cell Haemoglobin Concentration) are within their respective reference ranges. Basophils are also within the reference range.
+
+### Clinical Notes
+The elevated RDW suggests increased variability in red blood cell size. The white blood cell differential shows a pattern of neutrophilia, eosinophilia, and monocytosis, alongside lymphopenia. These findings collectively indicate deviations from normal ranges in several white blood cell types and red blood cell size distribution.
+
+### Model Confidence (0-100%)
+100%

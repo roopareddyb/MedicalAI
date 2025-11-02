@@ -1,0 +1,45 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Hemoglobin (Photometry) 11.3 g/dL 11.5 - 14.5
+Basophils 00 % 0-1
+Platelet Count (IMPEDENCE) 266 10³/mm³ 150-450
+RBC COUNT METHOD: (AUTOMATED :IMPEDANCE) 4.2 Million/ul 3.8-4.8
+Packed cell volume (METHOD:CALCULATED) 34.5 % 30 - 46
+WBC count (METHOD:AUTOMATED :IMPEDANCE) I 14.2 10³/mm³ 4-11
+Neutrophils 93 % 40 - 75
+Lymphocytes 05 % 20-40
+Monocytes 01 % 0 - 10
+Eosinophils 01 % 1 - 6
+Hemoglobin (Photometry) 9.7 g/dL 11.5 - 14.5
+Packed cell volume (METHOD:CALCULATED) 28.6 % 30 - 46
+HBS ANTIGEN N/A N/A N/A
+HCV - HEPATITIS C VIRUS N/A N/A N/A
+HIV I AND II RAPID N/A N/A N/A
+
+### Interpretation
+### Key Findings
+- Hemoglobin: 11.3 g/dL (slightly below normal), 9.7 g/dL (significantly below normal)
+- Basophils: 0% (normal range 0-1%)
+- Platelet Count: 266 x10³/mm³ (within normal range)
+- RBC Count: 4.2 million/µL (within normal range)
+- Packed Cell Volume (hematocrit): 34.5% (normal), 28.6% (below normal)
+- WBC Count: 14.2 x10³/mm³ (elevated, normal 4-11)
+- Neutrophils: 93% (markedly elevated, normal 40-75%)
+- Lymphocytes: 5% (low, normal 20-40%)
+- Monocytes: 1% (normal)
+- Eosinophils: 1% (low-normal, normal 1-6%)
+- HBs Antigen, HCV, HIV tests: Not available/not done
+
+### Summary
+The patient’s lab results reveal anemia, as indicated by decreased hemoglobin levels (9.7-11.3 g/dL) and low packed cell volume (28.6% on one instance). There is leukocytosis with a significant neutrophilia (93%), accompanied by lymphopenia (5%). Platelet count and RBC count fall within normal limits. The elevated white blood cell count and neutrophilia are suggestive of an acute inflammatory or infectious process. Viral serology for hepatitis B, C, and HIV was not performed or results were not available.
+
+### Clinical Notes
+- The anemia could be mild to moderate; clinical correlation with symptoms and further workup (iron studies, reticulocyte count) may be required.
+- The high neutrophil percentage and overall leukocytosis likely indicate bacterial infection or inflammation.
+- The lymphopenia may reflect immune response shift or possible viral infection.
+- Normal platelet and RBC count provide some reassurance against thrombocytopenia or severe marrow failure.
+- The absence of viral serology results limits evaluation for underlying chronic infections.
+- Follow-up testing and clinical correlation recommended to identify cause of infection/inflammation and guide anemia management.
+
+### Model Confidence (0-100%)
+95%

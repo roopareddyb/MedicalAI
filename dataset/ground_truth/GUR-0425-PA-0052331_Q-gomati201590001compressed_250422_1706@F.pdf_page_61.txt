@@ -1,0 +1,44 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HB (HAEMOGLOBIN) 9.7 L g/dl 12 - 16
+TOTAL LEUCOCYTE COUNT (TLC) 3700 L cuum 4000 - 11000
+NEUTROPHILS 51 % 40 - 80
+LYMPHOCYTES 41 H % 20 - 40
+MONOCYTES 07 % 02 - 10
+EOSINOPHILS 01 % 01 - 06
+BASOPHILS 00 % < 2
+R.B.C 3.1 L mill/cumm 4.5 - 5.5
+PCV 30 L % 40 - 50
+MCV 97 f 80 - 100
+MCH 30 picogram 27 - 32
+MCHC 31 L g/dl 32 - 36
+PLATELET COUNT 1.55 lacs/cumm 1.5 - 4.5
+
+### Interpretation
+### Key Findings
+- Hemoglobin (HB): 9.7 g/dl (Low; reference 12 - 16 g/dl)
+- Total Leukocyte Count (TLC): 3700 cu mm (Low; reference 4000 - 11000 cu mm)
+- Neutrophils: 51% (Normal; reference 40 - 80%)
+- Lymphocytes: 41% (High; reference 20 - 40%)
+- Monocytes: 7% (Normal; reference 2 - 10%)
+- Eosinophils: 1% (Normal; reference 1 - 6%)
+- Basophils: 0% (Normal; reference <2%)
+- Red Blood Cells (RBC): 3.1 million/cu mm (Low; reference 4.5 - 5.5 million/cu mm)
+- Packed Cell Volume (PCV): 30% (Low; reference 40 - 50%)
+- Mean Corpuscular Volume (MCV): 97 fL (Normal; reference 80 - 100 fL)
+- Mean Corpuscular Hemoglobin (MCH): 30 pg (Normal; reference 27 - 32 pg)
+- Mean Corpuscular Hemoglobin Concentration (MCHC): 31 g/dl (Low; reference 32 - 36 g/dl)
+- Platelet Count: 155,000/cu mm (Low-normal; reference 150,000 - 450,000/cu mm)
+
+### Summary
+The patient shows signs of mild anemia characterized by low hemoglobin, RBC count, PCV, and MCHC. The anemia appears normocytic normochromic given MCV and MCH within normal range. Total leukocyte count is slightly decreased with a relative lymphocytosis. Platelet count is at the lower limit of normal. Other white blood cell differentials fall within normal ranges.
+
+### Clinical Notes
+- The low hemoglobin and RBC indices suggest anemia, potentially of chronic disease or mild nutritional deficiency.
+- Lymphocytosis with low total leukocyte count may suggest a viral infection or immune response.
+- Mild thrombocytopenia or borderline platelet count may warrant monitoring.
+- Further clinical correlation and possibly iron studies, vitamin B12, folate, and reticulocyte count may be useful to determine anemia cause.
+- Consider evaluation for bone marrow function if clinically indicated.
+
+### Model Confidence (0-100%)
+95%

@@ -1,0 +1,49 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+CAST PATHOLOGIAL,0.0,/HPF,0-0.3
+NON SQUAMOUS EPITHELIAL CELLS,0.0,/HPF,0-0.5
+SQUAMOUS EPITHELIAL CELLS,0.0,/HPF,0-1.1
+YEAST,0.0,/HPF,0-0.7
+BACTERIA,10.7,/HPF,0-29.5
+BACTERIA COCCI,10.7,/HPF,0-29.5
+BACTERIA RODS,0.0,/HPF,0-29.5
+MUCUS,0.5,/HPF,0-60
+COLOUR,Yellow,N/A,N/A
+APPEARANCE,Clear,N/A,N/A
+HAEMOGLOBIN,11.9,g/dL,11.5-15.5
+HAEMATOCRIT,34,%,46-51
+TOTAL WBC COUNT,5830,cells/cu mm,4000-10000
+RBC COUNT,3.94,million/cu mm,3.8-4.8
+MCV,87,fL,83-101
+MCH,30,pg,27-32
+MCHC,35,g/dL,31.5-34.5
+
+### Interpretation
+### Key Findings
+- HAEMATOCRIT is low at 34% (Reference Range: 46-51%).
+- MCHC is high at 35 g/dL (Reference Range: 31.5-34.5 g/dL).
+
+### Summary
+The report indicates two values outside their respective reference ranges: HAEMATOCRIT is low, and MCHC is high. All other measured parameters, including CAST PATHOLOGIAL, NON SQUAMOUS EPITHELIAL CELLS, SQUAMOUS EPITHELIAL CELLS, YEAST, BACTERIA, BACTERIA COCCI, BACTERIA RODS, MUCUS, HAEMOGLOBIN, TOTAL WBC COUNT, RBC COUNT, MCV, and MCH, are within their normal reference ranges. The COLOUR is Yellow and APPEARANCE is Clear.
+
+### Clinical Notes
+- CAST PATHOLOGIAL: 0.0 /HPF (Reference: 0-0.3) - Normal
+- NON SQUAMOUS EPITHELIAL CELLS: 0.0 /HPF (Reference: 0-0.5) - Normal
+- SQUAMOUS EPITHELIAL CELLS: 0.0 /HPF (Reference: 0-1.1) - Normal
+- YEAST: 0.0 /HPF (Reference: 0-0.7) - Normal
+- BACTERIA: 10.7 /HPF (Reference: 0-29.5) - Normal
+- BACTERIA COCCI: 10.7 /HPF (Reference: 0-29.5) - Normal
+- BACTERIA RODS: 0.0 /HPF (Reference: 0-29.5) - Normal
+- MUCUS: 0.5 /HPF (Reference: 0-60) - Normal
+- COLOUR: Yellow (N/A)
+- APPEARANCE: Clear (N/A)
+- HAEMOGLOBIN: 11.9 g/dL (Reference: 11.5-15.5) - Normal
+- HAEMATOCRIT: 34 % (Reference: 46-51) - Low
+- TOTAL WBC COUNT: 5830 cells/cu mm (Reference: 4000-10000) - Normal
+- RBC COUNT: 3.94 million/cu mm (Reference: 3.8-4.8) - Normal
+- MCV: 87 fL (Reference: 83-101) - Normal
+- MCH: 30 pg (Reference: 27-32) - Normal
+- MCHC: 35 g/dL (Reference: 31.5-34.5) - High
+
+### Model Confidence (0-100%)
+100%

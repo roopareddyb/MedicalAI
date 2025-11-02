@@ -1,0 +1,36 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HAEMOGLOBIN,12.6,g/dL,12-15
+WBC COUNT,9050,/cumm,4000-10500
+PLATELET COUNT,1.41,L lac/cumm,1.5-4.1
+RBC COUNT,4.52,million/cumm,3.8-4.8
+HCT,39.0,%,36-46
+MCV,86.4,fL,83-101
+MCH,28.0,pg,27-32
+MCHC,32.4,g/dL,31.5-34.5
+CHCM,33.6,g/dL,29-34
+CH,28.9,pg,24-35
+RDW-CV,14.9,%,11.6-14
+HDW,2.55,g/dL,2.2-3.2
+MPV,8.0,fL,8-12
+NEUTROPHILLS,79.9,%,40-80
+LYMPHOCYTES,11.2,%,20-40
+EOSINOPHILLS,2.2,%,0-6
+MONOCYTES,4.9,%,2-10
+BASOPHILLS,0.2,%,0-2
+LUC,1.7,%,0-3
+
+### Interpretation
+### Key Findings
+-   **PLATELET COUNT**: 1.41 L lac/cumm (Reference Range: 1.5-4.1) - Low
+-   **RDW-CV**: 14.9 % (Reference Range: 11.6-14) - High
+-   **LYMPHOCYTES**: 11.2 % (Reference Range: 20-40) - Low
+
+### Summary
+The report indicates a low platelet count (1.41 L lac/cumm), an elevated RDW-CV (14.9%), and a low lymphocyte percentage (11.2%). All other measured parameters, including Haemoglobin, WBC Count, RBC Count, HCT, MCV, MCH, MCHC, CHCM, CH, HDW, MPV, Neutrophills, Eosinophills, Monocytes, Basophills, and LUC, are within their respective reference ranges.
+
+### Clinical Notes
+The platelet count is below the lower limit of the reference range. The RDW-CV is above the upper limit of the reference range. The lymphocyte percentage is below the lower limit of the reference range.
+
+### Model Confidence (0-100%)
+100%

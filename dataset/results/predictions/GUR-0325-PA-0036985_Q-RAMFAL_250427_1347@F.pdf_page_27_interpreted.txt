@@ -1,0 +1,24 @@
+### Extracted Table
+Test Name	Result	Unit	Reference Range
+CHOLESTEROL	275.06	mg/dL	140--240
+HDL CHOLESTEROL	49.21	mg/dL	30--75
+LDL CHOLESTEROL	195.776	mg/dL	50--130
+VLDL CHOLESTEROL	30.074	mg/dL	15--40
+SERUM TRIGLYCERIDE	170.37	mg/dL	25--160
+CHOLESTROL / HDL RATIO	5.58	N/A	0--3.5
+
+### Interpretation
+### Key Findings
+- CHOLESTEROL: 275.06 mg/dL (Reference Range: 140-240 mg/dL) - Elevated
+- LDL CHOLESTEROL: 195.776 mg/dL (Reference Range: 50-130 mg/dL) - Elevated
+- SERUM TRIGLYCERIDE: 170.37 mg/dL (Reference Range: 25-160 mg/dL) - Elevated
+- CHOLESTROL / HDL RATIO: 5.58 (Reference Range: 0-3.5) - Elevated
+
+### Summary
+The lipid panel indicates elevated levels for CHOLESTEROL, LDL CHOLESTEROL, SERUM TRIGLYCERIDE, and CHOLESTROL / HDL RATIO. HDL CHOLESTEROL and VLDL CHOLESTEROL are within their respective reference ranges.
+
+### Clinical Notes
+Based on the extracted table, the patient's CHOLESTEROL (275.06 mg/dL), LDL CHOLESTEROL (195.776 mg/dL), SERUM TRIGLYCERIDE (170.37 mg/dL), and CHOLESTROL / HDL RATIO (5.58) are above the specified reference ranges. HDL CHOLESTEROL (49.21 mg/dL) and VLDL CHOLESTEROL (30.074 mg/dL) are within their normal reference ranges.
+
+### Model Confidence (0-100%)
+100%

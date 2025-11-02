@@ -1,0 +1,11 @@
+### Key Findings
+-   URINE FOR PREGNANCY test result is NEGATIVE.
+
+### Summary
+The urine pregnancy test performed yielded a negative result.
+
+### Clinical Notes
+The test name is URINE FOR PREGNANCY, and the result is NEGATIVE. No specific unit or reference range was provided for this test.
+
+### Model Confidence (0-100%)
+100%

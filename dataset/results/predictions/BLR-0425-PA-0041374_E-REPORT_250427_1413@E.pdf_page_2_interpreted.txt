@@ -1,0 +1,35 @@
+### Extracted Table
+Test Name,Result,Unit,Reference Range
+HB,11.3,g/dL,13.0-17.0
+TLC,16.3,10^3/cumm,4.0-11.0
+DLC,N/A,N/A,N/A
+NEUTROPHILS,74,%,45-70
+LYMPHOCYTE,16,%,20-40
+MONOCYTE,06,%,2-10
+EOSINOPHIL,04,%,1-6
+BASOPHIL,00,%,0-1
+PLATELET COUNT,201,10^3/cumm,150-450
+RBC COUNT,4.1,million cells/cumm,4.0-5.5
+HCT,34,%,40-50
+MCV,83.2,fL,82-102
+MCH,27.5,picogram,27-33
+MCHC,33.1,g/dL,31.5-34.5
+RDW,15.1,%,11.5-14.5
+
+### Interpretation
+### Key Findings
+-   **HB:** 11.3 g/dL (Reference Range: 13.0-17.0 g/dL) - Low
+-   **TLC:** 16.3 10^3/cumm (Reference Range: 4.0-11.0 10^3/cumm) - High
+-   **NEUTROPHILS:** 74 % (Reference Range: 45-70 %) - High
+-   **LYMPHOCYTE:** 16 % (Reference Range: 20-40 %) - Low
+-   **HCT:** 34 % (Reference Range: 40-50 %) - Low
+-   **RDW:** 15.1 % (Reference Range: 11.5-14.5 %) - High
+
+### Summary
+The report indicates several abnormal findings. Hemoglobin (HB) and Hematocrit (HCT) are below the reference range, suggesting anemia. Red Cell Distribution Width (RDW) is elevated. The Total Leukocyte Count (TLC) is above the reference range, primarily driven by an elevated percentage of Neutrophils, while Lymphocytes are below the reference range. Other parameters like Monocyte, Eosinophil, Basophil, Platelet Count, RBC Count, MCV, MCH, and MCHC are within their respective reference ranges. The DLC value is not available.
+
+### Clinical Notes
+The observed low HB and HCT, coupled with an elevated RDW, are consistent with an anemic state. The elevated TLC, neutrophilia, and lymphopenia suggest a possible inflammatory or infectious process. Further clinical correlation and investigation may be warranted to determine the underlying causes of these abnormalities.
+
+### Model Confidence (0-100%)
+100%

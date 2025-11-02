@@ -1,0 +1,48 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+Haemoglobin 12.1 gm% M: 13-18 F: 11.5-16.5
+Total Leucocyte Count 19800 /cu mm 4000-11000
+Polymorphs 93 % 45-75
+Lymphocytes 05 % 25-45
+Monocytes 01 % 0-7
+Eosinophils 01 % 0-4
+Basophils 00 % 0-1
+RBC 4.27 millions/cmm 4.5-6.5
+PCV 33.4 % 37-47
+MCV 87.2 fl 82-92
+MCH 29.6 pg 28-32
+MCHC 33.2 gm% 32-37
+Platelet Count 3.21 lac/cmm 1.5-4.5
+R.D.W 41.8 fl 39-46
+S. Sodium 133.9 meq/l 135-155
+S. Potassium 3.44 meq/l 3.5-5.5
+S. Calcium 8.81 mg/dl 8.4-10.4
+B. Sugar (R) 102.3 mg/dl 80-140
+C. Reactive Protein 21.9 mg/L Less than 6.0
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 12.1 gm% (slightly low for males, normal for females)
+- Total Leucocyte Count: 19,800 /cu mm (markedly elevated; normal 4,000-11,000)
+- Polymorphs: 93% (high; normal 45-75%)
+- Lymphocytes: 5% (low; normal 25-45%)
+- RBC count: 4.27 million/cmm (slightly low; normal 4.5-6.5)
+- PCV (Packed Cell Volume): 33.4% (low; normal 37-47%)
+- Serum Sodium: 133.9 meq/l (slightly low; normal 135-155)
+- Serum Potassium: 3.44 meq/l (slightly low; normal 3.5-5.5)
+- C-Reactive Protein (CRP): 21.9 mg/L (significantly elevated; normal <6.0)
+
+Other parameters including MCV, MCH, MCHC, Platelet Count, RDW, Serum Calcium, and Blood Sugar within normal limits.
+
+### Summary
+The lab report indicates leukocytosis with neutrophilia (high total leucocyte count and polymorphs), suggestive of an acute bacterial infection or inflammation. The elevated CRP supports the presence of an inflammatory or infectious process. Mild anemia is noted with low hemoglobin, RBC count, and packed cell volume. Electrolytes show slight hyponatremia and hypokalemia. Other hematological indices and platelet count are within normal range. Blood sugar is normal.
+
+### Clinical Notes
+- The leukocytosis with neutrophilia and elevated CRP is consistent with an ongoing acute bacterial infection or severe inflammatory response.
+- Mild anemia may be due to the inflammatory process or other underlying causes; clinical correlation is advised.
+- Electrolyte imbalances are minimal but should be monitored.
+- Further clinical evaluation including history and physical examination is recommended to identify the source of infection or inflammation.
+- Repeat CBC and CRP levels may be useful to monitor response to treatment.
+
+### Model Confidence (0-100%)
+95%

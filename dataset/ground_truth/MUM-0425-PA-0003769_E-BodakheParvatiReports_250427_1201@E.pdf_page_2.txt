@@ -1,0 +1,49 @@
+### Extracted Table
+Test Name Result Unit Reference Range
+HAEMOGLOBIN 12.6 gm/dl 12 - 15
+WBC COUNT 9050 /cumm 4000 - 10500
+PLATELET COUNT 1.41 lac/cumm 1.5 - 4.1
+RBC COUNT 4.52 million/cumm 3.8 - 4.8
+HCT 39.0 % 36 - 46
+MCV 86.4 fL 83 - 101
+MCH 28.0 pg 27 - 32
+MCHC 32.4 gm/dl 31.5 - 34.5
+CHCM 33.6 gm/dl 29 - 34
+CH 28.9 pg 24 - 35
+RDW-CV 14.9 % 11.6 - 14
+HDW 2.55 gm/dl 2.2 - 3.2
+MPV 8.0 fL 8 - 12
+NEUTROPHILLS 79.9 % 40 - 80
+LYMPHOCYTES 11.2 % 20 - 40
+EOSINOPHILLS 2.2 % 0 - 6
+MONOCYTES 4.9 % 2 - 10
+BASOPHILLS 0.2 % 0 - 2
+LUC 1.7 % 0 - 3
+
+### Interpretation
+### Key Findings
+- Haemoglobin: 12.6 gm/dl (within normal range: 12 - 15)
+- WBC Count: 9050 /cumm (within normal range: 4000 - 10500)
+- Platelet Count: 1.41 lac/cumm (slightly below normal range: 1.5 - 4.1)
+- RBC Count: 4.52 million/cumm (within normal range: 3.8 - 4.8)
+- Hematocrit (HCT): 39.0% (within normal range: 36 - 46)
+- MCV: 86.4 fL (within normal range: 83 - 101)
+- MCH: 28.0 pg (within normal range: 27 - 32)
+- MCHC: 32.4 gm/dl (within normal range: 31.5 - 34.5)
+- RDW-CV: 14.9% (slightly above normal range: 11.6 - 14)
+- MPV: 8.0 fL (at lower limit of normal: 8 - 12)
+- Neutrophils: 79.9% (upper limit of normal: 40 - 80)
+- Lymphocytes: 11.2% (below normal range: 20 - 40)
+- Eosinophils, Monocytes, Basophils, LUC: all within normal limits
+
+### Summary
+The complete blood count shows largely normal hemoglobin, WBC, and RBC indices. The platelet count is slightly below the normal reference range, which may warrant clinical correlation for bleeding risk or marrow function. The RDW-CV is mildly elevated, indicating some variability in red blood cell size. Neutrophil percentage is at the high end of normal, with lymphocytes decreased, which might reflect a current or recent infection or stress response.
+
+### Clinical Notes
+- Mild thrombocytopenia (low platelet count) may need monitoring or further evaluation depending on clinical context.
+- Elevated RDW could suggest early anisocytosis; combined with normal MCV, this finding might precede development of anemia or can be seen in recovery phases of anemia.
+- The neutrophilia with lymphopenia pattern is common in acute bacterial infections or inflammatory states; correlation with symptoms is recommended.
+- Overall, no signs of anemia or leukocytosis; platelet status should be interpreted with clinical findings.
+
+### Model Confidence (0-100%)
+95%

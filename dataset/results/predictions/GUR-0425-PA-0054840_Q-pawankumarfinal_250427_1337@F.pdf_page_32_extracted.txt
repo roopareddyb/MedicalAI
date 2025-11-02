@@ -1,0 +1,54 @@
+### Extracted Table
+Test Name, Result, Unit, Reference Range
+HAEMOGLOBIN,10.0,g/dL,13.0-18.0
+TOTAL LEUCOCYTE COUNT,17200,/uL,4000-11000
+Neutrophils,88,%,45-75
+Lymphocytes,08,%,20-45
+Eosinophils,02,%,01-06
+Monocytes,02,%,02-08
+Basophils,00,%,00-02
+E.S.R. (Westergren Method) -in First hour,70,mm,0-15
+PLATELET COUNT,2.20,Lakh/cumm,1.5-4.0
+TOTAL R.B.C. COUNT,3.15,Million/Cu mm,4.2-5.4
+P.C.V./ Haematocrit Value,29.8,%,36-48
+MCV,94.60,fL,77-93
+MCH,31.75,pg,27-32
+MCHC,33.56,g/dL,32-36
+C.R.P. (Quantitative),62,mg/dL,< 6.0 mg/dL
+SERUM BILIRUBIN TOTAL,1.5,mg/dL,0.2-1.2
+SERUM BILIRUBIN DIRECT,0.5,mg/dL,up to 0.2
+SERUM BILIRUBIN INDIRECT,1,mg/dL,0.2-0.6
+S.G.O.T.,162,U/L,0-45
+S.G.P.T.,168,U/L,0-49
+SERUM ALKALINE PHOSPHATASE,145,IU/L,100-250
+TOTAL PROTEINS,5.5,g/dL,6.0-8.3
+ALBUMIN,2.6,g/dL,3.2-5.0
+GLOBULIN,2.9,N/A,N/A
+
+### Interpretation
+### Key Findings
+-   **HAEMOGLOBIN**: 10.0 g/dL (Low, Reference: 13.0-18.0 g/dL)
+-   **TOTAL LEUCOCYTE COUNT**: 17200 /uL (High, Reference: 4000-11000 /uL)
+-   **Neutrophils**: 88 % (High, Reference: 45-75 %)
+-   **Lymphocytes**: 08 % (Low, Reference: 20-45 %)
+-   **E.S.R. (Westergren Method) -in First hour**: 70 mm (High, Reference: 0-15 mm)
+-   **TOTAL R.B.C. COUNT**: 3.15 Million/Cu mm (Low, Reference: 4.2-5.4 Million/Cu mm)
+-   **P.C.V./ Haematocrit Value**: 29.8 % (Low, Reference: 36-48 %)
+-   **MCV**: 94.60 fL (High, Reference: 77-93 fL)
+-   **C.R.P. (Quantitative)**: 62 mg/dL (High, Reference: < 6.0 mg/dL)
+-   **SERUM BILIRUBIN TOTAL**: 1.5 mg/dL (High, Reference: 0.2-1.2 mg/dL)
+-   **SERUM BILIRUBIN DIRECT**: 0.5 mg/dL (High, Reference: up to 0.2 mg/dL)
+-   **SERUM BILIRUBIN INDIRECT**: 1 mg/dL (High, Reference: 0.2-0.6 mg/dL)
+-   **S.G.O.T.**: 162 U/L (High, Reference: 0-45 U/L)
+-   **S.G.P.T.**: 168 U/L (High, Reference: 0-49 U/L)
+-   **TOTAL PROTEINS**: 5.5 g/dL (Low, Reference: 6.0-8.3 g/dL)
+-   **ALBUMIN**: 2.6 g/dL (Low, Reference: 3.2-5.0 g/dL)
+
+### Summary
+The report indicates several significant abnormalities. There is evidence of anemia (low Haemoglobin, Total R.B.C. Count, P.C.V./Haematocrit Value) with an elevated MCV. The Total Leucocyte Count is high, primarily due to elevated Neutrophils, while Lymphocytes are low. Inflammatory markers, E.S.R. and C.R.P., are markedly elevated. Liver function tests show elevated S.G.O.T. and S.G.P.T., along with elevated Total, Direct, and Indirect Serum Bilirubin. Additionally, Total Proteins and Albumin levels are low.
+
+### Clinical Notes
+This interpretation is based solely on the provided laboratory values and their respective reference ranges. No clinical context, patient history, or physical examination findings were available for a comprehensive medical assessment.
+
+### Model Confidence (0-100%)
+100%

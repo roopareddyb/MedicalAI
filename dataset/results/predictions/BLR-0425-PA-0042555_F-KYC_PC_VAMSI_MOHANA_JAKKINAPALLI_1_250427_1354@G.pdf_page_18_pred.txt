@@ -1,0 +1,16 @@
+### Key Findings
+- Urine appearance is slightly turbid.
+- Red Blood Cells are NIL in urine, while the reference range is 1-2.
+- Epithelial Cells in urine are 1-2/hpf, which is lower than the reference range of 2-4/hpf.
+- Hyaline casts are present in urine, whereas the reference indicates NIL.
+- Mean Corpuscular Volume (MCV) is slightly low at 82.6 fl (reference range: 83.0-101.0 fl).
+- Mean Corpuscular Hemoglobin Concentration (MCHC) is slightly high at 35.2 g/dl (reference range: 31.5-34.5 g/dl).
+
+### Summary
+The urine analysis shows a slightly turbid appearance and the presence of hyaline casts, which are not expected. Additionally, urine Red Blood Cells and Epithelial Cells are lower than their respective reference ranges. Hematology results indicate a slightly low MCV and a slightly high MCHC, while other complete blood count parameters are within normal limits. Renal function, as indicated by serum creatinine and eGFR, is within the normal range.
+
+### Clinical Notes
+The presence of hyaline casts in the urine, along with a slightly turbid appearance, is noted. The absence of Red Blood Cells and lower-than-expected Epithelial Cells in urine are also observed. The complete blood count shows minor deviations with a slightly low MCV (82.6 fl) and slightly high MCHC (35.2 g/dl), although hemoglobin and RBC count are within their normal limits. All other tested parameters, including WBC count, platelet count, and differential counts, are within their respective reference ranges. Kidney function tests (serum creatinine and eGFR) are normal.
+
+### Model Confidence (0-100%)
+100%
